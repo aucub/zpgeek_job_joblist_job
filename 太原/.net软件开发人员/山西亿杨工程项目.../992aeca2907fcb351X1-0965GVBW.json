@@ -1,0 +1,60 @@
+{
+    "securityId": "xpKgz5NIrPgGz-k1T3JOOXzIXIPgRkrO3A0mEJAfICYZZFMNmk3kkk5Xdu4UfIlJHeri95Rhi1pc-56ymZ9SQPbu7A-JMNL81_9zJMBR_yN2LY5rXmIi",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd0487c4dc5cd82605aced18dee71716abeeb19f7ecb2ad684d8bf6caa0ec425bfd_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "60e04015e357ee2d1nR439u8F1tU",
+    "bossName": "杨女士",
+    "bossTitle": "销售主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "992aeca2907fcb351X1-0965GVBW",
+    "expectId": 0,
+    "jobName": ".net软件开发人员",
+    "lid": "5NDYC0Uxgkt.search.187",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        ".NET",
+        "Java",
+        "HTML"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "太原",
+    "areaDistrict": "小店区",
+    "businessDistrict": "体育路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 187,
+    "city": 101100100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.568717,
+        "latitude": 37.800742
+    },
+    "encryptBrandId": "e9a2a8b739d9bf3d1nN42di_FFs~",
+    "brandName": "山西亿杨工程项目...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "N7FUb0IydQxoG-31GYre4XD3ur_-Twj4kI2-LoAmGSTykHnKKb9R1t9PQphck2Zqu7Ivo2HnYg8y0wq9XS0NRSEUq0IXTdr_0xc8t3Nc9WnFjN5US6B1",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_8.png",
+    "bossCert": 3,
+    "encryptBossId": "b1a0c4af10407b410nF93tu5FVZS",
+    "bossName": "周先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d9c72182addf11df1XNy39S1E1JQ",
+    "expectId": 0,
+    "jobName": "高级软件开发工程师",
+    "lid": "2wsliheLcbm.search.211",
+    "salaryDesc": "8-13K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C#",
+        "地面站软件开发",
+        "C#开发经验",
+        ".NET开发经验",
+        "系统架构设计经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 211,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.816383,
+        "latitude": 28.237181
+    },
+    "encryptBrandId": "10b2a19f8fca17ea1XZ93N29ElE~",
+    "brandName": "爱瑛智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230401/7b5b554d84f9729cf556baceedad005f2744d85e1527d4148b721372a361d43874f4c27316647794.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "绩效奖金",
+        "年终奖"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

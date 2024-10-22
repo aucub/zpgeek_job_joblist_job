@@ -1,0 +1,62 @@
+{
+    "securityId": "qLieduZOo0Cuz-m1-SROzQgOa4HWIFeNlONY_TdAv1kfHyXVRR3iJxwOp7zaOKIm7FdA8-N6RFuj7LHaIe1-OMfWFJV3PVUB8BzQtXKpjoiB1fUfyw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190730/60f9e6972d8b19573c4279628a3574a74714946db0d330d1525446eeec05cbf5_s.png",
+    "bossCert": 3,
+    "encryptBossId": "56a1356b318170180XN82dm4Els~",
+    "bossName": "唐女士",
+    "bossTitle": "行政经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "467abc60afda8bcc1nd709u_EVpR",
+    "expectId": 0,
+    "jobName": "软件项目实施",
+    "lid": "5EOXKpGfS3x.search.104",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ERP",
+        "售后支持",
+        "管理系统",
+        "信息化",
+        "服务器配置"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "龙华区",
+    "businessDistrict": "观澜",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 104,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.099872,
+        "latitude": 22.728
+    },
+    "encryptBrandId": "b24e8445f36ba8d80nZ939W-EA~~",
+    "brandName": "凯德佳",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190809/cc8a23b441c76fc354bcc9e4615b7ab54714946db0d330d1525446eeec05cbf5.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "tPmLqU4MJSKvE-j1NqZ5QrwGcL9t-_0gvZpmqQKLVLc8Ol2n866t01ebsdPrfi9Ra6OuaKEmo27k2HMDYvtWras4qMSb1P6QM-Rv3McZ1UuaqiHBl3k~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190924/999d796f949edf4eecfc0fbf451a93bc6fafeed50009a7e9b193dc6a3069c666_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "d4afcbd2f3bcd7141nZ52du9EVQ~",
+    "bossName": "张先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d89640aed92219211HNy2961GFNS",
+    "expectId": 0,
+    "jobName": "短视频剪辑",
+    "lid": "30FKWOEtjfm.search.249",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "短视频",
+        "剪辑",
+        "特效",
+        "接受兼职"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴江区",
+    "businessDistrict": "松陵",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 249,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.595969,
+        "latitude": 31.131723
+    },
+    "encryptBrandId": "a749e4a93e96f1e31HJ72t67EFY~",
+    "brandName": "三只考拉",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "进出口贸易",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101012,
+    "contact": false,
+    "showTopPosition": false
+}

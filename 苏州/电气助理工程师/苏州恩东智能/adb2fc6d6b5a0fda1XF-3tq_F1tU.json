@@ -1,0 +1,61 @@
+{
+    "securityId": "lXMz7aeoynxH_-w1PcGX9iR-2cMdHZIQtWEHhf32k1divyD6TU-Km-o1gFAYPDKyImIXJ_bXXR3-VzJv3PesEnKYHztqglAkZntodj4ntF1rzh3jXNtScChnIXvS2w_8DfNdoz_JxV9s-cTJg1BFEMSs",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "8f0fab409e2cb54e0nJ_0tu1F1RT",
+    "bossName": "杨先生",
+    "bossTitle": "运营部经理",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "adb2fc6d6b5a0fda1XF-3tq_F1tU",
+    "expectId": 0,
+    "jobName": "电气助理工程师",
+    "lid": "2Z61gfDqQ8S.search.254",
+    "salaryDesc": "4-6K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "PLC工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "昆山市",
+    "businessDistrict": "开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 254,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.053278,
+        "latitude": 31.386341
+    },
+    "encryptBrandId": "7efa7c27f988f6061Xdy2N29GVU~",
+    "brandName": "苏州恩东智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240723/7bf6f160950405e9e5a9cd7f2bb8f14dc2f6e8be2364492ca8fcf268771c4dbd116ee58af5a1374e.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "自动化设备",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "餐补",
+        "团建聚餐",
+        "交通补助"
+    ],
+    "industry": 100914,
+    "contact": false,
+    "showTopPosition": false
+}

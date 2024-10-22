@@ -1,0 +1,61 @@
+{
+    "securityId": "mKAdm9H8ngQiB-r1ST6oLvutrALUvf5eICJBMqDXOTRiOEvwbXjKblMeZsom0rDmmuu1rYaGQKSEnyxj5BQs08Gy7juZSZjR9odE71Qmbt8rzCxB",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "encryptBossId": "3d47c0d6b941aa343nx_2tu-GFA~",
+    "bossName": "林先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "36cb23f104addd5e3nB-2dW4FlE~",
+    "expectId": 0,
+    "jobName": "实施运维",
+    "lid": "5FoKJ9LFJ1Z.search.18",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运维",
+        "运维工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "重庆",
+    "areaDistrict": "九龙坡区",
+    "businessDistrict": "石桥铺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 18,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.370046,
+        "latitude": 29.607288
+    },
+    "encryptBrandId": "48cbb41f73a3d4030HB92du_Fw~~",
+    "brandName": "立平物联网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200426/6766ff7376249fc9f04c6df7fdb57e2c7c4b2ebb8301772180da9beed02beb04_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "交通补助",
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

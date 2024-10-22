@@ -1,0 +1,60 @@
+{
+    "securityId": "ZL1RXYYs2B02b-z1R76v332NTP3ecvUqJvgShY2LYpiKXhd-OVK8eUG3eSsYZcyvRhgOKx7SqrsGoZdD0x-TSQbu3HgbUajHqXB3GS9HF_F19HuRq7jq",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "a09eb2a24e600a790nB72tm-GFFZ",
+    "bossName": "陈女士",
+    "bossTitle": "招标专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "28afe55071e490461XJ_0tu4F1FX",
+    "expectId": 0,
+    "jobName": "招标代理专员",
+    "lid": "1eoboHqPOB1.search.155",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "招标代理",
+        "政府采购",
+        "招标投标法"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "黄陂区",
+    "businessDistrict": "黄陂广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 155,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.369334,
+        "latitude": 30.879589
+    },
+    "encryptBrandId": "cdadcc3315fefa211nJ-2dm4ElU~",
+    "brandName": "武汉民庥",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "咨询",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "包吃"
+    ],
+    "industry": 100601,
+    "contact": false,
+    "showTopPosition": false
+}

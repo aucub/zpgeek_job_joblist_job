@@ -1,0 +1,61 @@
+{
+    "securityId": "BjjBFKsJSbXUu-31T926M9CBJmKfMoBD9nfj4thMy0aRSejG6rqPq3kOr-4d64VtF5M_mawQSVake_Iva3sIzF0jGL8pLkLroEx7LCFslHx4Kml5KDQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190617/ca3312cd85f93eba0d309f2846418000229a2cc478a5a90d39ec146c8c099140_s.png",
+    "bossCert": 3,
+    "encryptBossId": "668384a2599ae97f0XFz3ti5EFI~",
+    "bossName": "林女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cc1663213a05d3621nN-29u6EFNX",
+    "expectId": 0,
+    "jobName": "注塑工程师",
+    "lid": "29Y5Y7NLXXP.search.97",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "五险"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴江区",
+    "businessDistrict": "松陵",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 97,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.675472,
+        "latitude": 31.179912
+    },
+    "encryptBrandId": "67c048264d10ab1d1nN92tS5E1Q~",
+    "brandName": "龙九电子科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210618/65a258173056ffb14f95a59af28028e9229a2cc478a5a90d39ec146c8c099140.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "年终奖",
+        "餐补"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

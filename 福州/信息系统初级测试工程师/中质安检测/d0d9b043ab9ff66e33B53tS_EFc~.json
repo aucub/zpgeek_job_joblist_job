@@ -1,0 +1,59 @@
+{
+    "securityId": "6WyWOocbWFfei-u1laLhgExwS9YssnDod4s2NR3GKr3lou9xH81IgI_Mh4loe4pjgKudoJVoJ0h8XZp6K9EXnpGuLRUb1oH6E0ziDdNKduuK1Hpp9GeIkKN-WZsxYFdVLEGo7Qxy5D0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220331/607f1f3d68754fd085fba12cbd36626c54c42b46ead25cce73eeb0ebfd5f46bf074d95a9b7897939_s.png",
+    "bossCert": 3,
+    "encryptBossId": "0dfcd2c873696f3a0nV439W5ElM~",
+    "bossName": "谢娟",
+    "bossTitle": "人事总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d0d9b043ab9ff66e33B53tS_EFc~",
+    "expectId": 1030426395,
+    "jobName": "信息系统初级测试工程师",
+    "lid": "3mMYEjqZp7X.search.202",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试工程师"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "福州",
+    "areaDistrict": "台江区",
+    "businessDistrict": "上海",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 202,
+    "city": 101230100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.281687,
+        "latitude": 26.066058
+    },
+    "encryptBrandId": "41f37a9786306ada1HZ93dq4Ew~~",
+    "brandName": "中质安检测",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "补充医疗保险",
+        "全勤奖"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

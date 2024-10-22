@@ -1,0 +1,62 @@
+{
+    "securityId": "nl_gkxbukyDGD-41rOZqhXLaCVmW-dOIUdQn0WS15EFp5MCri4m4iu7wxp0LWLjXOlYcQ5U7121nP_2viL-iR6f2BY1NHe3rFdNcm4C6TUV_ol8~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "f2b8e7e15830d43c03x62t-7FVY~",
+    "bossName": "陈先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9f4f1856b16533250nV929m5F1Y~",
+    "expectId": 0,
+    "jobName": "财务软件运维",
+    "lid": "2Df72LBkNYO.search.137",
+    "salaryDesc": "3-5K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件基本操作",
+        "office",
+        "会计实务基础"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "抚州",
+    "areaDistrict": "临川区",
+    "businessDistrict": "金巢大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 137,
+    "city": 101240400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.362441,
+        "latitude": 27.939017
+    },
+    "encryptBrandId": "75bdc4eed18671303nV-2du_",
+    "brandName": "火苗科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "带薪年假",
+        "员工旅游",
+        "交通补助"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

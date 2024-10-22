@@ -1,0 +1,61 @@
+{
+    "securityId": "4Ezdq0LmlHGbl-s1xJnMMhTUyryCCjF5J4RRioQ0ElXEBWmelH-kMgJyi2WZZCwk33KfnKfwNPqpx396MAFkeiHsxWUVargu1KTUKPa9GH5jUGU6gqgb8gqfvyU95IsgjyK917lNyz_YDwk~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "fa51c8f998a2d6140XV92ti9ElJQ",
+    "bossName": "肖先生",
+    "bossTitle": "技术人员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7d4669343589dd321HV_3di1F1VW",
+    "expectId": 1014042683,
+    "jobName": "软件测试工程师",
+    "lid": "5E4ZsFV9tCN.search.186",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "压力测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "衡阳",
+    "areaDistrict": "耒阳市",
+    "businessDistrict": "杜甫公园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 186,
+    "city": 101250400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.854419,
+        "latitude": 26.410074
+    },
+    "encryptBrandId": "54c0a849641b87011X1z3d-8EVo~",
+    "brandName": "耒阳市臻致装饰店",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "社交网络",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "零食下午茶",
+        "五险一金"
+    ],
+    "industry": 100013,
+    "contact": false,
+    "showTopPosition": false
+}

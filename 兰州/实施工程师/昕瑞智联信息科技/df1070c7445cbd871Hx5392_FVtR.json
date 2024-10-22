@@ -1,0 +1,60 @@
+{
+    "securityId": "spKdnFcfMavP6-t1tgKjAk2qIOnEDEXTvUiAvGhBHp2d9Zmb6YgVeN1wOot88AIgBn0758Ql-oqOgClW6Crnvwx_6hL5dej6n1oOKvQF83ev79e9B_234JdjCRhyH-wwZj2IQpFOwuRgaQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "f6500af7b0576b9b0Hxy0ti-E1U~",
+    "bossName": "宋女士",
+    "bossTitle": "人事HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "df1070c7445cbd871Hx5392_FVtR",
+    "expectId": 1014042683,
+    "jobName": "实施工程师",
+    "lid": "2WLlanEUmQW.search.273",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件实施经验",
+        "熟练掌握SQL语句",
+        "可适应出差"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "兰州",
+    "areaDistrict": "城关区",
+    "businessDistrict": "东方红广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 273,
+    "city": 101160100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.845782,
+        "latitude": 36.05288
+    },
+    "encryptBrandId": "b696372064d2ce9b1XJ539u5FVc~",
+    "brandName": "昕瑞智联信息科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

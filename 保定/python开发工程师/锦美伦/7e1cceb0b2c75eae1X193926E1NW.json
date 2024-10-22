@@ -1,0 +1,62 @@
+{
+    "securityId": "au4rj7DZRfpGu-h1mePxyWIi-17p9mDqwb6hypveHOoVTZn-iis4UL0NKsBU5yuoU_o8pUkcutURotiUF-8Mm4DQVIiMMZlgI40T5GdGWLgS5Wu8P9Q~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201020/a97bdaa5eba3bd0e0cbd0dac786aed98c0ed8542d3cb0d9bef202dd3eb2aca87_s.png",
+    "bossCert": 3,
+    "encryptBossId": "184894b4815dc0db0nR-3NS4EVRR",
+    "bossName": "祁女士",
+    "bossTitle": "人事助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7e1cceb0b2c75eae1X193926E1NW",
+    "expectId": 0,
+    "jobName": "python开发工程师",
+    "lid": "5NaImlpto7C.search.223",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端开发经验",
+        "Django/Flask",
+        "MySQL/Redis/MongoDB",
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "保定",
+    "areaDistrict": "竞秀区",
+    "businessDistrict": "保广",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 223,
+    "city": 101090200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.466331,
+        "latitude": 38.896023
+    },
+    "encryptBrandId": "3561bd6293fa119103R729W6GQ~~",
+    "brandName": "锦美伦",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190331/ecbf7bcabf21d0dba04e3d080597cb4ddb6327a1e21481ce2a08c0a62b890ebe.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "进出口贸易",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100504,
+    "contact": false,
+    "showTopPosition": false
+}

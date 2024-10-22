@@ -1,0 +1,59 @@
+{
+    "securityId": "83V5PywXDLmBH-71zLNf6wwW1Y9z3oyebpNnlZ4ZEo4VRl1nKYS2oxnaxSC6VKIpgM-iz7VUGFZ_3_8lJGro82X0yAvYkPI8xkqhvPZBd8v_dvRCvnOh",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240514/607f1f3d68754fd0ef104f8b60d2d08e3b8b173647e38f39d709ec21890b4c5e847141f5371b2dae_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "d4cb7573423fea740nR929S8E1ZZ",
+    "bossName": "陈先生",
+    "bossTitle": "招聘负责人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ad76c7a77fd55c8d1HN40tS9FlJT",
+    "expectId": 0,
+    "jobName": "实习生",
+    "lid": "30ChV8o9SkM.search.17",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "机器人"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "青羊区",
+    "businessDistrict": "黄田坝",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 17,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.954799,
+        "latitude": 30.684039
+    },
+    "encryptBrandId": "fec5ea6ae673f4ed1HJ82d-5EVo~",
+    "brandName": "智享科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "人工智能",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100028,
+    "contact": false,
+    "showTopPosition": false
+}

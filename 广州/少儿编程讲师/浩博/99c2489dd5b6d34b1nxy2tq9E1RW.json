@@ -1,0 +1,61 @@
+{
+    "securityId": "zKyRUBsqjEj2Q-S11MykJm2p6sX8p4-kJThsfVD6ahIvhyZInlsjKLIZt2IakVbMW7NOMm0414RiQZhkSyIi7qd5SsDHADmwjUMlzyTtqc5DYbs3",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180313/3958dc863779b7151478c3ef347283bacf7ee332a615a1e5a2d8100674644fdc_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "257d6f10f614ebea1nZz3dq_FlU~",
+    "bossName": "容女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "99c2489dd5b6d34b1nxy2tq9E1RW",
+    "expectId": 0,
+    "jobName": "少儿编程讲师",
+    "lid": "1jg281wBlnC.search.13",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "小学教育",
+        "线下授课",
+        "集体授课",
+        "全职兼职均可"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "棠下",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 13,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.376782,
+        "latitude": 23.132701
+    },
+    "encryptBrandId": "819cbf52659eb5d11HZy2Nm-",
+    "brandName": "浩博",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160921/4bf7b9d9864c014d7a00e8e0dc75fc6bf65bb132918fe67751f84295bf61b557.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

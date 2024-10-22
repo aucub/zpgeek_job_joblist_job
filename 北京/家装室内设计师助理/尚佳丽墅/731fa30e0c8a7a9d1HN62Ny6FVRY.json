@@ -1,0 +1,60 @@
+{
+    "securityId": "-jGs9IBdZxvFW-i1G8wxJuavVZncNrNfSUWscTOU6q2MRU_490rOLoZM89A-G88_pV9FsOMsc3TgxnJZWj8ayD-z1j-4Uj1Z7L4JpnPqVHtEWyzQd1xD",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200921/042f7ad33d74eef867df932f9d6097268e482e4af01c6942e2aade85fd20a18f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "e27acc9059e8753e0nR42ty4E1NW",
+    "bossName": "王女士",
+    "bossTitle": "助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "731fa30e0c8a7a9d1HN62Ny6FVRY",
+    "expectId": 0,
+    "jobName": "家装室内设计师助理",
+    "lid": "3wxCPpYMC19.search.96",
+    "salaryDesc": "2-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "室内设计",
+        "不接受居家办公"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "太阳宫",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 96,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.43614,
+        "latitude": 39.990751
+    },
+    "encryptBrandId": "788d8fd10802499b1Xx939-4EVc~",
+    "brandName": "尚佳丽墅",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "装修装饰",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "底薪加提成",
+        "保底工资"
+    ],
+    "industry": 100704,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "jgHsR0ep2CUYE-i15Ri6uhkkJyqeWzFNt3QPn3Mb3Qyx1knJFs-S7v7HgL83B5UGQAZsInq6YQ5Mv8YvlsC4V1zucb4m9Vwsb-PfhH87i4bNeb2FHedi",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240825/607f1f3d68754fd027f821a81fa3fa0bbfb91512ca5d6428105ad82fb0b67288b093c01cd996a632_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "79648e66e54c0fd60nF42Nm0F1JV",
+    "bossName": "徐先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0cd3aec114177a891Hdy29q6GVBQ",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "1hfZgCouT73.search.271",
+    "salaryDesc": "8-11K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络运维",
+        "通信相关专业",
+        "系统运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "西乡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 271,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.909093,
+        "latitude": 22.558145
+    },
+    "encryptBrandId": "8cc3cf3da7f0c4eb1Hd62N-_FlU~",
+    "brandName": "深圳鹏益通信息科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

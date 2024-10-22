@@ -1,0 +1,60 @@
+{
+    "securityId": "D0bla9iYALa7O-h1w1fM6OkHj0X4A_37xsm5_YaOe_A-e5r0cEatQMEnhQx4R3bW3f9nVUk3AQz-4vlsBPuCLAFdeZLViGE8e0OX8P2-PMa0gyVF-Q~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "69484aca29f9b27e0XR42N6_FlI~",
+    "bossName": "郭女士",
+    "bossTitle": "广州综合部",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c9fe06511452b6511Xx539W7EVRT",
+    "expectId": 0,
+    "jobName": "配网设计工程师",
+    "lid": "5EcUmXfBsmm.search.172",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "CAD",
+        "线路设计"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "黄石",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 172,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.262672,
+        "latitude": 23.201521
+    },
+    "encryptBrandId": "c6792d825eb58c371Xd_3Nu-EQ~~",
+    "brandName": "广州晟源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "社保"
+    ],
+    "industry": 101205,
+    "contact": false,
+    "showTopPosition": false
+}

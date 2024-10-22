@@ -1,0 +1,62 @@
+{
+    "securityId": "2Et8zwrTXSY1x-V1H6C3mBt6vF65sNi5Gn4c64CYcOJts1gpUTBUxrm0J4bmONWNvyMAMGny2u4CwjK6VALpKLp0oZ_dCXjbxpayRL00wzh9i9g-4Fow6L2myg0cXPyOrQ9qsegl1eM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190725/378b5b1e07e31feacfed032c41616aea9e06100eda9bd788b623bb380b4389ec_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ae3596a4793f23140HRy0t-_EVI~",
+    "bossName": "葛女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "01778ac60fc1d8a2331z3N--FFM~",
+    "expectId": 1030426395,
+    "jobName": "石嘴山运维工程师",
+    "lid": "LYtXdKZfi9.search.93",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运维工程师"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "石嘴山",
+    "areaDistrict": "大武口区",
+    "businessDistrict": "青山公园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 93,
+    "city": 101170200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.360416,
+        "latitude": 39.02499
+    },
+    "encryptBrandId": "d47302b8a2ec68230HN72tS9Fw~~",
+    "brandName": "欣光泰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221101/7bf6f160950405e92cddc131568a01e6e7db6e3769721ac09e06100eda9bd788b623bb380b4389ec.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "定期体检",
+        "五险一金",
+        "补充医疗保险"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

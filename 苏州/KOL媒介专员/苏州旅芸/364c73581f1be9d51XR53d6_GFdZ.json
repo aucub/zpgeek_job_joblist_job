@@ -1,0 +1,60 @@
+{
+    "securityId": "ayRMzRyco2BRb-r1nwQLzhtVMbvc-xQEjMDlk0k_MpXyUfrQ2em8PFIWwhulJqA9GhMoZDw5r6dK0cjzOmZHc7LIJGlZ_jtCRHei6LHqTDiwLKIhaFo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211129/607f1f3d68754fd04758febfd677ebdd023a6420e8204cfd5840b9afcf46091d6d5ae9ee6240f5d5_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ddb9d24db3fe9eaf0Xxz0tm8FVo~",
+    "bossName": "潘女士",
+    "bossTitle": "HRBP专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "364c73581f1be9d51XR53d6_GFdZ",
+    "expectId": 0,
+    "jobName": "KOL媒介专员",
+    "lid": "31n0tpLVqK2.search.205",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "KOL/MCN资源",
+        "媒介合作",
+        "媒介投放"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴中区",
+    "businessDistrict": "南门",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 205,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.628151,
+        "latitude": 31.267745
+    },
+    "encryptBrandId": "b7ca1e903f2fb06f1nF-39m4FVo~",
+    "brandName": "苏州旅芸",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211109/7bf6f160950405e91e952011651eac72d5cebb91e103e1b7fc028c0dfc84f6cc5f4ae86197ab3e9b.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "社交网络与媒体",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100003,
+    "contact": false,
+    "showTopPosition": false
+}

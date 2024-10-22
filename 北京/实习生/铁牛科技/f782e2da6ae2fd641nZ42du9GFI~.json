@@ -1,0 +1,63 @@
+{
+    "securityId": "WikNGgri48Bwt-I1hmQVlHzUabTQoE9-rqlavgEKgAFeIyhr0o3hLjCWDI7t1PsM6C6OqZQ92Iu9Vl3Dgy433NT2tRdY9Cu_vzWptJ2paRV3hxDb46m550MidLNzi0B2PK_7xOE~",
+    "bossAvatar": "https://img2.bosszhipin.com/mcs/useravatar/20150828/2b33916dced0840a453ef1ee1ddb3997f8295e3a44890aa1d3ce9d6ce14570e7_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b303c35e60c9afe21HB-0t20",
+    "bossName": "牛友胜",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f782e2da6ae2fd641nZ42du9GFI~",
+    "expectId": 1014042683,
+    "jobName": "实习生",
+    "lid": "1bJh58MJOmg.search.117",
+    "salaryDesc": "1-5K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "综合素质"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "昌平区",
+    "businessDistrict": "北七家",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 117,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.371541,
+        "latitude": 40.108959
+    },
+    "encryptBrandId": "3eec632b2854ff371nR82tq_",
+    "brandName": "铁牛科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170703/ac3fc61d9c3035ecf85b25635aeaf49bc38fc098579aa57579a938b2582a81ab.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "移动互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "零食下午茶",
+        "员工旅游",
+        "五险一金",
+        "餐补"
+    ],
+    "industry": 100019,
+    "contact": false,
+    "showTopPosition": false
+}

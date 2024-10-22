@@ -1,0 +1,62 @@
+{
+    "securityId": "hTTvTTquwIqjt-G10AS0uNGDwnWYZR-KdO6pgpbSBQ20M4_PuTXnUhABPx3SER_IKU4s9YYFE7Z2-JslW_6ba3f7826qzGxAV7b6C20Ohsxvm3mufeE~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "cf8e4285839f9d420XJ-2Ny8FFtS",
+    "bossName": "张先生",
+    "bossTitle": "办公室主任",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a360ce453f1ed5751HN72N20GVFU",
+    "expectId": 0,
+    "jobName": "嵌入式软件工程师",
+    "lid": "5LdwqaJR7zr.search.276",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C",
+        "C++",
+        "电气电气/自动化相关专业",
+        "嵌入式/单片机开发经验",
+        "英语读写能力良好"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "石家庄",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 276,
+    "city": 101090100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.327526,
+        "latitude": 38.152546
+    },
+    "encryptBrandId": "8cddd8e44cf5756e0HR-2di0GA~~",
+    "brandName": "中核石辐",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240705/7bf6f160950405e92835c41331e4f18095a0ad69e53047e244caf53dfa281f75c547796bfbb2d81a.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "专用设备",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100907,
+    "contact": false,
+    "showTopPosition": false
+}

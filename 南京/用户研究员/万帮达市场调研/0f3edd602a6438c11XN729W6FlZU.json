@@ -1,0 +1,61 @@
+{
+    "securityId": "0BYBqHCVYowZE-Q1hONPrW5dFHdqr38fh3BXf9-WzSsiH8OM3xmJmwfTp-DPHbWaxh86KAauulXWGVRFnX8juayhXSlLKtIvWce2zW5oMFEwKIXM6RRn",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "d070a0b388cd30ab1nVz0961GFRZ",
+    "bossName": "郑女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0f3edd602a6438c11XN729W6FlZU",
+    "expectId": 0,
+    "jobName": "用户研究员",
+    "lid": "2a2HjVPxQPx.search.236",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "交互体验设计",
+        "问卷调查",
+        "电话调查",
+        "深度访谈"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "浦口区",
+    "businessDistrict": "泰山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 236,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.707594,
+        "latitude": 32.157315
+    },
+    "encryptBrandId": "821a373f868129a41nx82Nq4FlM~",
+    "brandName": "万帮达市场调研",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他行业",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖"
+    ],
+    "industry": 101304,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "H4KFgiK4gXp5B-J1sy7DZdIkQ9iNX6WYMNEK2fIFFVIDswbX6-kbIYIDETC31p3pXk9jcsgUo2nKDMYYRK70gsqmKNnWRElCl1q76Nw0vwG73_VWYrP-SjJEpGh_nV1mj2TbqS0aCRZY",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "6dff7d9d37190dda1nRy3du8GFdT",
+    "bossName": "汤敏娟",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "10981772dd882c301nF82N67FlZV",
+    "expectId": 1014042683,
+    "jobName": "RPA实施开发工程师",
+    "lid": "2bHO60yE95s.search.187",
+    "salaryDesc": "7-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "RPA"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "三元桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 187,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.46069,
+        "latitude": 39.951533
+    },
+    "encryptBrandId": "02e2d2853c61f1701H1z0969",
+    "brandName": "奔腾达",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210506/9c252f8b6be725040977ab1776955dba8ef9b36bd70cc40adf9dd51c07d264f6_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "生日福利"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

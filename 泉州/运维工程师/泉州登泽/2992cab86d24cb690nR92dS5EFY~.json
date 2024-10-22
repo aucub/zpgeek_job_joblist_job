@@ -1,0 +1,61 @@
+{
+    "securityId": "SOlclVZR91EcI-q1Da3qHpxFCpSurBbVMBXTcGMUnessBQVLnpj27vycE_W8mhfKrfaYfo3bnFfVQkDcMWY8V4bo4atW8mSISBEoBkmAObKHd1Vu",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "147fc57b433c71d80HVy2dq-FlA~",
+    "bossName": "刘先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2992cab86d24cb690nR92dS5EFY~",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "2Df72LBkNYO.search.253",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "应用运维",
+        "ERP运维",
+        "CRM系统运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "泉州",
+    "areaDistrict": "丰泽区",
+    "businessDistrict": "泉秀",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 253,
+    "city": 101230500,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.606444,
+        "latitude": 24.88002
+    },
+    "encryptBrandId": "a96182cdfd85068f0nd-2dy6FA~~",
+    "brandName": "泉州登泽",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190812/70027ba1d6e9291aa21fa49a53d2a269a5c2098ee8dfc0fe65816ff360e21ebe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

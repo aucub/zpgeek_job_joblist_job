@@ -1,0 +1,60 @@
+{
+    "securityId": "Z2I3ZGfgEFVbA-11Ax95BOWkmRw60mqnnAM4GhsZzLJV4kEoIB-7KwGieS3iiLy5hwrS3vcJS1U_92WbhyS_YgV5j2j2B835eAfp8qx-ImkJQTNUFe8LguimFTJM007zUbPS04MK3Hdl",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "92c7d23ea39d3f5f1nV92t21FFs~",
+    "bossName": "李先生",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "07ba0898dd2737c41HN529-8EldY",
+    "expectId": 1030426395,
+    "jobName": "软件测试工程师",
+    "lid": "2bUGSofxWJE.search.59",
+    "salaryDesc": "8-11K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "性能测试",
+        "压力测试",
+        "功能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "昌平区",
+    "businessDistrict": "沙河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 59,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.236282,
+        "latitude": 40.166658
+    },
+    "encryptBrandId": "420403926ed524d603Z-2d64GQ~~",
+    "brandName": "天之华",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190424/e8d283bbf26560bd106235abf2e69a195aa7267dad2d5885463902e3269b28b4.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "3N5uCHH4uG7Zy-g1fGmjir3Bq2zWTv8_11rEVEAF-78gax34kCOTgp223beM4BvTLowC_abK9C3fsBhCCxtKHnUHY8Z96achg_Ddg4OUmcLSWfA2hyA~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_4.png",
+    "bossCert": 3,
+    "encryptBossId": "46c6e17f7b3587570nR_2d61EVo~",
+    "bossName": "沈女士",
+    "bossTitle": "人事行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0a9725a9790592aa1HNz2ty6EFJV",
+    "expectId": 0,
+    "jobName": "助理",
+    "lid": "30ncRkHH3eE.search.270",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "助理"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "相城区",
+    "businessDistrict": "黄埭",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 270,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.501272,
+        "latitude": 31.424451
+    },
+    "encryptBrandId": "107494365cd014121Xd_0tu7Fls~",
+    "brandName": "苏州协纬自动化科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230414/7bf6f160950405e9164fccb5f8fd1a510271d9c64ab83cbfb1df2873745c085f185b99cc060e942d.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "自动化设备",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "加班补助"
+    ],
+    "industry": 100914,
+    "contact": false,
+    "showTopPosition": false
+}

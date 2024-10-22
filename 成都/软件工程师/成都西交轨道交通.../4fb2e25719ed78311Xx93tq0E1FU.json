@@ -1,0 +1,62 @@
+{
+    "securityId": "AKP0Uxk6Tp8it-S17vF95a9cnVLMbgeVf3ezKzB1hhG5az6fLZz7H-QPhGAJ7GW7kGT1Uz6fAU-MIrEdZNlzgEnBGR1WE7Zpp62po_c-FFY15ikf9gpp",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "02024a4da6b7ff640nJ_39u4F1ZQ",
+    "bossName": "张女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4fb2e25719ed78311Xx93tq0E1FU",
+    "expectId": 0,
+    "jobName": "软件工程师",
+    "lid": "5NDYC0Uxgkt.search.15",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机/软件工程相关经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "金牛区",
+    "businessDistrict": "西南交大",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 15,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.044305,
+        "latitude": 30.701341
+    },
+    "encryptBrandId": "1d990b7bf19ba69b1Xd83tq4F1U~",
+    "brandName": "成都西交轨道交通...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230505/7bf6f160950405e99edb0a0c016d7d8e95170ca9a4d6a64ab40f1e8658c0e33c3c1757cc89db237b.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "计算机硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100022,
+    "contact": false,
+    "showTopPosition": false
+}

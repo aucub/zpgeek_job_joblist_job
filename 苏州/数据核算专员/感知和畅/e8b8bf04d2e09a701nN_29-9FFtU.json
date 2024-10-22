@@ -1,0 +1,62 @@
+{
+    "securityId": "lARV1nPrXpbkv-E1j92pDd07Tnb-m96XNq-zTniq1ug2W8Qv9iy-yk24x9ffiUP2RBe7-nbwJeqzy1E4ZWloF3Y0ZEelNfo7S4K7M3QjfhT4wV0_pZeO",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231008/607f1f3d68754fd02d4742dcc06d22b0c2908c27c818c464a54cef00d8e83adfac18b1e513a7673e_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "0200c41a55b892341nVz2N64GVpQ",
+    "bossName": "钱先生",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e8b8bf04d2e09a701nN_29-9FFtU",
+    "expectId": 0,
+    "jobName": "数据核算专员",
+    "lid": "29wJeeSYiFr.search.32",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "物流",
+        "集团公司"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "相城区",
+    "businessDistrict": "高铁新城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 32,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.644947,
+        "latitude": 31.418285
+    },
+    "encryptBrandId": "a1f38cb044e987001nx_3du1GVE~",
+    "brandName": "感知和畅",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210819/7f96830cd695095cf7b4fed209e2d6a1a54cef00d8e83adfac18b1e513a7673e.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "互联网金融",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补"
+    ],
+    "industry": 100206,
+    "contact": false,
+    "showTopPosition": false
+}

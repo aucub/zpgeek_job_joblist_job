@@ -1,0 +1,60 @@
+{
+    "securityId": "R2MrPHzkWhu9e-Z1gC3v1xDSm9wvCw8Kw0qCRXei9cpn4KBxQETQpAOCgVowba8Hma-w-BcXORnT9IZcfqn1DChzr4XJH8Ar1MrvEzupj0PkMGHlMw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180601/32622e674d19672b4477e2554a4cc239cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "276c6824b2a69a6b1H183Nq8GVY~",
+    "bossName": "叶女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "96268c590c02eb4d1XN73ti6FlY~",
+    "expectId": 0,
+    "jobName": "软件实施工程师",
+    "lid": "3oBfwskiElu.search.180",
+    "salaryDesc": "6-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "IT支持"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "西湖区",
+    "businessDistrict": "西湖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 180,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.152925,
+        "latitude": 30.248748
+    },
+    "encryptBrandId": "966f9ebc1c93079d1n16092-GVE~",
+    "brandName": "云康科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网金融",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "餐补"
+    ],
+    "industry": 100206,
+    "contact": false,
+    "showTopPosition": false
+}

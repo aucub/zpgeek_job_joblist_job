@@ -1,0 +1,63 @@
+{
+    "securityId": "zS9hTPo30HMmd-A122w00JZoBd3GA7ZuOQT7G2QyM3wsBaH6akwCOg8JREi38_LkInp0BltomX3G7gRwjQH4KZfVYi7vdGLFGkPPFntdqPOPUk5AUQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210707/1b4311861799c66036a62caad2478d9e2e6796b5e550271375bbe143e75405d5_s.png",
+    "bossCert": 3,
+    "encryptBossId": "4d153dfec49ece860HV62NS4EFY~",
+    "bossName": "蒋女士",
+    "bossTitle": "设计总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "750aae2d6a4989611nZy2ty8ElNV",
+    "expectId": 0,
+    "jobName": "软装设计助理",
+    "lid": "29EtyCUV2iM.search.254",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "设计师助理",
+        "CAD",
+        "PhotoShop",
+        "家居",
+        "家具"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "珠江新城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 254,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.343856,
+        "latitude": 23.118099
+    },
+    "encryptBrandId": "022051e997dd9c3e0nF909q7EA~~",
+    "brandName": "客力装饰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190822/6b595d15748be5d2ba59160f469f0e632e6796b5e550271375bbe143e75405d5.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "装修装饰",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100704,
+    "contact": false,
+    "showTopPosition": false
+}

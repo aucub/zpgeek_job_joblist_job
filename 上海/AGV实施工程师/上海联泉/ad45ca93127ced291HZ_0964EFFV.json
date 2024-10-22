@@ -1,0 +1,59 @@
+{
+    "securityId": "UMYkbZnPbNhCq-l1noKKmxuAhMT31-vMv1LHvR9Z-L8dHTJ2LpEjdE4ZEWlKjjRSj83v3Bn_2fho-gDbJfKMSGuMXELSXqD1M6pdtBKH3kNpV6BC_w~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "cb1ad5b956f3518f0nxy3967FVU~",
+    "bossName": "刘女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ad45ca93127ced291HZ_0964EFFV",
+    "expectId": 0,
+    "jobName": "AGV实施工程师",
+    "lid": "19kNaEECYqR.search.148",
+    "salaryDesc": "6-11K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "可适应出差"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "闵行区",
+    "businessDistrict": "浦江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 148,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.524053,
+        "latitude": 31.083311
+    },
+    "encryptBrandId": "9b9925f428f3e6a70HV83NW4FQ~~",
+    "brandName": "上海联泉",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200417/d1783d83c930d333c7d99f6b3afe98b8ca02f685a5afcf43e2423f969bfa5597_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "1bin4zDvAKJuZ-41yU-8XR1f3EpIZs53kK0beGEWJaPUiSnji8BPdi6fRF2B4A9ABtx8UNZ2yZRkIabcz0my-3sHLKN_hGQNM5PCrc1TB1VSmRiBeA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210823/607f1f3d68754fd0013b22eb7ed7f9e137a3ce6c9e86405ce9fe370625f4b274475bf77e49f8db66_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a455f06c61bdeb250XZ509i8E1s~",
+    "bossName": "庄女士",
+    "bossTitle": "制片人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4692bcd37d72e6a81XB50t20E1ZT",
+    "expectId": 0,
+    "jobName": "项目制片",
+    "lid": "2Yw3tuSJvHF.search.292",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "制片助理",
+        "执行制片人",
+        "动画",
+        "电影",
+        "网大"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "相城区",
+    "businessDistrict": "太平",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 292,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.676408,
+        "latitude": 31.410296
+    },
+    "encryptBrandId": "4d19d719a4f638de1nF_2dy4Eg~~",
+    "brandName": "艺影动画",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201228/fbd5e78c0dd04d4730f43f99b2d93f989482f3931f1f354e2dd3dc9b55efa2f7_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "广播/影视",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "团建聚餐"
+    ],
+    "industry": 100103,
+    "contact": false,
+    "showTopPosition": false
+}

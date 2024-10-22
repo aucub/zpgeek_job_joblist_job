@@ -1,0 +1,60 @@
+{
+    "securityId": "CPtvU3ojZW5vk-31UW8gSe5hRx1Un3zKW6llnwCCC5tD8xqMdaZhhCR3IRKUXhkejXjNfAa7NMrDzGLpDUZFrtos_zlauiwClPaBru5CZ2nS0in9n-D1uu5Ann1OFKTPnXqtUcnkUT6wic8~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240625/607f1f3d68754fd06511fc26fcb130611e7e80f210e2b18e362455f7365d84376f20d29a796f865a_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "bdda0a6ef22f147f0XZ50921ElVX",
+    "bossName": "李晓利",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "338359d3e50802861HV92d68E1dW",
+    "expectId": 1014042683,
+    "jobName": "软件测试",
+    "lid": "5E4ZsFV9tCN.search.178",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "德州",
+    "areaDistrict": "德城区",
+    "businessDistrict": "德州经开区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 178,
+    "city": 101120400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.449911,
+        "latitude": 37.443585
+    },
+    "encryptBrandId": "dcd816c4faa9edc51n1z2tW8GVY~",
+    "brandName": "英望科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220519/7bf6f160950405e90c5a8830c2031a32561f59d2a7aa4902938dd00cbe8d1ae3d1959baa5d477870.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假",
+        "股票期权",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

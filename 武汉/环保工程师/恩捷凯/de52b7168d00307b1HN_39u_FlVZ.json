@@ -1,0 +1,63 @@
+{
+    "securityId": "4CYsVjklowNTb-91Frc93NZgDnrYqOhG_XZSkqeM6ygAuKJ5t9xu3yJgKdi_oguIh-j5_r2BUgwmUL-y6BCeUa6CKgUALrhVnhzac45khB8DTVIbglIb",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240301/607f1f3d68754fd0a4d1e26184b8a5cd1ca81b2753ea236e7a00b2e1216576cff3461d06c0bbbc2d_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "deb69766048154b30nV-2Nq1FFNZ",
+    "bossName": "蔡女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "de52b7168d00307b1HN_39u_FlVZ",
+    "expectId": 0,
+    "jobName": "环保工程师",
+    "lid": "2ylMTggfb0N.search.115",
+    "salaryDesc": "4-6K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "可适应出差"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "蔡甸区",
+    "businessDistrict": "沌口",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 115,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.16233,
+        "latitude": 30.485437
+    },
+    "encryptBrandId": "1b698c1f3f84f7aa1nF539m1F1U~",
+    "brandName": "恩捷凯",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220219/7b5b554d84f9729ca18732ecef289a8f5e623f375d9a8e40ebcb680f44e32bbac6d00c3ee521477b.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "环保",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "定期体检",
+        "餐补",
+        "年终奖",
+        "五险一金",
+        "员工旅游",
+        "节日福利"
+    ],
+    "industry": 101207,
+    "contact": false,
+    "showTopPosition": false
+}

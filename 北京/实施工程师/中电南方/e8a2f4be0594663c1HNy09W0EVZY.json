@@ -1,0 +1,61 @@
+{
+    "securityId": "DRTZNiZW68PSH-j1HGLHeUWVxDP1ybVRm8dHn2dJEYywuep6g1r7u6fOjCvu1srvhZVqleWXbvQI1XK0VXrvN7vqzTvUf1uSl5n3FdmYYXP7kymS7Q~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191231/6b6e0b04a9b38ac7d704e1b621b6985307b71ac520cb06c6387a316873a7f19f_s.png",
+    "bossCert": 3,
+    "encryptBossId": "993e620222c28a3f0n160tW_GFU~",
+    "bossName": "聂女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e8a2f4be0594663c1HNy09W0EVZY",
+    "expectId": 0,
+    "jobName": "实施工程师",
+    "lid": "3ulVIyPBDJO.search.245",
+    "salaryDesc": "8-11K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "西城区",
+    "businessDistrict": "西单",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 245,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.377806,
+        "latitude": 39.903426
+    },
+    "encryptBrandId": "2cfe6cd77454452f3nB_2Nu7Ew~~",
+    "brandName": "中电南方",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "带薪年假",
+        "定期体检",
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

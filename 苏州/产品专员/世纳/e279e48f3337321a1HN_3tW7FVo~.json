@@ -1,0 +1,61 @@
+{
+    "securityId": "ddT2tNxrOZvZf-819H3lUR6SBpc-6k6XC2jHv1cbURfO8U3D8SPopxSnV3t4EkxBKQP8_mv0KpdUVtzKI4lw0UQpFKpIDPiNh-N0POQETWrvz8q6",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171016/feeaf83abba5ab011274cc4c4924fbaeefe62b5a42ee6e20aeee34fb2555edf1_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "531886065db1e6fc1HVy2du6E1I~",
+    "bossName": "赵女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e279e48f3337321a1HN_3tW7FVo~",
+    "expectId": 0,
+    "jobName": "产品专员",
+    "lid": "2Yg44rTX1Cm.search.197",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电子商务"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "张家港市",
+    "businessDistrict": "城北",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 197,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.571905,
+        "latitude": 31.869489
+    },
+    "encryptBrandId": "6e7057c94a7e29cd1nd-0t67EQ~~",
+    "brandName": "世纳",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "加班补助",
+        "年终奖",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

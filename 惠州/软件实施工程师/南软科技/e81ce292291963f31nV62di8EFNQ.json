@@ -1,0 +1,60 @@
+{
+    "securityId": "59Srm2KabmFyh-V1Yi-dA2eHu61dnEc_oE_4Vv_WFRgRzMhiusLboSdFZvCw7Pn242FFMmVljlClT5EHcSwGm1b6-nql_fx5oLnizGtrZGYkrAzscA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "fea121df35c4120e0XB-0tu6F1c~",
+    "bossName": "傅先生",
+    "bossTitle": "人力资源",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e81ce292291963f31nV62di8EFNQ",
+    "expectId": 0,
+    "jobName": "软件实施工程师",
+    "lid": "5H4DAtP1ZUb.search.254",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件实施经验",
+        "熟练掌握SQL语句",
+        "SQL"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "惠州",
+    "areaDistrict": "惠城区",
+    "businessDistrict": "河南岸",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 254,
+    "city": 101280300,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.421882,
+        "latitude": 23.063311
+    },
+    "encryptBrandId": "109bfb55d5d2dc7503J_3tS8Fg~~",
+    "brandName": "南软科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

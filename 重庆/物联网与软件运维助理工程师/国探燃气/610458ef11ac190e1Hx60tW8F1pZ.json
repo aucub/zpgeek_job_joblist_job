@@ -1,0 +1,60 @@
+{
+    "securityId": "Ipjfp4_plqU0W-R1S3zdvhMp2yvO4Xmef_m49DDYHlKQaB3LkYLeEeqff0fYcrD8aqTHvmVFb_tGvwwpGRcSS4uEyHq0GHAhqncvoEH-P1vkoYEQuDtVPjLnE4Ph9KYtdI7MoaePapRVXoI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230830/607f1f3d68754fd0a14e1701d75f9e5a405f7761276976f927041ac0386508b05de26649e3ba3806_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "afcdd25922973d150nB73d-4E1pW",
+    "bossName": "舒先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "610458ef11ac190e1Hx60tW8F1pZ",
+    "expectId": 1030426395,
+    "jobName": "物联网与软件运维助理工程师",
+    "lid": "MAIP0kYb24.search.219",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维",
+        "实施交付运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "重庆",
+    "areaDistrict": "江津区",
+    "businessDistrict": "滨江新城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 219,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.254588,
+        "latitude": 29.312238
+    },
+    "encryptBrandId": "6011abdb9dd7107a1nd929m-EFs~",
+    "brandName": "国探燃气",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220403/7b5b554d84f9729c4a2e4932ce65bb75bf10f6fc05b15eb27c80f56443bdab6cbc4de77aa69385ec.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "石油/石化",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "加班补助",
+        "五险一金"
+    ],
+    "industry": 101201,
+    "contact": false,
+    "showTopPosition": false
+}

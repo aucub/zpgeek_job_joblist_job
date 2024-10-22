@@ -1,0 +1,60 @@
+{
+    "securityId": "ZEjBh8NQrwwm2-d1zIEvCrapE3OIoT_e6GArJ2OO2Lpa4K-NUfwbXVHDlknwf0leOuHAywdLpJ6csmeZFeXMtSCTWZTjdfTqtvirVl3nUrDBZ8bB8Pdy",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "282213d106fd09f60XV-096_GVRT",
+    "bossName": "吴先生",
+    "bossTitle": "项目经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0fd4bd79b561a8d31HV70tu1ElFY",
+    "expectId": 0,
+    "jobName": "运维专员",
+    "lid": "5EOXKpGfS3x.search.41",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络运维",
+        "系统运维",
+        "运维经验"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "南山区",
+    "businessDistrict": "科技园",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 41,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.929846,
+        "latitude": 22.541881
+    },
+    "encryptBrandId": "9e5dbad2e47da5b81X1-0t6_F1I~",
+    "brandName": "深圳安均科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230815/7bf6f160950405e98f62ef1d481bdc375530aea8c43e1264c1dbf6073d19bd03baa139a8e469fc14.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

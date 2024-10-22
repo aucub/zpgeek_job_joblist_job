@@ -1,0 +1,61 @@
+{
+    "securityId": "lGT4E1wJqLl6g-h1gKtXrH2G7DcwRVYgQBXJEWvstM_dKEecoFswJtoVFieNA1s9B-yUMB_68RILu0K83XRqJTomDvl9RtVP-H3IAnQs1RDCyA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200427/0143ec93ffb398e6edbbaff517fe3b6468cac8a2eac87cd1dae3986d5d1cf050_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "151d493aed9305831HNy2ty_Eg~~",
+    "bossName": "孙女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a8c27faca91094551nN-3tm1GVA~",
+    "expectId": 0,
+    "jobName": "车管外勤",
+    "lid": "5KzVp4Cflj9.search.215",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C1驾照",
+        "驾龄1年以上"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "西湖区",
+    "businessDistrict": "西溪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 215,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.099396,
+        "latitude": 30.269636
+    },
+    "encryptBrandId": "1b1369d293b7fa611HR5396-",
+    "brandName": "杭州盼达用车",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181119/88fdbd85776f3c984f9214b3280a4beccfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

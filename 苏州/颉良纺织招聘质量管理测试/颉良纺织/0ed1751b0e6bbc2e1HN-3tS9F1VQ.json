@@ -1,0 +1,63 @@
+{
+    "securityId": "vjzWUAzdymobY-N19U4MGZ-DCMtJrrQjQC_0V-Il4bUeVzjQ38qGMKwxch3cUW__bfv-M4CjfXq5CDS2HqZqefO7pvPs4a0aJ0na_UL2qyLMtnyzvw8~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "f108f5be95757a230nV72dm7GVRZ",
+    "bossName": "袁先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0ed1751b0e6bbc2e1HN-3tS9F1VQ",
+    "expectId": 0,
+    "jobName": "颉良纺织招聘质量管理/测试",
+    "lid": "2XQQFt8P8KR.search.108",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "面料测试",
+        "成衣测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 108,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.847725,
+        "latitude": 31.560472
+    },
+    "encryptBrandId": "0afa60974d6ca9d50n1-3ty4GA~~",
+    "brandName": "颉良纺织",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190920/3bfe4f7f0fed018d5812954eea69a9c51d2a100c5a0ee16d885cefb286e01f27.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "服装/纺织",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "餐补",
+        "带薪年假",
+        "年终奖",
+        "五险一金",
+        "通讯补贴"
+    ],
+    "industry": 101003,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "BKQifp3rBolOF-x1T7J6hL-4bbb6k6hW0uK88vD8LkbyaE4mjHLsLKN7kPE8cRCNFK6Z0NUhI9KJSZzjo8sdkYlYtr3j5igqaQI96A1vAdJq31cV1UUSl39Inc6Ds-nGcBmKc8nbCwk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190709/8ea56fbf24b7fcb30f05aa57a46846ff49048de35093026c1b5112443897fada_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "5a2c6679f841e5191Hxz39q-F1A~",
+    "bossName": "董家铭",
+    "bossTitle": "HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "be27f6bd613f579403N43tm6EVc~",
+    "expectId": 1014042683,
+    "jobName": "买手助理",
+    "lid": "2bd9CvlOKF4.search.176",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "货品跟单",
+        "采买计划",
+        "数据分析"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "昌平区",
+    "businessDistrict": "沙河",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 176,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.292011,
+        "latitude": 40.148973
+    },
+    "encryptBrandId": "3e859671f17444e01Xd52dy5FA~~",
+    "brandName": "宝丰众赢",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20181219/6c1f9a80cfb5609750c6969bf7b3b6a3941fde061057551c943f423482207d0b.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

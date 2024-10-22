@@ -1,0 +1,63 @@
+{
+    "securityId": "neuCugiHKQTov-E1TQXPJpCj1XOkdOG3Lwi3CRHzgkEgv6VOXQQixszp7UDk0F9r465O0BCG0q0IhrCIJSfCC4domHEmCuKaf36hfrLm3ZciRlxzLOE~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "6bee9c0c6e18be281nVy3tu1GVVS",
+    "bossName": "肖女士",
+    "bossTitle": "行政专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fa8d5b242059cbf61nB93N-4F1pZ",
+    "expectId": 0,
+    "jobName": "化妆品研发工程师",
+    "lid": "Nz3PU3ZYyG.search.232",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "化工工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 232,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.374031,
+        "latitude": 28.229232
+    },
+    "encryptBrandId": "a09c41c0d31f0a5103N429q_FQ~~",
+    "brandName": "奇异生物",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190617/2594ffe4449e1e5cfade9ddcb9f8d3bbd49b24af600b8aa76d43d9ca20b398d3.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "日化",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假",
+        "通讯补贴",
+        "交通补助",
+        "年终奖"
+    ],
+    "industry": 101002,
+    "contact": false,
+    "showTopPosition": false
+}

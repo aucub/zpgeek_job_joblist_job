@@ -1,0 +1,62 @@
+{
+    "securityId": "OvvDmogGGuzdD-C1s-HLld8QMBJVSeeGY1-xfNPmgxXwceL8WYkw2Bo6FQHFiEPd3kH4toH-3bWpX5QREVl7WvQhJcugInfp8XOXoyX3g6sOPxOR3A~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "0fce400d240c53890HVz29u0FFY~",
+    "bossName": "陈先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f954ad428b8b2fef1nFz2dW-GFRT",
+    "expectId": 0,
+    "jobName": "测试技术员",
+    "lid": "2X7EXwkh9pr.search.155",
+    "salaryDesc": "6-8K·13薪",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电动工具测试"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "苏州工业园区",
+    "businessDistrict": "白塘",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 155,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.726923,
+        "latitude": 31.338532
+    },
+    "encryptBrandId": "c5bdeb8f273dfaf10nd_2Ny7EA~~",
+    "brandName": "苏州正煜工业智能科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "交通补助",
+        "带薪年假",
+        "餐补",
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100902,
+    "contact": false,
+    "showTopPosition": false
+}

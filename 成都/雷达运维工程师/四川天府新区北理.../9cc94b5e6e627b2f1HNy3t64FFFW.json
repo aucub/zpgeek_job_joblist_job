@@ -1,0 +1,62 @@
+{
+    "securityId": "CgZy72r9soYo--q1ayuq4P2fv2hQPDYsiVoa55f3cvkwEBOh6bw1uggcAu_XJ3VCnkmW8WLsgErxLRJdy7JVUXfpQmR6enfD8c_UsedGHaziRttWxvWq",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231107/607f1f3d68754fd02211a83cf6e777dadddb8cc174330c18318bed7c47b07a1d2edce8a99d668c30_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "ab84d2f0fc8af48d1nR_3Ni5GFNV",
+    "bossName": "付女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9cc94b5e6e627b2f1HNy3t64FFFW",
+    "expectId": 0,
+    "jobName": "雷达运维工程师",
+    "lid": "5KZr9zrFMyR.search.127",
+    "salaryDesc": "6-8K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "7*24"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "双流区",
+    "businessDistrict": "华阳",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 127,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.10753,
+        "latitude": 30.408328
+    },
+    "encryptBrandId": "7c8077194e8259961XF609S5FFE~",
+    "brandName": "四川天府新区北理...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240605/7bf6f160950405e9483b95fe8a07503bb239fc04b9adddee318bed7c47b07a1d2edce8a99d668c30.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子/硬件开发",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "绩效奖金",
+        "带薪年假",
+        "年终奖",
+        "节日福利"
+    ],
+    "industry": 101406,
+    "contact": false,
+    "showTopPosition": false
+}

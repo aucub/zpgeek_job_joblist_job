@@ -1,0 +1,61 @@
+{
+    "securityId": "dui4Cbaj7sxtK-M1zmsCmXZNLlJIRqOIolKnnb_AwsVvRrC9ToeKw3IHR8qPeJ0eXuI7WTpEGL9f9shCOGFsgW3i6cOyBYp7DUHWrWPTJKGVF3hrkA0~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "78100ff3960c8f7633Fz2tq7EFA~",
+    "bossName": "薛先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "18f57d7f9d99ad341HB82d-_FlZW",
+    "expectId": 0,
+    "jobName": "IT运维",
+    "lid": "29Ee1kFCirO.search.101",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python/Shell"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "建邺区",
+    "businessDistrict": "江东",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 101,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.722014,
+        "latitude": 32.032256
+    },
+    "encryptBrandId": "28d698bf0a769afd1nxz3Nu9FlM~",
+    "brandName": "拙诚量化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220511/7bf6f160950405e9cd51b745af60d11fff2ede23469ec72eb628c2560cefe73e38a9c4ab4bd1a050.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "基金",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "零食下午茶",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100204,
+    "contact": false,
+    "showTopPosition": false
+}

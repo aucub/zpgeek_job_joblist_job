@@ -1,0 +1,61 @@
+{
+    "securityId": "ejqNyj-BNqGlJ-91mgyZDFaCsM_H0HCxRHKdsrJodho4gkOAelcTzQTCJu6dGO-VaBTO4V4swqOdISV-H4zPAYuLRwnGjG3omTcTr9MLSnGkc_0L",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190530/d455944f5bebfb446c9c524565802530cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "5853870383ea91351XJ43Ny5Flc~",
+    "bossName": "李先生",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "96365d3747d143940XBy2927ElA~",
+    "expectId": 0,
+    "jobName": "工业设计实习生",
+    "lid": "3oTBM8K7GJJ.search.51",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "手绘",
+        "工业设计"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "硚口区",
+    "businessDistrict": "汉水桥",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 51,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.248436,
+        "latitude": 30.571476
+    },
+    "encryptBrandId": "767d4bf5771a1ef51nN_2t28FQ~~",
+    "brandName": "武汉江楚开物",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180420/ebdd7cb4432aa29aceda1a9f24c1fde9cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "原材料及加工/模具",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100903,
+    "contact": false,
+    "showTopPosition": false
+}

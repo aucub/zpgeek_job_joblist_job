@@ -1,0 +1,59 @@
+{
+    "securityId": "sJFgq0sCaoYL2-L1gy6B6arX-xJ0PaWAPH3kLu4FEhB6QYIc9Rh9ISniyDgo2_TCDq_6nw97S1_wMu9MclbGgRadRhYLIdzr_uEgKs3P1LaOsXJZ2NsV",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220707/607f1f3d68754fd087650d25fcecff46b80225fd863569a4f4fe63a671abcffd3ba2cb3cf4c3b1f7_s.png",
+    "bossCert": 3,
+    "encryptBossId": "0ffe0cf41a071f9e0nBy2dy1FFFU",
+    "bossName": "袁先生",
+    "bossTitle": "主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cc0ecc90481fa9741HB83Nu-GVVW",
+    "expectId": 0,
+    "jobName": "研发助理",
+    "lid": "1JZJNSJNHU9.search.281",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "嵌入式，自动化"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仁和",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 281,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.079781,
+        "latitude": 30.452668
+    },
+    "encryptBrandId": "014d9bfed2824a431nN93tS-FVA~",
+    "brandName": "志展电气",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "餐补",
+        "年终奖"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

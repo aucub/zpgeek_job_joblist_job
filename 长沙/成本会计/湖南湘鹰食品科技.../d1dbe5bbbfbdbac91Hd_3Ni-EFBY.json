@@ -1,0 +1,61 @@
+{
+    "securityId": "yy8qs3SOBRFL1-b1DoV7JCzA4vmWdMkEJb1H48czeRjA6bejkx3Hx54w-gT_QdyjmFrKPe1xl4OibI3APEv73vO8_zf3p736hkiPMTeEtyjwJJuasw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240207/607f1f3d68754fd03c2fc448ffcfa191430cb191319a888823455cf33cb47c0fb103efb9dd987bf2_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "85838d111bcee5370HZ539q7GVA~",
+    "bossName": "张先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d1dbe5bbbfbdbac91Hd_3Ni-EFBY",
+    "expectId": 0,
+    "jobName": "成本会计",
+    "lid": "2w1fnIUzJuS.search.120",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 120,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.771226,
+        "latitude": 28.287175
+    },
+    "encryptBrandId": "f49dc74ba6c49bea33Z63du5EQ~~",
+    "brandName": "湖南湘鹰食品科技...",
+    "brandLogo": "https://c-res.zhipin.com/jrs/7_cd974604bc7f51fba26f634714e87a83.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "食品/饮料/烟酒",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "包住",
+        "包吃",
+        "加班补助",
+        "意外险"
+    ],
+    "industry": 101001,
+    "contact": false,
+    "showTopPosition": false
+}

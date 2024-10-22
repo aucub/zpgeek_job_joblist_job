@@ -1,0 +1,61 @@
+{
+    "securityId": "lgOpp9-S2K4XT-F1y07uuDeNzq17mlD8AT4DqU3lQsZD3qeekKF7fESJ9WWNa0hYUdewHpAclJ8yEwrKorMjTdKbinkLWxQ6aGjP2L_UVRqSvafR",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190604/e985673979979f53a8c82251fb7b9e9c1bd9633db26a0e3cd543353e2dd79ecf_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "bb2648a4a4e8e7f20XB83t-5EFY~",
+    "bossName": "陈先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "68f9aae946b29f7903B73tq5FlU~",
+    "expectId": 0,
+    "jobName": "化工工程师",
+    "lid": "OIHQ4l7wyg.search.247",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "需求分析"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "定王台",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 247,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.985109,
+        "latitude": 28.187992
+    },
+    "encryptBrandId": "bb94f0da198ced6e03J93926FQ~~",
+    "brandName": "长沙云朵科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190605/8ff6842b3c369612fde314d492801d5c1bd9633db26a0e3cd543353e2dd79ecf.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "全勤奖",
+        "员工旅游",
+        "股票期权"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

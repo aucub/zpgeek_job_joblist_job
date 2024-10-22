@@ -1,0 +1,62 @@
+{
+    "securityId": "XRaMJTBGvXzWV-V1N2M8imVEZ3NPam6_hQ3oG_xZJbUWfhRnF_C0B6HlOCMwvbU2KDtnF-Y0jSP7-TOIJeEKFFAky27s5sodJrCioV2tYCiCVEjrGQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210505/50a8f27737590e732e254b416b44c6db8480c56ebdae4817c3a98ee3f0107f2d_s.png",
+    "bossCert": 3,
+    "encryptBossId": "cdde742e9d4da18e0XF_2t--EVM~",
+    "bossName": "刘女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "98eda26b328e23f01Hd82du_FFdR",
+    "expectId": 0,
+    "jobName": "软件助理工程师",
+    "lid": "5EOXKpGfS3x.search.125",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "C#"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "龙岗区",
+    "businessDistrict": "龙岗中心城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 125,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.255997,
+        "latitude": 22.740073
+    },
+    "encryptBrandId": "fd516544b3cba9291Xxz29W1GQ~~",
+    "brandName": "怡丰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190301/1d43a6081697da18e276f1f9a63a1939d48ecd6c04765212c90a03d09312a1ad.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "机械设备/机电/重工",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "包住",
+        "带薪年假",
+        "五险",
+        "包吃"
+    ],
+    "industry": 100901,
+    "contact": false,
+    "showTopPosition": false
+}

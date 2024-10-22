@@ -1,0 +1,61 @@
+{
+    "securityId": "bw192u1JmK0Ox-V1pdw176s85u62aGsVU89aEgJJXXRmKMjg_Ps3-Uqqr3ok1syMGZTft-9p78cmNTfuMr_3oG60m6socnQBIthX5c8QqwGXwLODh4E~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201127/53e44bafb8e22707cc9247ccdc47ee089d2134caf1e842c6262a13f40cc5eeff_s.png",
+    "bossCert": 3,
+    "encryptBossId": "61f5f460a725ed4a0nV829y_F1s~",
+    "bossName": "徐女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3d2cac709c2369791nV43du4GVFQ",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "3wyzkBXkCZE.search.32",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运维",
+        "系统运维",
+        "Linux"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江汉区",
+    "businessDistrict": "常青",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 32,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.247262,
+        "latitude": 30.599104
+    },
+    "encryptBrandId": "d770fa9f4ca8e9e01nd63N21GFM~",
+    "brandName": "武汉杰科世纪",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "五险一金"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

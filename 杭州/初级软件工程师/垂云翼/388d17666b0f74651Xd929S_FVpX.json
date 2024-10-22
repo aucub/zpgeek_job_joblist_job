@@ -1,0 +1,61 @@
+{
+    "securityId": "1I0cpQwCvRLqt-Z1Cw6xPgauGBYxmHMEn8nF-6kx6C5tyoH4nsxeevvm5JEO9dC2MIPI3OOjhSN-IpUhTbPh6ANCAG35vbVgDui5VY77kxjEoOD_zXZN",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220721/607f1f3d68754fd0ae70089e1f6a2dcff228e70ed83c9ed186b2d33f011142fa21c2248666ae89a2_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "1f7c782a31e414cb0nF73d6-FlZV",
+    "bossName": "杨女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "388d17666b0f74651Xd929S_FVpX",
+    "expectId": 0,
+    "jobName": "初级软件工程师",
+    "lid": "3oBfwskiElu.search.210",
+    "salaryDesc": "5-7K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C#",
+        "Unity",
+        "3DMAX"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "余杭区",
+    "businessDistrict": "仓前",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 210,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.97805,
+        "latitude": 30.273504
+    },
+    "encryptBrandId": "3ecf30f3ca6ecd8e1XZ63tm7EFQ~",
+    "brandName": "垂云翼",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220722/7bf6f160950405e9913a3f2cc810116cab377eaaa489ed5e86b2d33f011142fa21c2248666ae89a2.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "游戏",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "保底工资",
+        "绩效奖金"
+    ],
+    "industry": 100002,
+    "contact": false,
+    "showTopPosition": false
+}

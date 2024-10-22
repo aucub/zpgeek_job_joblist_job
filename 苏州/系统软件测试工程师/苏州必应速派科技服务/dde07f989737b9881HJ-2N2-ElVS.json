@@ -1,0 +1,63 @@
+{
+    "securityId": "UZXvvg3YbdRf5-l1EuUxYKzqia5mEPM1x1bQmIOUn13MzuAOBL40ujvTzkHe-eE7wMoTjBiMkxNiMYas1rgzl_U-fT6JI42Fikd0HAtP-TmnNCf0x2eB",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240210/607f1f3d68754fd0b10458561b2dc34412a5d5f2f6405ce5882b0cb391c2b66e1fadd845bf659b13_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "9e2c5c36ed4f0c1b0nx939u1GFZV",
+    "bossName": "孙先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dde07f989737b9881HJ-2N2-ElVS",
+    "expectId": 0,
+    "jobName": "系统软件测试工程师",
+    "lid": "26xbEbAjGJU.search.251",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "性能测试",
+        "测试工作经验",
+        "软件开发经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 251,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.6644,
+        "latitude": 31.31567
+    },
+    "encryptBrandId": "70fd8d5e6f496f111HZ73d65FFs~",
+    "brandName": "苏州必应速派科技服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "人工智能",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "绩效奖金",
+        "交通补助",
+        "团建聚餐",
+        "五险一金"
+    ],
+    "industry": 100028,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "yvnvU8TkalL2s-y1hMeSrKww_uNXF_6ux6yIVnVKf_Dk00-wHYOJ9QitM-yYfUwxOZE55ZKJKAXfR7yDwYsjtxfeK6rkNw2s2RW_B_p00ewtaSmJDkV_",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "f0d7668c55a24da70XZz3tu5FFVY",
+    "bossName": "刘女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "27c689102c8aa1181HF-0tm_FVtW",
+    "expectId": 0,
+    "jobName": "数据文员",
+    "lid": "2ZL38frwumL.search.34",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "熟练excel等公式运用",
+        "数据统计和分析",
+        "电子商务"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "棠下",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 34,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.384793,
+        "latitude": 23.137307
+    },
+    "encryptBrandId": "07e5a8fe393e41a91HZ72dm8FVM~",
+    "brandName": "广州韶颜公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

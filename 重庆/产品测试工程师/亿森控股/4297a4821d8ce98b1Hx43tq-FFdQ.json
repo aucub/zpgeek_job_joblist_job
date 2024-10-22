@@ -1,0 +1,63 @@
+{
+    "securityId": "OeV1I0upVEMU6-D1f3ACJwMbed1o_2x-T0sBxWwPQ6nWUYkG4noXr9ZF2MT8gtwot_PtoOxEzI26gIQgk2uVX_Gtx15QNuyG6iLwwNUNci9UBK2EDs3LHFfNBzgOj2oBOviAonvffV2m7g~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230220/607f1f3d68754fd007e486bd4c25fdf1ca3e2287f3c09cd792cfe110ca4182bc66f026c32f5f80d4_s.png",
+    "bossCert": 3,
+    "encryptBossId": "7c7c2159b9a3b0031HNy39u_E1Y~",
+    "bossName": "胡女士",
+    "bossTitle": "HR人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4297a4821d8ce98b1Hx43tq-FFdQ",
+    "expectId": 1014042683,
+    "jobName": "产品测试工程师",
+    "lid": "2Al1BHOkb2x.search.277",
+    "salaryDesc": "9-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "科学仪器",
+        "实验仪器"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "重庆",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 277,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 107.111006,
+        "latitude": 29.187627
+    },
+    "encryptBrandId": "838935dc56a5a02c1XJ_3tu0E1U~",
+    "brandName": "亿森控股",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230522/7bf6f160950405e95115ab4b4631e2d52b43efdc0edef4b292cfe110ca4182bc66f026c32f5f80d4.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "房屋建筑工程",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "入职五险",
+        "节日福利",
+        "生日福利",
+        "绩效奖金",
+        "团建聚餐"
+    ],
+    "industry": 100708,
+    "contact": false,
+    "showTopPosition": false
+}

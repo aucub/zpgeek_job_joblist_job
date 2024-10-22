@@ -1,0 +1,62 @@
+{
+    "securityId": "rOZLbMPG2jEpv-71aTQ1kCrRLYLxNiL7UscvzZIjetTjnUo6JZeDkv2eF5c7XfLFS2_XKCBRbANBbG84OB01-gAyadsTnHT8uO4vdTPwID0mLQr9urkcDrd31ZZidHD5ofa2o2JLitTv",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20211221/607f1f3d68754fd0415081b2e78808c4da22e391bab9c3df21b31105c79eabe59db7040178b9950a_s.png",
+    "bossCert": 3,
+    "encryptBossId": "0a926864fde6602d03B73N2-E1s~",
+    "bossName": "刘露欣",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "65e5f320437f0e961Hd629i4EFtR",
+    "expectId": 1030426395,
+    "jobName": "软件测试工程师",
+    "lid": "2bUGSofxWJE.search.56",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "软件开发经验",
+        "掌握软件测试理论和流程"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "太阳宫",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 56,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.456145,
+        "latitude": 40.001279
+    },
+    "encryptBrandId": "fac7b6e42d745e801nJ72Ni1Ew~~",
+    "brandName": "对号",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190805/4e862fb74d526d95ef27f1cfc2da2786f10817e6e3935a5c6cf6b504fa3a724f.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "工作居住证",
+        "五险一金",
+        "加班补助"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

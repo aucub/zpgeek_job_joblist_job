@@ -1,0 +1,62 @@
+{
+    "securityId": "WUiR5kTLkHMbG-i1yeePl5JHPJWHtlG9P1hQDnvpxa-BFiyuxIVxsKNChwUeCsrJGJ2h5jOy4Hyz9sfzc00_P9k_Ms1KLcBBJeGL26vEg-7VfrIGycqi",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230625/607f1f3d68754fd0a89d0080fa2af07858f75a4498f30c82773356462821775b5a45839d7e18a81f_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "4313919e6888206d0nN52NS0GVFX",
+    "bossName": "余先生",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "06bb3728c557b3121HN93d2-FVtX",
+    "expectId": 0,
+    "jobName": "林业技术员",
+    "lid": "3rexrZ1eI0Y.search.82",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "林业工程师",
+        "五险一金",
+        "林业技术员"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "元岗",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 82,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.367195,
+        "latitude": 23.16262
+    },
+    "encryptBrandId": "96fc8ef4e2ddd3961XZ63tS6Fls~",
+    "brandName": "华农大园林",
+    "brandLogo": "https://c-res.zhipin.com/jrs/1_79776766681b9ebda24108605fa65a8f.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "保底工资"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

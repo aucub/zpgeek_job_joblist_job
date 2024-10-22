@@ -1,0 +1,63 @@
+{
+    "securityId": "04NBpGhSnwOq0-g1qE_yBhwMnkt_qOTlWoRTxGy-ak0O8dw4nLORRxPSi1lb5GUnbljFafwDfxRPOEzu2SJzR_C79MQHBJN7G8xTNoLEv7H9xPD3PexJhe0vxkhqLsA9wbT05ke4uDOJ",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240419/607f1f3d68754fd067e48c2f6d9c87d4264a39878cf6b2b29ca837181178a204dd8a0f2a2ed7d6a3_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "8dfa57ec82b16fa103J42di-FVQ~",
+    "bossName": "王女士",
+    "bossTitle": "人资行政专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "25ab2755068806cf1HF42964FVZV",
+    "expectId": 1030426395,
+    "jobName": "python开发工程师",
+    "lid": "MkD1Xi2sIj.search.123",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "Tornado",
+        "MySQL"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "沈阳",
+    "areaDistrict": "大东区",
+    "businessDistrict": "龙之梦",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 123,
+    "city": 101070100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 123.4838,
+        "latitude": 41.806003
+    },
+    "encryptBrandId": "04b92a9f3c1d6ea51XZ92tW7Ew~~",
+    "brandName": "亿得科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180706/441e83cd6cab940d904f08656c12766ff8531fa4b2b2d3414140d517d2f20f9e.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "餐补",
+        "夜班补助"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

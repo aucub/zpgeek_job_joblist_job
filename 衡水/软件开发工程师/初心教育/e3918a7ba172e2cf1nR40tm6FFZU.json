@@ -1,0 +1,62 @@
+{
+    "securityId": "zVciNoMpC1s4f-O1UY-8hiSaJBYk-QDiXOAG40fXvi2Q6so-v_mfvEUPH2JUsROBm7a5KMBOUIaFgE4kZmu0IDyewe_IpSxXXzyz0GMy-s_RgPKSXvdchuwGbbK87gJ8XArCpXbyc8s1xVU~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "f3b004ea21e072840nR709i1EFBQ",
+    "bossName": "赵佳",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e3918a7ba172e2cf1nR40tm6FFZU",
+    "expectId": 1014042683,
+    "jobName": "软件开发工程师",
+    "lid": "1EC925cZ2ND.search.186",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "PHP",
+        "C#",
+        "网络编程"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "衡水",
+    "areaDistrict": "桃城区",
+    "businessDistrict": "翡翠华府",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 186,
+    "city": 101090800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.681712,
+        "latitude": 37.76151
+    },
+    "encryptBrandId": "87370095b455245b1nVz39y6EFo~",
+    "brandName": "初心教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "通讯补贴"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

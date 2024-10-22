@@ -1,0 +1,60 @@
+{
+    "securityId": "jfVrWIdR9BmDe-Z1j9PyG_ju25dRi3Z2pYVavhGNR5teqfzbvjG7sMj-9g1KBMDGbmRIJx-7V1LatDzg3R810XBvlNbhS7Zzad210gp6Sr8OP_xef88~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230103/607f1f3d68754fd0528babeec95264d7742850c0b5dd1c517bf9b17e284c437fb9751880f2a2acbe_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "5323a1ebc48be8ed1nZ-0967FVNZ",
+    "bossName": "郑女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8a1af802c5d76bb91HB92N27F1JU",
+    "expectId": 0,
+    "jobName": "人力资源实习生",
+    "lid": "5GgyTSWlyE7.search.34",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "劳动关系办理",
+        "人事档案管理",
+        "招聘与配置"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "珠江新城",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 34,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.327302,
+        "latitude": 23.120626
+    },
+    "encryptBrandId": "23d7837ffd8ce08f03B409u8GA~~",
+    "brandName": "广东金桥百信律师...",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220214/7b5b554d84f9729c81b0a6ef5f623845d3b88759268f7d13d3434a5c4bc9ba7b283a8962007ddd34.jpg",
+    "brandStageName": "",
+    "brandIndustry": "其他生活服务",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101106,
+    "contact": false,
+    "showTopPosition": false
+}

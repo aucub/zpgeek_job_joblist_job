@@ -1,0 +1,61 @@
+{
+    "securityId": "_gNprgYns959m-v1lUBYGGJfJ3cxNLeO88begtWbQc3lt3LLhpAbn8OZKn6IPd3dLPRTEAzByFL1QZVzGTB9YHJUIFSERXWuAWf--xncEL7Tub35uQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "d780aa6f8fcb23a803Vy29y5FlI~",
+    "bossName": "李女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8197761ff7c2befe1XZ93NS9FlFW",
+    "expectId": 0,
+    "jobName": "测试工程师",
+    "lid": "5L26c5Ys09Q.search.171",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "银行测试",
+        "功能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "上城区",
+    "businessDistrict": "近江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 171,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.193446,
+        "latitude": 30.228986
+    },
+    "encryptBrandId": "f8249ed10c947fb41XFz39-6Eg~~",
+    "brandName": "远昊信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200703/afcaae654f104f7ad9fb6ead8b8760c53cf7897fd7c0f8cafa44768120013a09_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "股票期权",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

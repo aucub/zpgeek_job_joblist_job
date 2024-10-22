@@ -1,0 +1,63 @@
+{
+    "securityId": "miyRtistE4-4P-J1wOxIP59ihfTgOsevdmtDhd6CQ6ixJUZKkCbm0ErcfO9GMsoGkquaOMszcbRo5gCNMu3ZHgOYLuuqgSkdN9QqcA9SO1Lr1rKPBgA~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "6a9cbc5171484543031z3tq6F1s~",
+    "bossName": "郭女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7f00a4427e9245511XN53t-4FVRY",
+    "expectId": 0,
+    "jobName": "机器人测试工程师",
+    "lid": "Nz3PU3ZYyG.search.28",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "自动化测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "含浦",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 28,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.867057,
+        "latitude": 28.122178
+    },
+    "encryptBrandId": "bd153f2fc7a029551nVz2ti1FFU~",
+    "brandName": "维大开物科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "年终奖",
+        "节日福利"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "XqJbBUGymRdcl-H1T0f7_mtS65DtBD7EEIbHlyEeLx1AJOACf1HtubkKrZyi8BSC3Zbt1eHl9Jn3huy2C0LhwwlyslHQXJje6darItsWqcjh_WGmX0s~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220406/607f1f3d68754fd0436ac88b2afb4e89dc24a7ad0294208ca062f7588dc3fabf5a372fbaa092df06_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "d4913416f095d3720nR_2dq6FVY~",
+    "bossName": "毕先生",
+    "bossTitle": "ceo",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1500753b52496ddb1HNz2966GVBT",
+    "expectId": 0,
+    "jobName": "数据统计员",
+    "lid": "2ZDyy5WHRf6.search.157",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据统计员",
+        "财务统计员",
+        "电商数据统计"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "花都区",
+    "businessDistrict": "花山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 157,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.24411,
+        "latitude": 23.397336
+    },
+    "encryptBrandId": "104644dcce7f00b01nJ_0tu4F1M~",
+    "brandName": "河北健安喜",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20221130/7bf6f160950405e92469082a97e10a62814e617ba6d902cba062f7588dc3fabf5a372fbaa092df06.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "底薪加提成",
+        "保底工资",
+        "绩效奖金",
+        "年终奖"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

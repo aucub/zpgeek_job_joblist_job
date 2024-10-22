@@ -1,0 +1,63 @@
+{
+    "securityId": "JT6qisfks8jBa-i1dDmYWdyotYV4IBr6sAp8areVyThXJ6VwC3OG-30FvgCpkA_uaKnov-7xaobFgIE01Ha5FSVzOcn6VWo6L7yNOLxnls4TkQfeGME~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "encryptBossId": "0579e9544b99525803N82dS_GVo~",
+    "bossName": "谢先生",
+    "bossTitle": "深库信息科技总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "774eadb2a3cd379b1XB_29i4F1dT",
+    "expectId": 0,
+    "jobName": "java开发工程师",
+    "lid": "2Aw3usMkUep.search.171",
+    "salaryDesc": "7-12K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "MySQL",
+        "MongoDB",
+        "Java开发经验",
+        "python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "杨浦区",
+    "businessDistrict": "五角场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 171,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.518,
+        "latitude": 31.29363
+    },
+    "encryptBrandId": "9a8671e7d533e5d21nZz296-FFE~",
+    "brandName": "深库信息科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20241008/7bf6f160950405e9c2b74a070fdfcb18db5f57f4d14aa1ed999468276f9b7beb1bea3939a3fc2c4c.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "人工智能",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100028,
+    "contact": false,
+    "showTopPosition": false
+}

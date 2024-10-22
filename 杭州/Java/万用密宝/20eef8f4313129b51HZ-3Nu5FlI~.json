@@ -1,0 +1,62 @@
+{
+    "securityId": "PFiW_5vAzfn5I-k11ZmBYxyWqEs_GGVk3TaVODF_Cvq40dWcm4psCEy138J1CquphZel8Ncneu6d6EgqXBJABMh1nG9bpWXZj2NmrfZZXAmJUDut",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190110/de36b5683edb49573855b17bde58c5bce4db4058b3200ad3757d0da32f0df295_s.png",
+    "bossCert": 3,
+    "encryptBossId": "cf35706414c073560nV62NW5EFU~",
+    "bossName": "陈女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "20eef8f4313129b51HZ-3Nu5FlI~",
+    "expectId": 0,
+    "jobName": "Java",
+    "lid": "1JZJNSJNHU9.search.185",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Android",
+        "Javascript",
+        "Java"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "万达广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 185,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.107748,
+        "latitude": 30.336833
+    },
+    "encryptBrandId": "95d35d67a95140f31HZz3NS8FQ~~",
+    "brandName": "万用密宝",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "信息安全",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "可以在家办公",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100016,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "WO6OvygZDJBL4-m1jzgXjEdy3abcyDc0NLjpM-OxjqHfZNndhl8Bjr5jYT0IoOLGQAaFgaUppxcALAC4x9T3EmtNFRYKeXZ4A5iI5wFgTltL6E_ceJhrbfhQWa6LSHAexwIbcBzf2g~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20191206/cce88338e1a2283ebaeb67f472f25c84cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "102536cf36fdddcc1XJ42NW-F1Y~",
+    "bossName": "周华",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "825f9464b80b29330XF73tW5FFM~",
+    "expectId": 1014042683,
+    "jobName": "JAVA开发工程师",
+    "lid": "1EC925cZ2ND.search.61",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "哈尔滨",
+    "areaDistrict": "道里区",
+    "businessDistrict": "群力",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 61,
+    "city": 101050100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 126.553191,
+        "latitude": 45.737185
+    },
+    "encryptBrandId": "1ea65e76e70698b30n193dS0",
+    "brandName": "华泰兴成",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170511/107422fdb653d78a132a9bbec8fa033f664fdbb40ea650580bb7d8b8de1b91b7.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "全勤奖",
+        "员工旅游",
+        "五险",
+        "节日福利",
+        "工龄工资"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

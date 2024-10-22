@@ -1,0 +1,63 @@
+{
+    "securityId": "_qt0xL0yLHvTX-M1sv60wZQft8y1cwcseApnP1oBUkVLYE3QzGTq7c1RkVgcv6g6wZaW4qsD6aOEdJk4plPZZ9TbRj0Xxe2kSVypDnLa_cxqIH4zRubzXsHnUI2RDlJwHVtlEkYQkZsY",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240829/607f1f3d68754fd028e3e57f39ec245d12ce10fee8acfd6931dd4cf3206a6723f14bfac26d0b5ab3_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "ad7b3bda2d9b61090nZ73964FFFV",
+    "bossName": "陈女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "48aec3886753dacc1Hx42Ny1ElFS",
+    "expectId": 1030426395,
+    "jobName": "软件运维工程师",
+    "lid": "MAIP0kYb24.search.52",
+    "salaryDesc": "8-11K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python/Shell",
+        "计算机相关专业",
+        "Linnu"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "温州",
+    "areaDistrict": "瑞安市",
+    "businessDistrict": "塘下",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 52,
+    "city": 101210700,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.674989,
+        "latitude": 27.847129
+    },
+    "encryptBrandId": "7eaf057d634b46510HR93dW5",
+    "brandName": "大东鞋业有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170602/3ac88c27cc46467b29b0d3478d8de1e81c4716fb4ca65a2a7cbcfad34604edb2.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "生活服务(O2O)",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "五险",
+        "住房补贴"
+    ],
+    "industry": 100007,
+    "contact": false,
+    "showTopPosition": false
+}

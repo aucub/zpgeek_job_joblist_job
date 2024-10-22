@@ -1,0 +1,63 @@
+{
+    "securityId": "neSL2etJgbpF1-41LNEMHHVjpGgnUVSpBvV39Xc565QYmG7685yQei82nxYktERvIjQGywREUc1EcuC168JoNM_omjhPF-N96ko2Fe9pR1MJFef3wtTy",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "649c4a78df2aa79a0XRy29m4E1BQ",
+    "bossName": "张女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "88ebe4f1a7f574271X1-09u_E1NU",
+    "expectId": 0,
+    "jobName": "软件测试",
+    "lid": "3tgQOrHcrPd.search.3",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "软件测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "上地",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 3,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.306741,
+        "latitude": 40.037994
+    },
+    "encryptBrandId": "f78e87653e4465e01Xx_3t-4EVo~",
+    "brandName": "启明远扬",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "带薪年假",
+        "意外险",
+        "节日福利",
+        "餐补",
+        "补充医疗保险"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

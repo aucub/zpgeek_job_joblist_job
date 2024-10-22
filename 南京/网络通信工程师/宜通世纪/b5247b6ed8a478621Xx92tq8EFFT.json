@@ -1,0 +1,63 @@
+{
+    "securityId": "gFIReC0MksOEY-C1OPc__dSQrWSxilSUpnClY_D83RrdX0gEjvH84HKMEzas1OfKTtztAyePsi8xR-7PT6lRWdpxv8l5H2LQe13QxWaXiy9-21sxJcw~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "6cfe633ef387eaa21nZ539m4E1VQ",
+    "bossName": "朱女士",
+    "bossTitle": "项目经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b5247b6ed8a478621Xx92tq8EFFT",
+    "expectId": 0,
+    "jobName": "网络通信工程师",
+    "lid": "2a2HjVPxQPx.search.146",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "通信/工程相关专业",
+        "系统集成项目管理工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 146,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.798406,
+        "latitude": 31.927068
+    },
+    "encryptBrandId": "76cff6b3b72f74d21H182NW9EQ~~",
+    "brandName": "宜通世纪",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200525/0e5758a45b89c6b6a1cf894a97c590f04e74e6313f149ce9c0c2e351b0e29387_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "底薪加提成",
+        "补充医疗保险",
+        "五险一金",
+        "节日福利",
+        "带薪年假"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

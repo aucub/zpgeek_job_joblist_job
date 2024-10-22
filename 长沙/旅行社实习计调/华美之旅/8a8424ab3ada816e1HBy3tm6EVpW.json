@@ -1,0 +1,61 @@
+{
+    "securityId": "uIfUep6c5ouSe-H1m3wkgWQ6Z-lHDq_CR7VgU1f7vOWq4K50eNECUKFekfxBNzB7qp8XXWkLa_MTiJbYJOCvcEQaBLHZMFJXZQrgekbCFYMoVhuh",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170825/d0e6edeb058c26a34b35fdd6ec8773ffdca20dc1bbc3dc11ea8a5435964dc41f_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "50b029ebfd44a34c1HR83ti8E1o~",
+    "bossName": "王先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8a8424ab3ada816e1HBy3tm6EVpW",
+    "expectId": 0,
+    "jobName": "旅行社实习计调",
+    "lid": "2yFTsNznQhl.search.137",
+    "salaryDesc": "2-3K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "接受无计调经验",
+        "计调",
+        "导游",
+        "旅游产品销售"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "开福区",
+    "businessDistrict": "湘江世纪城",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 137,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.992439,
+        "latitude": 28.249367
+    },
+    "encryptBrandId": "0af6a3768337dded3nx83NW6",
+    "brandName": "华美之旅",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180119/ff35b8b43403891e3e336cc83d2db9d1dca20dc1bbc3dc11ea8a5435964dc41f.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "生活服务(O2O)",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100007,
+    "contact": false,
+    "showTopPosition": false
+}

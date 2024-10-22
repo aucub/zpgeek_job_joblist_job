@@ -1,0 +1,62 @@
+{
+    "securityId": "gmeoxKYxpqmjj-i1OrgXwwWsKK8Q6ce29uaotoraL0QQA1absYgGLs5_3KdOXmFnfYxSWbpXt--svmD3U1df00VlVab8QK9l30dRP2StTq8LvW0Kk3A~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180830/ef449b7bea627f843d27c42d75be17508756565c556f0940deb0a0365ec49f16_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "bfa89364a042e23203F40920GFY~",
+    "bossName": "方女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "38ec6d36da86e3c81Hd-29u1F1BV",
+    "expectId": 0,
+    "jobName": "食品安全检查员",
+    "lid": "1gZGYGlnks0.search.247",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "食品安管",
+        "文案编辑"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "西乡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 247,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.894911,
+        "latitude": 22.588991
+    },
+    "encryptBrandId": "607badaeb6357eac1nx929y5FFU~",
+    "brandName": "华安",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220321/7b5b554d84f9729c89bf069e255ce118d92bf54026b80f5de5c70a6c44c6e30cb1a5322f1239ad24.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险",
+        "带薪年假",
+        "年终奖",
+        "全勤奖"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

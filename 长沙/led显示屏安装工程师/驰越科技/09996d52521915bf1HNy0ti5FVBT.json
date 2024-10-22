@@ -1,0 +1,63 @@
+{
+    "securityId": "LdkxP9e6dP-6t-b1m4i6J2t_qp6tcP4iQ3bCAwO5JsRVCDMbSHZg3y_qECf0-xtENcGNaQWYA7kaoYoKK9wZ9vKI1QoX6_ZsIG_DN8Mmk7E0zIFwLqo~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_16.png",
+    "bossCert": 3,
+    "encryptBossId": "bb0c23cf421e3ecc1nR-2d69FlpS",
+    "bossName": "尹先生",
+    "bossTitle": "董事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "09996d52521915bf1HNy0ti5FVBT",
+    "expectId": 0,
+    "jobName": "led显示屏安装工程师",
+    "lid": "2yFTsNznQhl.search.19",
+    "salaryDesc": "1-2K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "万用表"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "含浦",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 19,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.883794,
+        "latitude": 28.115056
+    },
+    "encryptBrandId": "03179bdb89c22e4c1nJ_2Nm-Fg~~",
+    "brandName": "驰越科技",
+    "brandLogo": "https://c-res.zhipin.com/jrs/6_cc70b956e934227effae128447f8aa56.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "员工旅游",
+        "全勤奖",
+        "五险一金",
+        "包吃",
+        "年终奖",
+        "绩效奖金"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

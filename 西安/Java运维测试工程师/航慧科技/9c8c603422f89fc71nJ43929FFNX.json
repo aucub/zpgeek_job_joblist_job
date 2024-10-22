@@ -1,0 +1,61 @@
+{
+    "securityId": "9RuJTiysj3fGH-I1EQxXjSM0M0iYRVBro5ayOtfGYT1Wu5_bEOg41nTr-tSoqrzr02x4UCMhz1767ORtuGftWCcZHueUamWiXD9FNPTkd29ixPawn7M~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "0ea7c55471afb41c1nRz09m0F1VV",
+    "bossName": "于女士",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9c8c603422f89fc71nJ43929FFNX",
+    "expectId": 0,
+    "jobName": "Java运维测试工程师",
+    "lid": "5LdwqaJR7zr.search.50",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运维工程师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "西安",
+    "areaDistrict": "灞桥区",
+    "businessDistrict": "洪庆",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 50,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 109.110227,
+        "latitude": 34.269106
+    },
+    "encryptBrandId": "b554dd0087c885691HB62t20Fw~~",
+    "brandName": "航慧科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191107/981aaa0d1e6be3f2fe9319ea2a197068241cca89f9d94e180605cb9cbf688525_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "节日福利",
+        "带薪年假"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

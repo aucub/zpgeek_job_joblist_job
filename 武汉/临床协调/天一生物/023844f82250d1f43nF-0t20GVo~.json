@@ -1,0 +1,62 @@
+{
+    "securityId": "LjjScD4nvoWKp-_1muzAxw7zAGwEdpTXILLlChlkHHMm4nk4ljNeHidpWvEN90TgF4VV7utZiDKEbP7247xBv_19onf6f_4LfflZbgb_53Xxxa68",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20190808/f07ef006966675b1efefb104a07e7129013a70894277e5e95fee8c11849b9e5a_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "b9664d6896fe8e1d0HZ429W_FVU~",
+    "bossName": "高先生",
+    "bossTitle": "销售部经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "023844f82250d1f43nF-0t20GVo~",
+    "expectId": 0,
+    "jobName": "临床协调",
+    "lid": "3oTBM8K7GJJ.search.207",
+    "salaryDesc": "1-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "生物工程",
+        "医药"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "江汉区",
+    "businessDistrict": "菱角湖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 207,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.269529,
+        "latitude": 30.61016
+    },
+    "encryptBrandId": "9f922ce23b6deb0e0ndz3dS4GA~~",
+    "brandName": "天一生物",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190808/50b6e4f5368a7737b33ff2f25ecbf464013a70894277e5e95fee8c11849b9e5a.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "员工旅游"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

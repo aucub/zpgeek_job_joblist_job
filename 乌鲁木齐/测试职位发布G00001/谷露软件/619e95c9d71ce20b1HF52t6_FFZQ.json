@@ -1,0 +1,63 @@
+{
+    "securityId": "07OidI5Z43EJP-R1ecIL60tfXgD2RkWruIGZYu3nCvagagjy-Bv0IGc3_1edkc-FDBbob9VSexoq0Jlwe5BSKXzhfHa9ITLlAN5b9LM6XL9spA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "encryptBossId": "621c95bfdd4c18d41XR80tS-",
+    "bossName": "杨女士",
+    "bossTitle": "测试工程师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "619e95c9d71ce20b1HF52t6_FFZQ",
+    "expectId": 0,
+    "jobName": "测试职位发布G00001",
+    "lid": "5KRl0TVdYNF.search.75",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "Python",
+        "C++"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "乌鲁木齐",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 75,
+    "city": 101130100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 87.607903,
+        "latitude": 43.791386
+    },
+    "encryptBrandId": "b64c25cf95c6dca01nZy2dW1",
+    "brandName": "谷露软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190826/f67c0a6e138de2878652c9a8b8db61885380a69db07dfc5f4884b21526cfee49_s.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

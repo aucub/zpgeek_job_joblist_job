@@ -1,0 +1,63 @@
+{
+    "securityId": "J5vhcSp6DGMeZ-P1zyXT2XAMI0u7kcHd-PKWwERpChpr-dforQoAW3tk1NmuHaOdcVz8kvJHxBLQ8WkBMF6zTluufYaeg3hOQn2OkSlwNCbrxRAy6Xs~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "06b78460f12e4cc41HN-0920Flc~",
+    "bossName": "肖先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "5debea0ccec5515e1XJy2dy7ElVZ",
+    "expectId": 0,
+    "jobName": "后台开发工程师",
+    "lid": "3pFfY7vCzKW.search.77",
+    "salaryDesc": "3-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "后端开发"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "黄埔区",
+    "businessDistrict": "科学城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 77,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.450354,
+        "latitude": 23.164129
+    },
+    "encryptBrandId": "06d75e4069bea06f1XF409u4F1I~",
+    "brandName": "风雷益信息技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230501/7bf6f160950405e9f10f3f9b87f3690d9c76a675597f27325e49663c9801418bae8c36a8512bd8a9.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "团建聚餐",
+        "带薪年假",
+        "全勤奖",
+        "加班补助",
+        "股票期权"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

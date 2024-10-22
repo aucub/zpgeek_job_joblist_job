@@ -1,0 +1,63 @@
+{
+    "securityId": "Vgmz-UC6e1zmW-n1BLXq4RL78Q42or_lGJAzrZ6-hF9sAyO_5ASKrcQDsvVeOXeI_3ETUMr6E2V83cyoticeBXOD3o-BHd1xrWIO8oSXkNxEGLhJt_7w",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "cee697a14b05bb951nZ729-9FVdU",
+    "bossName": "刘先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "727d6573144720341HVy3t27ElNZ",
+    "expectId": 0,
+    "jobName": "服装外贸实习生",
+    "lid": "3nm3DTrRLgI.search.287",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "年终奖",
+        "每周双休",
+        "外贸",
+        "英语"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "黄浦区",
+    "businessDistrict": "鲁班路",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 287,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.473299,
+        "latitude": 31.197535
+    },
+    "encryptBrandId": "65860f4fe5870f601nRz2N-4EFM~",
+    "brandName": "上海高瓴",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "进出口贸易",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "节日福利"
+    ],
+    "industry": 100504,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "QBEupe6XObUlk-11lvHFtBCxX5dY_Ity6jtcgQkYWCbWRCN0Bij5_RHFaG14bpKkFe24I8WWDsYaFhQxrJTZs2V8kRxI0wgX-_PYA3BOhEfkSQpRsRHM",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "dbf2dc96655eb7c00nR_3NW7ElVT",
+    "bossName": "石女士",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8fbca5519b1da4cb1nVy29W8FFBR",
+    "expectId": 0,
+    "jobName": "平面设计兼职",
+    "lid": "3tgQOrHcrPd.search.223",
+    "salaryDesc": "1-2K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "平面设计，网页设计"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "大望路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 223,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.471089,
+        "latitude": 39.899992
+    },
+    "encryptBrandId": "d543a54cb991cadf1nZ_0t-_EVc~",
+    "brandName": "保利斯特朗国际艺术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210102/698c065a3d90345b30a6270e4390dc78bf8e21fb043d26f9aa8117a4c2b8bfbb_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "节日福利",
+        "年终奖"
+    ],
+    "industry": 100104,
+    "contact": false,
+    "showTopPosition": false
+}

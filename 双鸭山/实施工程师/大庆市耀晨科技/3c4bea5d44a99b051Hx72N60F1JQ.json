@@ -1,0 +1,63 @@
+{
+    "securityId": "YZFrT5W8jMxe1-k1xlYf27-fkc9csSyUZ_7k6kl1BGdb1ZBcrDbfMJSkbPZKUPPfEslKJnRuZhBwRHGLJ9BysxBprWsW1p8hWWt3u_ye2Up5d_cRhl2O1Kq_PZyqwCnudSPm2xiqMkcsd5E~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240823/607f1f3d68754fd051ed5d15db95c5e337d9d051f89354a73e0b70ff385e51318a2fa726427a0fe8_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "dac6654213bae6f60XN529W1EFpY",
+    "bossName": "崔先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3c4bea5d44a99b051Hx72N60F1JQ",
+    "expectId": 1014042683,
+    "jobName": "实施工程师",
+    "lid": "2xD6QcnXza0.search.199",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "软件实施经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "双鸭山",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 199,
+    "city": 101051200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 131.141676,
+        "latitude": 46.678279
+    },
+    "encryptBrandId": "4145f5600129eda71HJy3dW7F1M~",
+    "brandName": "大庆市耀晨科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "免费工装",
+        "全勤奖",
+        "工龄奖",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

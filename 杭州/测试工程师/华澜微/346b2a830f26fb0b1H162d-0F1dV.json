@@ -1,0 +1,63 @@
+{
+    "securityId": "ykIBDmURiz75A-E1FhA5OahBqHFtQ390cefl6j30YsQNiJo_eSt9udx_eHLq6vAZn2WaKUXUIRgPuK_23UNOd3KAnLrfMAE_LyY8GW3arYUSo3kOqShe2sbLgsKF87ujYGb6XkqILYWF",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240612/607f1f3d68754fd0747dc7bfaa0985188456cc7d9a0c1e9b95ace965abb9e478ef6e6949a35fa3df_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "7ca6c7e25c43575103V90tW1F1E~",
+    "bossName": "孙女士",
+    "bossTitle": "人事 招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "346b2a830f26fb0b1H162d-0F1dV",
+    "expectId": 1014042683,
+    "jobName": "测试工程师",
+    "lid": "2BvzahTVtmg.search.233",
+    "salaryDesc": "6-11K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试工作经验",
+        "性能测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "萧山区",
+    "businessDistrict": "北干",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 233,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.245516,
+        "latitude": 30.206517
+    },
+    "encryptBrandId": "50252a387e2b6f250XV52Ni7FA~~",
+    "brandName": "华澜微",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200401/7c5087a37112730f1c8f8e9b3d7e2bded1e4933cac5f267fba49743be2aa80cb_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "信息安全",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+    ],
+    "industry": 100016,
+    "contact": false,
+    "showTopPosition": false
+}

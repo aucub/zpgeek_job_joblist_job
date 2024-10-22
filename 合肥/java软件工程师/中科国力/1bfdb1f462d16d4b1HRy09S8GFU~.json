@@ -1,0 +1,63 @@
+{
+    "securityId": "gdiwFes0Np31p-91La11OdTB3WNapiXIv-VCJERIVZTA1eDq3VtXqXQTXAfo5MqN52nVxlO42D2cbZs6tyvaTRC_rve-umbfaL7RPNyIrczMrcbHnYGYQ1JbUjLYdongScqdASntqCo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181204/8e0f091bb9bd0c38ff0a2aaeccdd894ccfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "43d48c6c34fbe3bc031z09W4E1M~",
+    "bossName": "陶燕萍",
+    "bossTitle": "商务经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1bfdb1f462d16d4b1HRy09S8GFU~",
+    "expectId": 1014042683,
+    "jobName": "java软件工程师",
+    "lid": "2AKTf5Zl6lB.search.90",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "后端开发",
+        "Web前端"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "合肥",
+    "areaDistrict": "长丰县",
+    "businessDistrict": "阿奎利亚",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 90,
+    "city": 101220100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.267821,
+        "latitude": 31.956913
+    },
+    "encryptBrandId": "be02f5c121860ac81HR-2tS1FA~~",
+    "brandName": "中科国力",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190704/c088410f26638e9a303f209171b03c218d53ca72292e117aa5ad4510e553e83d.png",
+    "brandStageName": "A轮",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

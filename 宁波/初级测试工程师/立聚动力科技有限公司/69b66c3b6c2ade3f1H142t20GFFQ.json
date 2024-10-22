@@ -1,0 +1,62 @@
+{
+    "securityId": "95sKPn3Vghcij-u184hil74UgIJZjJGFKc-eeIA1KKkwqDRUQnWV-jw56jBe2HwvhnHNd-GoM62rr1zm8tMji1uX1-90sFgJGy8IeDdVK1bKnHHcEAvK3k3TPIv4Bx0AEaGSq-cNIsm3ICY~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "3f7f9ff23baf7e920Xx6292-EVJY",
+    "bossName": "徐女士",
+    "bossTitle": "hr招聘",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "69b66c3b6c2ade3f1H142t20GFFQ",
+    "expectId": 1014042683,
+    "jobName": "初级测试工程师",
+    "lid": "3mQhKZF3Vjw.search.205",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "性能测试",
+        "通信相关专业",
+        "测试工作经验"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "宁波",
+    "areaDistrict": "慈溪市",
+    "businessDistrict": "白沙街道",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 205,
+    "city": 101210400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.294075,
+        "latitude": 30.188101
+    },
+    "encryptBrandId": "000a6561611e61921HNy0927EFc~",
+    "brandName": "立聚动力科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20241015/7b5b554d84f9729cfc927f1559dec50797f0581d7d452d6c7e09ad2758d81e4a0e4308b54ab65ffa.jpg.webp",
+    "brandStageName": "天使轮",
+    "brandIndustry": "电气机械/器材",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100908,
+    "contact": false,
+    "showTopPosition": false
+}

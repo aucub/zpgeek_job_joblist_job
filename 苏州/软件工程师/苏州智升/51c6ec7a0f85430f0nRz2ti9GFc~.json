@@ -1,0 +1,60 @@
+{
+    "securityId": "6fQTO1mIBUlUP-J1djnK3cX5YjU7NokVg25mmIcHZoKVuci1VQCwN7mtCZViGIezPjo99NBzLK2p_uLDhzO_sx1fDPso8-mPGE-JPnIdBD5TnawZ",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190806/bec46c301fd584b7f31bc47d19126f8bcfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "050a718b2785df420HVz3dm-F1M~",
+    "bossName": "黄先生",
+    "bossTitle": "业务经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "51c6ec7a0f85430f0nRz2ti9GFc~",
+    "expectId": 0,
+    "jobName": "软件工程师",
+    "lid": "26xbEbAjGJU.search.12",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C/C++"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴江区",
+    "businessDistrict": "松陵",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 12,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.663367,
+        "latitude": 31.121099
+    },
+    "encryptBrandId": "462d45dd3a41c3160nd_0tu5FA~~",
+    "brandName": "苏州智升",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190808/e716871220a69b20d4b0cd6927d9810238a5c98bdeea05a8b7af44bf6d88f8af_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "仪器仪表/工业自动化",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100902,
+    "contact": false,
+    "showTopPosition": false
+}

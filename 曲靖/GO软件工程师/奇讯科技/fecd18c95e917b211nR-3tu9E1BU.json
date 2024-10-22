@@ -1,0 +1,60 @@
+{
+    "securityId": "dTpWhDuZVowl5-r1wfNkv0v7JUybYpWQ3gBkHPUyVD44WTYmmXDz84nSagP3iJTHDig4UGmPVy2cNb5xVqpc0xn2_v4LwIX2RcGmtzIJHoKBY5zIZgE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191010/afbfe4edf7287968c1de058ef6f1564d6ac612fc62977c0d3885466e7a0f26fe_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "67552b4000780be50Hx63dS_FFo~",
+    "bossName": "唐先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fecd18c95e917b211nR-3tu9E1BU",
+    "expectId": 0,
+    "jobName": "GO软件工程师",
+    "lid": "5KRl0TVdYNF.search.274",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Go",
+        "Web端"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "曲靖",
+    "areaDistrict": "麒麟区",
+    "businessDistrict": "寥廓南路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 274,
+    "city": 101290200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.798815,
+        "latitude": 25.484345
+    },
+    "encryptBrandId": "8b081d4c1b7c93511nB909q0GFM~",
+    "brandName": "奇讯科技",
+    "brandLogo": "https://c-res.zhipin.com/jrs/1_d5d70e741a8662b596c203b03be54844.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "补充医疗保险"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

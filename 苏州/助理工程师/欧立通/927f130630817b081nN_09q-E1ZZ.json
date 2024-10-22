@@ -1,0 +1,63 @@
+{
+    "securityId": "jkAjv5FMCuiV2-T1TkpFNwQcHyqq0jTXv1KCjVTXqpqtLn3XDXskveThtBedv5q3IPq9y4PHRkEAz74sfQu_t4_nCy4u0vBluHmZlCm2s1BpQdAr7W5W",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "a30791e1b66765ac1nZ63t--ElBW",
+    "bossName": "周女士",
+    "bossTitle": "人事行政经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "927f130630817b081nN_09q-E1ZZ",
+    "expectId": 0,
+    "jobName": "助理工程师",
+    "lid": "29Y5Y7NLXXP.search.76",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "助理工程师，自动化"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 76,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.743726,
+        "latitude": 31.702184
+    },
+    "encryptBrandId": "3f5c54c5d94d226b1nd93du7F1s~",
+    "brandName": "欧立通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "已上市",
+    "brandIndustry": "电气机械/器材",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "餐补",
+        "包吃",
+        "带薪年假",
+        "节日福利",
+        "年终奖"
+    ],
+    "industry": 100908,
+    "contact": false,
+    "showTopPosition": false
+}

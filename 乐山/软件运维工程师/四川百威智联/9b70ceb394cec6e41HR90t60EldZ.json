@@ -1,0 +1,63 @@
+{
+    "securityId": "No25y966-nvzJ-Q1fb_qNpmlQRcvSVnZGVxx9XI9IpDdhE9p4DATzoMkjDcztPXhV1Z9dw38eJSwVw-oFUf_6XiO2YpIhr1nV4qFh66OK_lLytVmZw~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "ab0e278d6001d53a0nJz0t65FlM~",
+    "bossName": "鲁女士",
+    "bossTitle": "行政人事部主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9b70ceb394cec6e41HR90t60EldZ",
+    "expectId": 0,
+    "jobName": "软件运维工程师",
+    "lid": "5NDYC0Uxgkt.search.210",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机/网络系统工程师",
+        "Linux运维经验",
+        "通信/工程相关专业",
+        "系统建设/运维经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "乐山",
+    "areaDistrict": "市中区",
+    "businessDistrict": "王浩儿",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 210,
+    "city": 101271400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.766112,
+        "latitude": 29.58679
+    },
+    "encryptBrandId": "01f41f37e7d8a32b0HN82Ny_Ew~~",
+    "brandName": "四川百威智联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200617/9c98588877e22135fe086c5a682ef2fabc7ba816294af599e4acf3019767ca88_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "装修装饰",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100704,
+    "contact": false,
+    "showTopPosition": false
+}

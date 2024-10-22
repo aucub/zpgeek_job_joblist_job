@@ -1,0 +1,62 @@
+{
+    "securityId": "dwpOJGuJJKuKh-s1A8Nn6JaOV0FHhiKiUqiGLEZJ1-mUYYs675xM5U2LmxDwU1wWHpsCfdPs7v7JiQSm20ic-iu1OISZUKYrCk7CAXOFQEM8wH9j4gM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240617/607f1f3d68754fd0e6fcc463b9aa0ee3213de92e96ca900f2b2edb6f0f416548e77a39fe0ba91425_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "534dcd0f35f7d1d933Z83t20GVI~",
+    "bossName": "张女士",
+    "bossTitle": "运营管理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ca2315d797aabb171HNz3t-9FlJR",
+    "expectId": 0,
+    "jobName": "小程序专员",
+    "lid": "5F3NbisUDKw.search.138",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "在校/应届",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "PHP",
+        "JavaScript",
+        "计算机相关专业",
+        "PHP开发经验",
+        "PHP、前端、小程序"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "银盆岭",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 138,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.955223,
+        "latitude": 28.227073
+    },
+    "encryptBrandId": "57d4ba14ebfe75471HF_3t60E1E~",
+    "brandName": "湖南思反文化科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20240829/7b5b554d84f9729c527bff7259acca3b0f9187161dd96a4f2b2edb6f0f416548e77a39fe0ba91425.jpg.webp",
+    "brandStageName": "天使轮",
+    "brandIndustry": "宠物服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "保底工资"
+    ],
+    "industry": 101110,
+    "contact": false,
+    "showTopPosition": false
+}

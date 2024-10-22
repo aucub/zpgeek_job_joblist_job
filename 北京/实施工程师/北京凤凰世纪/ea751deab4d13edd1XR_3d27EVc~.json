@@ -1,0 +1,61 @@
+{
+    "securityId": "IE6EmP-acranG-x1Iqu74Y0Rz8QRcba62g0ZTrtq1UsNqQHDrUe1laByDyPICLm39Wjp_S5yA3vayovWCwPnT3f3ysxuX5ndAJEckvF4YBF6YcpGLMqmgxluqyOm9_x8gYuYxnkR2g~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180210/09d351249c24143a2ac472aa3448ae5bdcaa44353f4a539e268e7d346809630d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "5fb64ffae50143551X152ti6EFU~",
+    "bossName": "柴卓志",
+    "bossTitle": "项目经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ea751deab4d13edd1XR_3d27EVc~",
+    "expectId": 1014042683,
+    "jobName": "实施工程师",
+    "lid": "1e3UqTFcdy7.search.268",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施",
+        "文档",
+        "数据库"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "北太平庄",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 268,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.3653,
+        "latitude": 39.97303
+    },
+    "encryptBrandId": "4df06f4627d45fc01HJy2dm5",
+    "brandName": "北京凤凰世纪",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180515/a67f283d2d97a39e57186104e4e61fbddcaa44353f4a539e268e7d346809630d.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "餐补"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

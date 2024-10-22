@@ -1,0 +1,61 @@
+{
+    "securityId": "InUC1ZYA0G-bC-11jYmmbY7iXv_LT9Wo3Uf-LhsptzlCCxRZAH3igfCXyLTw6aUgV199pJnWWvJHRg2TyBlQfrY9oQTxFgmKGLRwvyko14jP-rX2XgDu",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "2796926c8702726a0nd52969GFVV",
+    "bossName": "郑先生",
+    "bossTitle": "企业法人代表",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "851b679c18e11b1c1nF80tW5F1tW",
+    "expectId": 0,
+    "jobName": "网络运维工程师",
+    "lid": "5EOXKpGfS3x.search.145",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Windows",
+        "交换机配置",
+        "网络自动化",
+        "路由器配置"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "南山区",
+    "businessDistrict": "南头",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 145,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.921712,
+        "latitude": 22.533431
+    },
+    "encryptBrandId": "8665ec36c975e3591nN42tW4F1I~",
+    "brandName": "洛泰克",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

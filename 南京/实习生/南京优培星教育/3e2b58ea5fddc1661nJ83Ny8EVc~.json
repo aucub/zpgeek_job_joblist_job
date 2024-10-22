@@ -1,0 +1,62 @@
+{
+    "securityId": "17KdPVf1Ldo7k-61pGeCqCruhvFtYN8sMnJsZPWt7JwPJ3l_gOwQd-jZc_E-0ZkH4JwEI8RrqURlJphUQkLXA3Dco_hRgrk_hcIoCxV_DpS_tWg~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180108/1802c97dd48fd4324ff315f0bf63717fd4fb1ea3e6ae9afbfdff26e9d751c395_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "663ed0db67b89e6c1Hd92t-0EVU~",
+    "bossName": "费女士",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3e2b58ea5fddc1661nJ83Ny8EVc~",
+    "expectId": 0,
+    "jobName": "实习生",
+    "lid": "2a2HjVPxQPx.search.260",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "学习能力",
+        "综合素质"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "建邺区",
+    "businessDistrict": "兴隆",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 260,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.73406,
+        "latitude": 32.013221
+    },
+    "encryptBrandId": "da030b6fcd60aa5a03B5396_",
+    "brandName": "南京优培星教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180727/b764de95bc3a9a9e9d3672232419944300c38999055cff43a209eb11b5755bd4.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "在线教育",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100012,
+    "contact": false,
+    "showTopPosition": false
+}

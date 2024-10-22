@@ -1,0 +1,63 @@
+{
+    "securityId": "mpY9CRXQC86Xp-B1JccAnOS3yNX1WW3kFuI7dsADNn-RBm_6NGWd9xp2hVnC1YICIGJq4KvyMRfWMT3sMD0iu-5f-f3_CzctaxQg_-mJP0_Del2unq3t",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210428/9ecb472f607341887aa221d24d035ba777c030cde293be403c9261d30e766e1c_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "534cdeb2f235d4f40nZz3tu-EVRR",
+    "bossName": "尤女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "cae8ee7c02bea05f1HVz2ti_GVZW",
+    "expectId": 0,
+    "jobName": "长护开发",
+    "lid": "3452REajjzR.search.67",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "个人（To C）",
+        "面销/陌拜",
+        "其他产品/服务",
+        "不接受居家办公",
+        "医疗/大健康",
+        "面销/陌拜经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "太仓市",
+    "businessDistrict": "太平南路沿线",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 67,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.093,
+        "latitude": 31.452497
+    },
+    "encryptBrandId": "11ba340fd8f9f3031Xdy3tq6F1Y~",
+    "brandName": "乐惠居康养集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240715/7bf6f160950405e90906e0e1619feb34d8810112b3c53b0475cb274be30d3623df5d3de449feba5b.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "其他生活服务",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101106,
+    "contact": false,
+    "showTopPosition": false
+}

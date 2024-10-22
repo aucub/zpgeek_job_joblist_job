@@ -1,0 +1,61 @@
+{
+    "securityId": "1Ksy_8WutNDP9-O1YdZN3Pc66ooc1kvI1tShd8j_cdx6dwjFL29Zs61n6OlufU7v4REso4DB0zVFH6K8LNF0VDcYfrJvPYSfH-jcMSh8x-3l1W2A1dt7gism_NCC7dQkRDJTyOv6brV3PA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "ddb8ee726f857a8f0nV-3NS0EVdQ",
+    "bossName": "廖灿梅",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "34bc9911dc8433831XZ83NW1F1tX",
+    "expectId": 1014042683,
+    "jobName": "实习功能顾问",
+    "lid": "5E4ZsFV9tCN.search.103",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施工程师/顾问"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "重庆",
+    "areaDistrict": "沙坪坝区",
+    "businessDistrict": "西永",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 103,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.370579,
+        "latitude": 29.599924
+    },
+    "encryptBrandId": "bb6aa31e7f032b3a1HZ93tm_Fw~~",
+    "brandName": "上海亿格企业管理咨询",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20211026/7bf6f160950405e9f380173bbc1a157cd43f4eee73d60f2e18dad84ccb9cb473fa86ee7d95a85000.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "通讯补贴",
+        "带薪年假",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

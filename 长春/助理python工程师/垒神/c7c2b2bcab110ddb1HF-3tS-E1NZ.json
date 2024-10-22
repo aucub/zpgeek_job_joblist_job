@@ -1,0 +1,63 @@
+{
+    "securityId": "2n0OND-B9KhHh-f1uTJrxNxsO_qJGYZul3D8_jsYnF5K8hN4u2GRG2TSz3Fk_1u4lfTmrRx2fg5eCyDVufMONeZbiTgh7lJ4LF0RqK3JnutUVSBj5HilHpaRpi4euYa4IIrze1LBRSxkRA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20200107/7490934cb35d01197899f5d53d1cd5e5cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "9e9d9daed3a736bc33F83tu5GFU~",
+    "bossName": "李达",
+    "bossTitle": "行政人力主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c7c2b2bcab110ddb1HF-3tS-E1NZ",
+    "expectId": 1014042683,
+    "jobName": "助理python工程师",
+    "lid": "2WK23XVPqKc.search.10",
+    "salaryDesc": "1-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Python",
+        "Django",
+        "MySQL"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长春",
+    "areaDistrict": "二道区",
+    "businessDistrict": "临河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 10,
+    "city": 101060100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 125.365553,
+        "latitude": 43.853065
+    },
+    "encryptBrandId": "5bd9c1446eb4b95c1nN50t-1E1U~",
+    "brandName": "垒神",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "节日福利",
+        "餐补",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "mXeDqcFJ3soSz-v1H92ZUi-L7zEOPtTri3_dHCNJr4TuHiLnN9BG9SKyFkGftL2L7SHoYEZVecU_pj5t2QXY4D4J3eLTe2fnQ2bhaBKTfrRCKWWxlhzuHbD1zUlDtEuV9SbYxQF4I83KVw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210922/607f1f3d68754fd08fdfd61825986c92167e60dca9ead820d40d5dc789cccc57db46b82cfb6ee6cb_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "cf153061a3f176200nZ72928FlNY",
+    "bossName": "关培文",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "bcbdd1de0503376f1nx92du4GVRU",
+    "expectId": 1014042683,
+    "jobName": "测试工程师",
+    "lid": "3mQhKZF3Vjw.search.283",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "性能测试",
+        "软件测试",
+        "web端测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "佛山",
+    "areaDistrict": "顺德区",
+    "businessDistrict": "大良",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 283,
+    "city": 101280800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.301315,
+        "latitude": 22.797586
+    },
+    "encryptBrandId": "ea63f10c54b824c91H1z3dS9Ew~~",
+    "brandName": "淘力网",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210331/22928f407f4a3a334c0150d77277809780cf6bb64e39380e9bc30c2873f9cc42_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "股票期权",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

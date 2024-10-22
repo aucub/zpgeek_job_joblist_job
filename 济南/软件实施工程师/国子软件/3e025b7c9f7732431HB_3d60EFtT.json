@@ -1,0 +1,63 @@
+{
+    "securityId": "QccobKLhQm65x-51xlX2Tpr69Wjf8vpCYUHGaetq6VYsqk89J59Cfo57D77Jd_RHFaeVArZCL34t9JL1cg_pMDXy856WhkEQJeNxtFOG4rpTvEUgQWQ~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "e215ee5f8c31ca550nJ50tS8FlVT",
+    "bossName": "梁女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3e025b7c9f7732431HB_3d60EFtT",
+    "expectId": 0,
+    "jobName": "软件实施工程师",
+    "lid": "5NDYC0Uxgkt.search.231",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "通信"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "济南",
+    "areaDistrict": "历下区",
+    "businessDistrict": "齐鲁软件园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 231,
+    "city": 101120100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.146864,
+        "latitude": 36.677117
+    },
+    "encryptBrandId": "a59a46b2eda695661XZz3d6-FQ~~",
+    "brandName": "国子软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180822/c3a602feec91f8bea8fcb32b60d0673dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "交通补助",
+        "全勤奖",
+        "补充医疗保险",
+        "通讯补贴"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "bSxM1XAr-yLpq-w1V0SueSU1gI9YW9uFzCKZXOu6TKJO8TtX7VQd85l-Z4-tJmS_3TrmDhytTyoWNZfqV0P41Z1TQT0p6bZp0FoRReenXqUuVniLypQfiwEFmQXnT1cMqy-Xg03CpcGMbg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+    "bossCert": 3,
+    "encryptBossId": "4be212272c0e56d70nx43t20F1FU",
+    "bossName": "赵航",
+    "bossTitle": "项目助理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ff7a76ccacd688a91HN52tu1GFtX",
+    "expectId": 1014042683,
+    "jobName": "大数据实习生",
+    "lid": "1bJh58MJOmg.search.113",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "丰台区",
+    "businessDistrict": "六里桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 113,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.322087,
+        "latitude": 39.866701
+    },
+    "encryptBrandId": "ff65de07f3c3acc41XF629S_Ew~~",
+    "brandName": "大容智通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230423/7bf6f160950405e99b8149fb5eb7cff5cee7ea677180f4f62e9030d404de8080d49d20d0bf6da69e.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

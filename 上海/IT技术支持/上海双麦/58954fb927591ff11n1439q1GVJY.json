@@ -1,0 +1,63 @@
+{
+    "securityId": "egBmjopEbsp7F-_1yM3UiADexhyPMKdYeXbrSzWBlbWnRpr1jTRBznMaiAutSKpYpEWOxebig1RFRJjTTmU39cfekUix6W9uwIOm2da_yVFEBjrckew~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201112/4842d3940ab291d3caa0557acb077398c7d6f64b2ce03c5b704f766637641ef9_s.png",
+    "bossCert": 3,
+    "encryptBossId": "083aebe8d59208ae0nR439-1FltY",
+    "bossName": "杨女士",
+    "bossTitle": "HRM",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "58954fb927591ff11n1439q1GVJY",
+    "expectId": 0,
+    "jobName": "IT技术支持",
+    "lid": "1JQn5CiRl18.search.123",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "故障处理",
+        "计算机相关专业",
+        "Windows"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "上南",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 123,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.47227,
+        "latitude": 31.169815
+    },
+    "encryptBrandId": "1ccd797320c3efcd0nd63d29Eg~~",
+    "brandName": "上海双麦",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210610/fbe89ffca39ff2ecd9ba550fb8e7d7477828d092485db2ebe121cf8d4be493cf.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "补充医疗保险",
+        "五险一金",
+        "带薪年假",
+        "定期体检"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

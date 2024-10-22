@@ -1,0 +1,62 @@
+{
+    "securityId": "x2dTchpcUmXZk-t19hbgB3sc099B2KOGqiXqmAJqo33UF_Sh8v436dLVMMsws2n4yhoM4vIfPYh-xjj5iqkWdtfBsdGH3JdqFNlbcvejTbioxDuGvcCh",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201212/33fe89390bb9dfae82b19c32b3a418e47deca58dd80c4f77ba8775cdb8bef9b7_s.png",
+    "bossCert": 3,
+    "encryptBossId": "ecb50ad14334b9c40nV62N68EVNU",
+    "bossName": "刘女士",
+    "bossTitle": "总经理/技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6e799b25dd0a842c1HZ42tW_EVBT",
+    "expectId": 0,
+    "jobName": "测试实习生",
+    "lid": "30CexlyJAsb.search.25",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "性能测试",
+        "Java",
+        "MySQL",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "市桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 25,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.35151,
+        "latitude": 22.95074
+    },
+    "encryptBrandId": "6269b6188f5d3db61XB40t-5E1c~",
+    "brandName": "趣拍",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230807/7bf6f160950405e92c1ac314a329b491477f41fe78c8a3ab7ccd4c37985dad4ba908192b05b6984a.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,59 @@
+{
+    "securityId": "WxdqDWRnkzhzs-J1oKtX0jl9Uo1degBfGyeJ-nsGeSd8z0_kVw_iAl7YzUMzosd2D0DsIAnZ-Up0okLzxg7a7IaQeVRhsyltFsNzkjX8B5FTb-9DuBEhyq_8mDUp8v68obiYSC-Rns9irQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "7bf5d38550dcdbfa1H183tS8EFA~",
+    "bossName": "黄先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "733e2da6507d0c051Hxy3t27GVBY",
+    "expectId": 1014042683,
+    "jobName": "软件实施工程师",
+    "lid": "2XpyYpLZ3oM.search.212",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "泉州",
+    "areaDistrict": "丰泽区",
+    "businessDistrict": "后埔浔埔",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 212,
+    "city": 101230500,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.679303,
+        "latitude": 24.875219
+    },
+    "encryptBrandId": "7fdca6ca8a414e1e1XB639W0Flo~",
+    "brandName": "幻学科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "团建聚餐"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

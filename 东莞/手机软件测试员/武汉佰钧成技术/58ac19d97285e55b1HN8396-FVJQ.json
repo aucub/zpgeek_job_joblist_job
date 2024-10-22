@@ -1,0 +1,62 @@
+{
+    "securityId": "7AKyFRxLRsABS-W1PG8xGe5Cv59osh9W77K0y1uh25wAUcFYi8XS0zcfRMpmEOf6dIAgVhjCxQOf6Cllvp03JehlgmCILXKb0QDO1ZwRHAeebQbdKA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210525/fbc513ad3e81b5ed05b2a1be9525bb7f9e17a898a7bd10869fb6c7664bc0355d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "1b056c2110004f4c0nV83Nm5FlVX",
+    "bossName": "王女士",
+    "bossTitle": "hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "58ac19d97285e55b1HN8396-FVJQ",
+    "expectId": 0,
+    "jobName": "手机软件测试员",
+    "lid": "5M5bena2tPd.search.7",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "iOS/Android测试经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "东莞",
+    "areaDistrict": "长安镇",
+    "businessDistrict": "长安新区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 7,
+    "city": 101281600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.783316,
+        "latitude": 22.761144
+    },
+    "encryptBrandId": "71bcdc1198f6c83703J70tq8",
+    "brandName": "武汉佰钧成技术",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/39330dfb0bc7d6cad2158722dd7d37fecfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "节日福利",
+        "带薪年假",
+        "补充医疗保险"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

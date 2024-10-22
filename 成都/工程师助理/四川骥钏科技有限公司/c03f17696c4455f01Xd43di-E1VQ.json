@@ -1,0 +1,61 @@
+{
+    "securityId": "1MucX2uYKXiD9--1O86JNZWM-24SvWelfKrDKZMJF62EWde91o_T2mdGeWewPIaehKFrY4Sa7IuByMK3uig-srORU0U2UtQGpoA3iFRbW7v3uMgP9zY~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190304/be11b5606248753d56c4460bd5b3d857f1e0db40da92353e57041ae0c1b7cbbc_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c32adbef0c6767cf0nJ72tS6FVY~",
+    "bossName": "徐女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c03f17696c4455f01Xd43di-E1VQ",
+    "expectId": 0,
+    "jobName": "工程师助理",
+    "lid": "33rJolUyVys.search.239",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "消防认证"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "新都区",
+    "businessDistrict": "三河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 239,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.143784,
+        "latitude": 30.791614
+    },
+    "encryptBrandId": "3e9d42bbeebc7f9c1XV82N60EVA~",
+    "brandName": "四川骥钏科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240120/7bf6f160950405e996ea715de10a3ea4e5fc5d7d1f486a95f1e0db40da92353e57041ae0c1b7cbbc.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "保底工资"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

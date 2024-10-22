@@ -1,0 +1,60 @@
+{
+    "securityId": "K1H7HntqfKIF2-31IpuSZaNMKawJf_Vrm8SAZ6CemXYeAIkCn9icQJbYzmEayp0G4fw9Mwo0Y4meqWQbbtmfiDdoupIjsUEA8f7GKOX6uLpAQlSz",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240718/607f1f3d68754fd0861904ef2974f02cedd828324909d1435040e5d7c8ad9de1f25ba03e792c7213_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "8f07c656fbd26ac60XJ53di8F1ZZ",
+    "bossName": "易先生",
+    "bossTitle": "总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fc311b0903fc4f481HN72di1FltU",
+    "expectId": 0,
+    "jobName": "软件项目经理",
+    "lid": "5LzGAFHrCp0.search.291",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "销售支持/交付管理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "常州",
+    "areaDistrict": "新北区",
+    "businessDistrict": "黄山路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 291,
+    "city": 101191100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.992795,
+        "latitude": 31.811305
+    },
+    "encryptBrandId": "aa9d7204697230433ndz2dU~",
+    "brandName": "好奇科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200916/3190c0d7118507875d68dd87ff9a3c4efdf7f83992dcde4714b04cb7a13737ef_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

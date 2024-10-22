@@ -1,0 +1,63 @@
+{
+    "securityId": "9s7HsI0i6YWX1-B1jf-eHIHhdaztpzMxetLROp2p10VgacktQGcoTczb34pXbjkq96PSd-SuwLr8gUIwRmoXBnBnxrS_uGqcNUeOio4cWCo_gqdoqhI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240626/607f1f3d68754fd04ca9b3a2d9d8856ee88170739a3696d9a2fd2eedb15b5b8b97d070c97793e3a9_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "6d6f68c4b73ed2ba0XJ53ti1FFM~",
+    "bossName": "苏女士",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2ddf9fa0ebc2bcc01Hx63ti0ElVR",
+    "expectId": 0,
+    "jobName": "app测试",
+    "lid": "5GR51cbeyDr.search.102",
+    "salaryDesc": "7-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "iOS/Android测试经验",
+        "测试工作经验",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "望城坡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 102,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.88006,
+        "latitude": 28.229685
+    },
+    "encryptBrandId": "9e1bceeac44be7361nd80tq6E1U~",
+    "brandName": "中电金信",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b9fa12dd0bfae135a91b57eebeebca3dcfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

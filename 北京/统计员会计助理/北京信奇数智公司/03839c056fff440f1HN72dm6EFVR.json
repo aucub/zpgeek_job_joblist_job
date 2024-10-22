@@ -1,0 +1,59 @@
+{
+    "securityId": "WABfq93e914FU-w1xAkESyjx47s16WejO3R3hE4D-c9E7z5ZSr9sci-Kw49JNaTUJgo_6qrMMSc8pN4o-ECAW5XPfduLoVsKUDRNlAlPHR0x19J25xYd",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240530/607f1f3d68754fd0509b55b12bbad95b62caf1b0efa89a2085227e5d07575ddb67c5d92581930c59_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "4a354c49d8f2dcdf0XBz09W_GFJV",
+    "bossName": "周女士",
+    "bossTitle": "运营管理部总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "03839c056fff440f1HN72dm6EFVR",
+    "expectId": 0,
+    "jobName": "统计员/会计助理",
+    "lid": "3tgQOrHcrPd.search.227",
+    "salaryDesc": "2-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "统计"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "通州区",
+    "businessDistrict": "玉桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 227,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.686545,
+        "latitude": 39.903825
+    },
+    "encryptBrandId": "846def723a6d3a811HB-09u_EFY~",
+    "brandName": "北京信奇数智公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240726/7bf6f160950405e9aa1121a3133400ac8aca4dd1bfb2c38085227e5d07575ddb67c5d92581930c59.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "股票期权",
+        "五险一金"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

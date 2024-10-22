@@ -1,0 +1,61 @@
+{
+    "securityId": "kZqVSnr3OUNm5-Y1h9jR-VtbsaQerMBOUc5N9gNX4NAV7Iyzis7Yp9egdyCcgd7oVRpro-tosHFDSYz-B1qhM01HTiqxoCNhzv80-1WVfC6mw7Tscw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180823/833e062919740ce3d0d88e0a2267379d1d1d352687e5167468e1aea6eedd9186_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "6fa9b19a4a9ea1b81nd43ty0EFE~",
+    "bossName": "杨女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dfe8f5e3ca59cac11nR63Nm_EldR",
+    "expectId": 0,
+    "jobName": "剧本杀dm主持人",
+    "lid": "1HzzGfanOe1.search.276",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "游戏",
+        "主持人/司仪"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "西湖区",
+    "businessDistrict": "浙大紫金港",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 276,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.092556,
+        "latitude": 30.317618
+    },
+    "encryptBrandId": "7e58ee680c88b52b1nV42dS7Ew~~",
+    "brandName": "杭州一帘幽梦软装",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190223/14fb7c73976b771d1f3d7e9fa37336f41d1d352687e5167468e1aea6eedd9186.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "全勤奖",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

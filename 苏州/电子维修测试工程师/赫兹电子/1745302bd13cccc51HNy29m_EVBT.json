@@ -1,0 +1,63 @@
+{
+    "securityId": "oJbK90T1ldnes-m1tkaBxAeuOaqUcmKEdTUojbSh01b_gjIlb5xId8cKJ51kQ2qngnekKMRueqqZ8AyiXJfLbYbqkbXVEYhY1AR0Y0BYK1xlOHYhyg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "encryptBossId": "b8a4f165664a3e801HV439i4EFY~",
+    "bossName": "吕先生",
+    "bossTitle": "项目经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1745302bd13cccc51HNy29m_EVBT",
+    "expectId": 0,
+    "jobName": "电子维修测试工程师",
+    "lid": "29ntA1bqAtI.search.125",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "热风枪",
+        "烙铁"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "相城区",
+    "businessDistrict": "元和",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 125,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.661313,
+        "latitude": 31.399442
+    },
+    "encryptBrandId": "928e573897bf978c3nB63tS5GA~~",
+    "brandName": "赫兹电子",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "年终奖",
+        "股票期权",
+        "餐补"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

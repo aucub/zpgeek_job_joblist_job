@@ -1,0 +1,61 @@
+{
+    "securityId": "0K5rzNL6T7gtJ-V1JEiumCMmpxnvReZaTmMjW-WwUnL-0s94s7yfJQXKIAOdTi-sY5a8wG1PnAxZjM8E7RRQUImJ55ovZGILxu8zi6fMA_N1DSAgLQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230609/607f1f3d68754fd09247d5bb2ed4f393d6852e32622243777f43cde7eb6c7717d82e9fffba3a945d_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ca329fd0d39ab3691HB_3N-8EVQ~",
+    "bossName": "刘先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dddff5c330b2bcb41Hx63d-6GVpY",
+    "expectId": 0,
+    "jobName": "项目助理",
+    "lid": "5FNStcY4e8f.search.266",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商/零售项目"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "西乡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 266,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.868362,
+        "latitude": 22.582452
+    },
+    "encryptBrandId": "4bcf4bb914faac851nB83tW9Eg~~",
+    "brandName": "瓷家乐",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "社保",
+        "保底工资",
+        "底薪加提成"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

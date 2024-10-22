@@ -1,0 +1,63 @@
+{
+    "securityId": "hjRqJEOCnSk2N-J1Lk0-jYKyiywypl5YbsCkwIi7nfZK2wMZqP1ZMWzAcN7TtkJSUFOluDIZM29KIucROQkjBpZdoE6VZ2-qh9mjUQTfcEbYIGuMlQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220712/607f1f3d68754fd0198c42819fd638264312565555774c17abfb0f5c24a0ea7a9f56abfe58abb2b9_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "a3cdbe4157b58a943nB53tW4FFc~",
+    "bossName": "廖女士",
+    "bossTitle": "HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "43da547b06d74a001HJ-3920EFZW",
+    "expectId": 0,
+    "jobName": "信息流剪辑",
+    "lid": "29VRcMy5CEs.search.206",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商视频",
+        "信息流",
+        "抖音"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 206,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.105497,
+        "latitude": 30.678319
+    },
+    "encryptBrandId": "01f879980db3142733Z82d29EA~~",
+    "brandName": "知网行络",
+    "brandLogo": "https://c-res.zhipin.com/jrs/10_76233834e86861d80e34cd2c7d2e75b3.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

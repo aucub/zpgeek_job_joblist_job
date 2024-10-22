@@ -1,0 +1,62 @@
+{
+    "securityId": "0uerufYd10uGw-u1oBIPCcnhC4NL71MrDz2Il3Ony-2KjVMfCjbxitDYJ1YTj-BQ39V6fLdBC4f3fcytOdq9UZXEkjahZgn4En7d_kVvwy9J3cJVXss~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190228/952656b8cad422388ac67f62defabe80cf19a0f1def60d969d985c40239370a7_s.png",
+    "bossCert": 3,
+    "encryptBossId": "59b1e65ccf5d8df11H162dm-EFY~",
+    "bossName": "许先生",
+    "bossTitle": "副总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "766a2a2699b1fbba1XB-2NS8GFVQ",
+    "expectId": 0,
+    "jobName": "实施工程师",
+    "lid": "2CqSThlypDV.search.297",
+    "salaryDesc": "5-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件实施经验",
+        "熟练掌握SQL语句"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "福州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 297,
+    "city": 101230100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 119.249005,
+        "latitude": 26.099508
+    },
+    "encryptBrandId": "ff25ebd2ba27651b1XZy2tm4FlU~",
+    "brandName": "同协",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "员工旅游",
+        "保底工资",
+        "年终奖",
+        "底薪加提成"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

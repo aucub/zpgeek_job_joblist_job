@@ -1,0 +1,61 @@
+{
+    "securityId": "qsrlY53v-1exP-N11M40jq9rRmBmsw2fBgVJDsbnwz9aDKybYoekjesE7TMkt3fRxQwgLmShwF5x3mB52QeYDjxB-e_PSTGwLrqrON6HEG-pe0CWaMn1x9M2QDtUb8F1gpAPCCFLiGXAWg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "encryptBossId": "c269b091fc4939843n143Ny7E1E~",
+    "bossName": "古裕铭",
+    "bossTitle": "项目管理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "73d8ba9caabec2241HRz3tm8FVJR",
+    "expectId": 1014042683,
+    "jobName": "自动驾驶测试工程师",
+    "lid": "5Ejsolp4H1d.search.130",
+    "salaryDesc": "8-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "Python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "石楼",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 130,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.500321,
+        "latitude": 23.038913
+    },
+    "encryptBrandId": "66696c3d7cbcee5b1XR73t-_GFM~",
+    "brandName": "宁智院",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220105/7bf6f160950405e9d2c201c572f400d81c3b59e920ffd72fd3d875627658bb398584f3bc08b6c7d5.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "汽车研发/制造",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "加班补助",
+        "全勤奖"
+    ],
+    "industry": 100801,
+    "contact": false,
+    "showTopPosition": false
+}

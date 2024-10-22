@@ -1,0 +1,62 @@
+{
+    "securityId": "JyO5VT4IHxFfv-N1LIJDJykBLV0nXcOVqEkSLZ-DzwBk_ePyFs_UEzm_fQonh-gLXa783kcB009Qa-UHd9ThGwUcHFMo_m9gSOiIZhaMFvbBTPZQ--KG",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210603/3c73015e7cd3d978660d010c7163c913bc0bfb38377ac7391a3571965f0c3d50_s.png",
+    "bossCert": 3,
+    "encryptBossId": "fd7d98778d3ea44b0nd-2Nq7EVNW",
+    "bossName": "鲁先生",
+    "bossTitle": "招聘主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a299cbc608f2be251HFz3Ni9F1NQ",
+    "expectId": 0,
+    "jobName": "自动化设备维护工程师",
+    "lid": "5KRl0TVdYNF.search.165",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电子电气/自动化相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "鹰潭",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 165,
+    "city": 101241100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.162771,
+        "latitude": 28.27318
+    },
+    "encryptBrandId": "1455830927a48f4d1Xx529-1FFs~",
+    "brandName": "江西三花",
+    "brandLogo": "https://c-res.zhipin.com/jrs/7_df3b8dae1bd71fd4afb2b771815f07aa.jpg",
+    "brandStageName": "",
+    "brandIndustry": "自动化设备",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "夜班补助",
+        "节假日加班费",
+        "全勤奖",
+        "宿舍有空调",
+        "加班补助"
+    ],
+    "industry": 100914,
+    "contact": false,
+    "showTopPosition": false
+}

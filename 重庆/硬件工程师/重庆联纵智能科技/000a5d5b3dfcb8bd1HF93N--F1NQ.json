@@ -1,0 +1,62 @@
+{
+    "securityId": "ExmYrq-idufJD-J1chUoh-eTgV51XRGZqTu75GcM4WYgR7MseBAmQMsh7GDn-yerNSxKejcx8E10ctIAdjEXyvbXZJt5RvzmH6slp9XUJ58Ooz6jVsDx",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240302/607f1f3d68754fd0040f53b30864282d007d806128e549d9a0ea52a15b0bdafcda591ae267951a69_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "36516bc2be7384280Xdz2tu7FVBY",
+    "bossName": "杜女士",
+    "bossTitle": "行政部",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "000a5d5b3dfcb8bd1HF93N--F1NQ",
+    "expectId": 0,
+    "jobName": "硬件工程师",
+    "lid": "1HsPsPg4Ktd.search.168",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "机械设计制造相关专业",
+        "电子电气/自动化相关专业",
+        "智能硬件/可穿戴设备",
+        "硬件开发经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "重庆",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 168,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.542683,
+        "latitude": 29.762437
+    },
+    "encryptBrandId": "77c8cc11927e2f431Hd43N-1GFs~",
+    "brandName": "重庆联纵智能科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

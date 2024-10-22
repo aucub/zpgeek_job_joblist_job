@@ -1,0 +1,62 @@
+{
+    "securityId": "M5gZe16nGfeZb-k1RQCskftoaK7WnaD_AnrtjjdgmPCiaHG9S6fpzSFvw02Y0_-WFb_lJedfI5sgW8JiUVmE4L48qfroRGj2BsK24LPo9jx6gkUw1_ZmafYOPoovwMoe7C1KwV3iC2BJszk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200506/36a300b859ca45a498c8e64495535f614c579f69504858e45d0afc6c380557c4_s.png",
+    "bossCert": 3,
+    "encryptBossId": "111b035dd9fd40321nR92Nu0ElFQ",
+    "bossName": "马艳",
+    "bossTitle": "人力资源部经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "964caed7a47d2e471HN40t20EVtS",
+    "expectId": 1014042683,
+    "jobName": "音频技术工程师/实习生",
+    "lid": "1e3UqTFcdy7.search.116",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电影/电视剧",
+        "纪录片",
+        "现场录音"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "大兴区",
+    "businessDistrict": "西红门",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 116,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.362931,
+        "latitude": 39.772645
+    },
+    "encryptBrandId": "c7b7f79f25aaabe21nN82d60E1c~",
+    "brandName": "星光拓诚",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231120/7bf6f160950405e971c6821c579042ab713c6adedf3a2fd24c579f69504858e45d0afc6c380557c4.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "房地产开发经营",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "年终奖"
+    ],
+    "industry": 100701,
+    "contact": false,
+    "showTopPosition": false
+}

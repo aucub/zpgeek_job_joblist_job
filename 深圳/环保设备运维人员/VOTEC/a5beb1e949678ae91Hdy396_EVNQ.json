@@ -1,0 +1,60 @@
+{
+    "securityId": "GsR3oOUVu2qgH-N1SZJ78RmkCTOg_7EPj_9iJSZ96sivao3VrzcUbG9UaV4_RsfnnRWflYcesoRJjx0B03QzwrN4mgJEgEpRGA5ALhwyCvwg1jqyww~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "encryptBossId": "ee08ec708b087eeb0HBz39S1E1I~",
+    "bossName": "余先生",
+    "bossTitle": "运维经理 销售经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a5beb1e949678ae91Hdy396_EVNQ",
+    "expectId": 0,
+    "jobName": "环保设备运维人员",
+    "lid": "5EOXKpGfS3x.search.72",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "环保在线监测"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "新安",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 72,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.898794,
+        "latitude": 22.573424
+    },
+    "encryptBrandId": "5df2106aacde9f430Hd809-6EQ~~",
+    "brandName": "VOTEC",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "环保",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "住房补贴"
+    ],
+    "industry": 101207,
+    "contact": false,
+    "showTopPosition": false
+}

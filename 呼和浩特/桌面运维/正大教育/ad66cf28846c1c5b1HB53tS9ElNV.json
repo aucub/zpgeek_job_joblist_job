@@ -1,0 +1,59 @@
+{
+    "securityId": "lndc2GOdfnusT-G1ANwIfJcDUEHEMjhdxIsdG_xoysgud-i6TwvVJxU2bdujn_K_jtqBtO_Q6oIe2ksZzGBSwJaIKWrFVTAvPjxFBYDRKDrqO3uRscA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200416/58ca801ad829c4d57a3c5d958cc0b9e6da1aa53e61b8f3e7e9ab3eba9b131f4d_s.png",
+    "bossCert": 3,
+    "encryptBossId": "1e7556a3a572f2900HZ92N6-FFI~",
+    "bossName": "姚女士",
+    "bossTitle": "商务",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ad66cf28846c1c5b1HB53tS9ElNV",
+    "expectId": 0,
+    "jobName": "桌面运维",
+    "lid": "5KfVRr3ou0u.search.212",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维",
+        "计算机相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "呼和浩特",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 212,
+    "city": 101080100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 111.706488,
+        "latitude": 40.79733
+    },
+    "encryptBrandId": "243868d883ef09df1nVz2tq5GFE~",
+    "brandName": "正大教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201125/b32f59ff5c0ac903c7546b1261fa307542384b2b99d2cd9fb3d12afe2073239b_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

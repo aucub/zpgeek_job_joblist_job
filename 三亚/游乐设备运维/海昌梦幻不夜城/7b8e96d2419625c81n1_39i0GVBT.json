@@ -1,0 +1,61 @@
+{
+    "securityId": "7ztytGI99y2Vl-01tz_xFyO-HatWwwrZ9ly32c0VXX1-ziKVi_ZIWl9b_33GrCL7sWCXD_F6ISXxhJ-ValygaF8DNFjlMBrMmCqc-VotKhF027MzLg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230321/607f1f3d68754fd02ca9db3250ebdd199cf3a6de9621e896a501d0a0a59b82a2d1ffb13804284913_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "26ec1d61fc41b89a0HNz0t66E1s~",
+    "bossName": "苻女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7b8e96d2419625c81n1_39i0GVBT",
+    "expectId": 0,
+    "jobName": "游乐设备运维",
+    "lid": "1KRNLiA631w.search.239",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维",
+        "安全运维",
+        "应用运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "三亚",
+    "areaDistrict": "海棠区",
+    "businessDistrict": "三亚海昌梦幻不夜城美食街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 239,
+    "city": 101310200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 109.726903,
+        "latitude": 18.313576
+    },
+    "encryptBrandId": "53b86dab3fb2cdf51nF_2d64EA~~",
+    "brandName": "海昌梦幻不夜城",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191206/c959c1941f005690068646a6fa3a54f99012ff0726ff52c86192f93d59011fe0.png",
+    "brandStageName": "已上市",
+    "brandIndustry": "旅游/景区",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "定期体检"
+    ],
+    "industry": 101103,
+    "contact": false,
+    "showTopPosition": false
+}

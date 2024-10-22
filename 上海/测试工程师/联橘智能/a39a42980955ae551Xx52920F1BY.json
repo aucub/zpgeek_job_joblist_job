@@ -1,0 +1,62 @@
+{
+    "securityId": "99A0x5cP9GN4W-d13LW1_A0hU4it5l3DoZmsliIqlRitMwCtCfFAeoDDlYGu5vkhB3iEf3IHpJAV_4i_xhXKewVysvtPxVAaar6s9ySLsL949_POXyU~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230312/607f1f3d68754fd095839de7ad51eea67c82c2d8b1432bb8b6881d66d206229f370ca721f09df53d_s.png",
+    "bossCert": 3,
+    "encryptBossId": "3ccbbf82f5a6ad241XJy09m4E1s~",
+    "bossName": "王先生",
+    "bossTitle": "技术部经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a39a42980955ae551Xx52920F1BY",
+    "expectId": 0,
+    "jobName": "测试工程师",
+    "lid": "1K8qdaKwtZZ.search.123",
+    "salaryDesc": "7-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "Python",
+        "计算机相关专业",
+        "测试工作经验",
+        "掌握软件测试理论和流程"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "徐汇区",
+    "businessDistrict": "龙华",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 123,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.459802,
+        "latitude": 31.166058
+    },
+    "encryptBrandId": "308953becdd32a771nVz2N67EFU~",
+    "brandName": "联橘智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200925/7c24ec8cc4017443834951a8d460995db6881d66d206229f370ca721f09df53d_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

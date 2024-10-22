@@ -1,0 +1,62 @@
+{
+    "securityId": "gqpK4tBCASxBj-61qDgVSsrJbCxcAOTjXL74BuFiZwQIeQESVShvrOhu74eF4gmSV6COWPoUfiVHf84E7oRP2s8tPMLAEJgVs7giDRKTz17yhtgPhg4~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "7a98ea3cae3df59c0nd52dm4E1FR",
+    "bossName": "蔡女士",
+    "bossTitle": "HRBP主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f0c83da96394410d1HF83dW5EVNW",
+    "expectId": 0,
+    "jobName": "产品测试技术员",
+    "lid": "26Re4EiTa3k.search.23",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "功能测试经验",
+        "掌握软件测试理论和流程",
+        "TE技术员",
+        "设备维护"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴中区",
+    "businessDistrict": "郭巷",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 23,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.723287,
+        "latitude": 31.213043
+    },
+    "encryptBrandId": "1993deccbfb9e01d0Hd7296-FQ~~",
+    "brandName": "科沃斯机器人科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20211025/7b5b554d84f9729c4a8d11eac0582e99812f726f55b19e2b07a021df0a1d7e8de85ae14b29c712eb.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "家具/家电/家居",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101004,
+    "contact": false,
+    "showTopPosition": false
+}

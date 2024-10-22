@@ -1,0 +1,60 @@
+{
+    "securityId": "nicf9UHepudu0-f1yQPWkb-BPBKqx3QNKrOARiGuYOVGO-_zpcb7r4vI48akLnl_CB6s8yCN1DEZsQsDWjjBCSt7PUhZU0tiPSeCHdCgSW_yw9SpkEZm9z3zFtz2vm-IDpnTI2QwF5tbFhhKUWzlZdVr",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "68c60f3c80f71b010nJ82NS9FVFR",
+    "bossName": "彭女士",
+    "bossTitle": "HRM",
+    "goldHunter": 0,
+    "bossOnline": true,
+    "encryptJobId": "4264d65f06cde5eb1HR-0tm8FlZW",
+    "expectId": 0,
+    "jobName": "嵌入式软件工程师",
+    "lid": "2vRKFdpuC9F.search.275",
+    "salaryDesc": "7-12K·13薪",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "STM32开发",
+        "嵌入式/单片机开发经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "西乡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 275,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.864344,
+        "latitude": 22.584213
+    },
+    "encryptBrandId": "45a59deeb16b3e631XV42tW9FVI~",
+    "brandName": "联科芯微",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230819/7bf6f160950405e9bdfcea184a5e1f6b762437a62f83f285d62ecad37daf4cbc46b08cfae60b64ad.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "五险一金"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

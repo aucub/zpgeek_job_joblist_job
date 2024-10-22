@@ -1,0 +1,63 @@
+{
+    "securityId": "haRbhtEQi4Wfi-r1a83shXGX4gjmW8yKtd8tvuZhO6Y5OMBgfjPpv9JNHMyaUtDv1oXCZ9DgfnhlXMuydVWc989HMkRhEki9ikB8pvaGiofNupkCkV_u1Gn2S2Eka-6X8SOK3NB-lxY~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210713/fec46a8717c853d9329f77251de0b64176e318916273be904b8f87742df540cd_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "679fa6af78c40cf11Hx70921ElA~",
+    "bossName": "吴淼",
+    "bossTitle": "高级招聘顾问",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b075b9ec4812a5551HN929m0F1ZU",
+    "expectId": 1030426395,
+    "jobName": "银行软件测试工程师",
+    "lid": "3mMYEjqZp7X.search.63",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试工作经验",
+        "功能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "兰州",
+    "areaDistrict": "城关区",
+    "businessDistrict": "兰州大学",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 63,
+    "city": 101160100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.853565,
+        "latitude": 36.049522
+    },
+    "encryptBrandId": "6378403b3ea8ffc91XB73tW-",
+    "brandName": "天阳科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/9db0e9283d164a0f5fa5780bf8c8eed5cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "已上市",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "节日福利",
+        "带薪年假",
+        "五险一金",
+        "餐补",
+        "双休"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

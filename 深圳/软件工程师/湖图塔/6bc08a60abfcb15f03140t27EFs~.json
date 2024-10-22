@@ -1,0 +1,60 @@
+{
+    "securityId": "5L6d_GfTEA95K-K1HufTsTPZBdr1rMRD7EhsB8mQXj09koDpxZVlxuNMiIQmcbwJMN67QYrpoBUot1jHNk67izoRkcu_HH1TX9F84T7Y0Kssq1OK",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "9f0f93502a36bc890HR83du5F1o~",
+    "bossName": "顾先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6bc08a60abfcb15f03140t27EFs~",
+    "expectId": 0,
+    "jobName": "软件工程师",
+    "lid": "5NDYC0Uxgkt.search.18",
+    "salaryDesc": "8-10K·13薪",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C++",
+        "计算机相关专业",
+        "后端开发"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "深圳",
+    "areaDistrict": "南山区",
+    "businessDistrict": "科技园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 18,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.957052,
+        "latitude": 22.537088
+    },
+    "encryptBrandId": "cf76f8642c43efb30nVz29m4GQ~~",
+    "brandName": "湖图塔",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20191119/f14afa26f5852a0242852399a46507f8c03a966179c0a3ced7be2e27cdd8abe4_s.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

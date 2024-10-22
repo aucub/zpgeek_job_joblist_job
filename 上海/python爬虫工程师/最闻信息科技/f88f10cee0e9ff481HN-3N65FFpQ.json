@@ -1,0 +1,63 @@
+{
+    "securityId": "3SND7GfVMn78x-l1g_OGtSjse-yihM757asT8fN1Kov2F_VD7j7KhwybHstxZujrZJ3aOUxJOzupAObskPRvgxt9Vqsdi8f9H84MzFTc_EclMSwGe98~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "dc79fff6847798491nVy3t20E1JX",
+    "bossName": "张女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f88f10cee0e9ff481HN-3N65FFpQ",
+    "expectId": 0,
+    "jobName": "python爬虫工程师",
+    "lid": "1a7kevHNfHJ.search.237",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "python",
+        "js逆向"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "陆家嘴",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 237,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.53031,
+        "latitude": 31.223445
+    },
+    "encryptBrandId": "e604191c3f6c8efd03B52N68GQ~~",
+    "brandName": "最闻信息科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190513/0697d7b9a5e4f09d77fc7267cf9dedf691b5a66be17b7698518844b7d1e6d0f4_s.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "团建聚餐",
+        "五险一金",
+        "带薪年假",
+        "定期体检",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

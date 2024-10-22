@@ -1,0 +1,63 @@
+{
+    "securityId": "2s2k6qSeyytBk-M1yiHVMhqCfTg3zHmDMH_WeAO-W0Sx00_IVxxQb6F39PHq68ctRVR7HNbdTDci-iLBSAcWRGNFzcIC-GACkewB-M2Lskq6g1gFhA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240218/607f1f3d68754fd08e50acec6bcfde02ab60892cedf3d52d92d97bfa6e311b51ee48159a5327bc89_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "12fbabaddb9e6b850nF82t61EVdW",
+    "bossName": "彭女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "1b5d63d86d44c8ff1HV-2t26ElVS",
+    "expectId": 0,
+    "jobName": "暖通工程师",
+    "lid": "34Y6gOiF2We.search.112",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "安装施工",
+        "图纸绘制/审核"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "海珠区",
+    "businessDistrict": "江南大道",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 112,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.244737,
+        "latitude": 23.094103
+    },
+    "encryptBrandId": "d1244f4d7b54be580XRy3Nu0",
+    "brandName": "上海尚洋",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210810/6978316b41b8c0938e934ae236a00ce8a701390405bb5af1402c0d86137a2759.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "装修装饰",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "员工宿舍",
+        "年终奖",
+        "节日福利",
+        "带薪年假",
+        "五险一金"
+    ],
+    "industry": 100704,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "-Ma5ywna35HWA-g1q37paBdjBpn2bIYSkFVQStnpb9NCMhE15m982pO-jlvO6AuVqSS685i6YH84CCITUBqN7tuJvKCXSZ_Lavu7AXhLYIOf56KFaw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190108/9f7ca5d36e1a06d48d1c4e15957b93152c2c9d2b942ee928158ab25f553573e2_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e66ce0fa6e1b58fd0nR729q7EVM~",
+    "bossName": "于先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "de15e544f6fbfc7d1nN60t20EVdY",
+    "expectId": 0,
+    "jobName": "人事",
+    "lid": "32jJLQLpQ1z.search.55",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "制造业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "江宁滨江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 55,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.594009,
+        "latitude": 31.839733
+    },
+    "encryptBrandId": "44aec7b4e0eb66920XJz3tm7FQ~~",
+    "brandName": "宇飞特电子科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "节日福利",
+        "包吃",
+        "五险",
+        "年终奖",
+        "全勤奖"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

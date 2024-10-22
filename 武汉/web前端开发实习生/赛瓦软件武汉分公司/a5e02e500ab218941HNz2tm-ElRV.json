@@ -1,0 +1,61 @@
+{
+    "securityId": "4K08KdjICqsLH-p1z3kM2d2rtrROtG82v35hSIP7MuLHIlV_hj5ujFNap-FqtJXnxkRekwM00gdgPtDUREI6VhFYvVvLpl-DdoJPw2XixcrKJrYn6w~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "f97521007b7d5f950n1_3NS1GFY~",
+    "bossName": "韩女士",
+    "bossTitle": "行政人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a5e02e500ab218941HNz2tm-ElRV",
+    "expectId": 0,
+    "jobName": "web前端开发实习生",
+    "lid": "3oTBM8K7GJJ.search.22",
+    "salaryDesc": "2-4K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Vue",
+        "前端开发经验"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "珞狮南路",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 22,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.322556,
+        "latitude": 30.468675
+    },
+    "encryptBrandId": "d69a85f3003e894303Ry3ti9GQ~~",
+    "brandName": "赛瓦软件武汉分公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "意外险",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,60 @@
+{
+    "securityId": "nk1f3QwhTC-8Q-o1qkgf9NW5OmkvAr8gC7ZeGbkTmEtQKA-clX6kU0nDgKihJFVvac29Mw9SQUPe-iWPqtr3yJF0Co0tLDLQtEGXmK3CCZ-PAdNoVmVG",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "2e71a4219096b70f0nZ909W7FVFX",
+    "bossName": "李先生",
+    "bossTitle": "技术工程师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "19e25c434804d5741Xd40tq6F1FY",
+    "expectId": 0,
+    "jobName": "音视频技术工程师",
+    "lid": "33QrRRxHWPH.search.178",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "CAD"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "河定桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 178,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.819525,
+        "latitude": 31.950574
+    },
+    "encryptBrandId": "7672ea65cc541abf1nF92NW9F1M~",
+    "brandName": "众一联创",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "带薪年假",
+        "五险"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

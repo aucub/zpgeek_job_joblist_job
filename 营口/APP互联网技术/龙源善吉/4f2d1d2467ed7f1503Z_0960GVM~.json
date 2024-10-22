@@ -1,0 +1,60 @@
+{
+    "securityId": "rQTfDSkIU0PoE-01BlrQlLvZSo71C2fAuXhXpebKTi2MytjQOzrt5O16JZg529tgkFsNucWfvgp3_lKIEZMQZFFAylboGCoVZWtzsnkuVAVDTvs72OScYw-V_x-_7XGduTowvXSEgIE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190403/b9e54b6e2306f30c52a1de8964dd8779f3d03d367aa8e9b9e48cb8691913dd20_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ee981a4652bf77300n143969FFI~",
+    "bossName": "赵雷",
+    "bossTitle": "CEO",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4f2d1d2467ed7f1503Z_0960GVM~",
+    "expectId": 1030426395,
+    "jobName": "APP互联网技术",
+    "lid": "2ZDBdXaIoB2.search.231",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Android",
+        "iOS",
+        "Java"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "营口",
+    "areaDistrict": "盖州市",
+    "businessDistrict": "白沙湾风景区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 231,
+    "city": 101070800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 122.00581,
+        "latitude": 40.125381
+    },
+    "encryptBrandId": "1b86befc42ef5bbd03R-09y_EQ~~",
+    "brandName": "龙源善吉",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190407/53e43619fbd08d5e5f866edb02510badf3d03d367aa8e9b9e48cb8691913dd20.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "股票期权"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "KaYazRyQP3pah-t1uHUmfpWblms8N-fsuI3pqt1jDU9iJ8yaL5_2X0a3lfvLtqvjRRO1j6gjBLpv6be2UiWufe1L1DwqdYzHSe3rragnGEwtTmCDvk6Y5TqD7FXKVQJUPbgOQJQM",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200422/d11e73abff761d6de6a52e632ec3aeebd72c8251f351b7532a5bc94e68821075_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "ca56ddcc795dffc20HZ83dy9FA~~",
+    "bossName": "孙奥",
+    "bossTitle": "市场副总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3df4fe32b2a53a9f03R_2t68GFU~",
+    "expectId": 1014042683,
+    "jobName": "安卓开发",
+    "lid": "1bighbykM4D.search.225",
+    "salaryDesc": "7-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Java",
+        "Android SDK"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "武汉",
+    "areaDistrict": "洪山区",
+    "businessDistrict": "光谷",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 225,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.4214,
+        "latitude": 30.47274
+    },
+    "encryptBrandId": "0cbfb051f013bf320nRz2t24",
+    "brandName": "武汉天帷",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170228/fa70781db3708d2c20da73a589de9c4ef0fb1a31776bee83a638b4b7cb19be99.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

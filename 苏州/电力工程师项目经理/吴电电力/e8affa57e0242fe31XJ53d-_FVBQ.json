@@ -1,0 +1,62 @@
+{
+    "securityId": "n14pjTKvYUiyQ-G1PUmMR_7A64CNKePNSbmRjyv3ddcAaqMApWCTaQyA19plUJ4jJ9xb0MXadiT-HAL9osHKc1-4wQ6fGjkFM3pX3vvwYuKbvzgKwFKn",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240613/607f1f3d68754fd0f09d76af7f5946f4a2b06b5d01c57107d0e3d5defd9a48207c955368137f29f9_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "6a30e6a9c0b213830nd70tq6FFBQ",
+    "bossName": "顾女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e8affa57e0242fe31XJ53d-_FVBQ",
+    "expectId": 0,
+    "jobName": "电力工程师/项目经理",
+    "lid": "29Y5Y7NLXXP.search.162",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "企业内部技术项目管理",
+        "实施交付经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "虎丘区",
+    "businessDistrict": "横塘",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 162,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.575219,
+        "latitude": 31.256325
+    },
+    "encryptBrandId": "5b9f2ee76d2b8c8a1XVz2dq4EVA~",
+    "brandName": "吴电电力",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电力/热力/燃气/水利",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "定期体检",
+        "五险一金",
+        "绩效奖金",
+        "年终奖"
+    ],
+    "industry": 101205,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "rn3lQ9lX6qGg1-01WbCcGbeVvmX0lu1eZ4ydr0PX9XiAPIT6fYjD8ZbzeFBMzY-vh9n8SP2Ej9NZIiXHbCV6nosro0998dskqhMJQguIztFBnRktUEA8MfB5rKqnDRRAq1w9GRDIvsyKeQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210608/b704909bbd540aa7f67342a008d209490cfcd2bc727b7bc7f5581fa8ac013241_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "28d0bcf63281a6620nd_2t29F1BR",
+    "bossName": "徐珊霞",
+    "bossTitle": "测试主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fc8c296251c955451Hdy39W9EVFR",
+    "expectId": 1014042683,
+    "jobName": "软件测试",
+    "lid": "5E4ZsFV9tCN.search.19",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "自动化测试",
+        "压力测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "景德镇",
+    "areaDistrict": "昌江区",
+    "businessDistrict": "高专",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 19,
+    "city": 101240800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.179476,
+        "latitude": 29.266261
+    },
+    "encryptBrandId": "a52f32825144abc41nZ93dq6EA~~",
+    "brandName": "景腾科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "通讯补贴",
+        "全勤奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

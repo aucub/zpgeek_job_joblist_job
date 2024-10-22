@@ -1,0 +1,62 @@
+{
+    "securityId": "4MQ12fvUeS2S0-A1DgR-pVkm4wf4dRnAQeTJUKf7N6qmrBGmUZJVue6YiyEwa4dJWZSvAkrlf0sA2ipyz7Hyi6G2X3MHKrPrzLE6tndc4d6bYGx4Fg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240511/607f1f3d68754fd0ba7f68c9e0391db2b3b1a7676450d8eaee01671f72466f1e11d44f4bbd065ff6_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "17377c6c69e87a981nR70928FFdR",
+    "bossName": "周先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ed325a0f061dbe5133J-2t64F1I~",
+    "expectId": 0,
+    "jobName": "建筑工程资料员",
+    "lid": "1JZJNSJNHU9.search.180",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "工程资料员"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "萧山区",
+    "businessDistrict": "蜀山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 180,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.26185,
+        "latitude": 30.145348
+    },
+    "encryptBrandId": "35a7fcd46bd230330nN62t6-EA~~",
+    "brandName": "亿盟",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "包住",
+        "宿舍有空调",
+        "有无线网",
+        "绩效奖金",
+        "包吃"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

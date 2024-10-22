@@ -1,0 +1,60 @@
+{
+    "securityId": "SZox0wd0wtUXZ-z1KXVYmNtQqQQa2YS192SVV8PoKNbQOf_Jqyd7oiVjROKr1zDl65WLKD1S9OK6lcHEyu9zFr1-S7kZoE5BeV_nW92khGZk35QnSA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_12.png",
+    "bossCert": 3,
+    "encryptBossId": "e0de13cddeb9492503Bz0t-1GVI~",
+    "bossName": "唐女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "6acc2e17866f6b281XF-2dm5E1pY",
+    "expectId": 0,
+    "jobName": "文案策划",
+    "lid": "2w1fnIUzJuS.search.106",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "宣传片",
+        "短视频",
+        "活动视频"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "雨花区",
+    "businessDistrict": "井湾子",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 106,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.00687,
+        "latitude": 28.120079
+    },
+    "encryptBrandId": "9096ac99aa16e4f91HJy2tu0EA~~",
+    "brandName": "镜渺",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190302/3d81c7e54306f77658ea64bcb2c4037d797d29f883c8140acafaba6a1b871a9f_s.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "广告/公关/会展",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "带薪年假"
+    ],
+    "industry": 100101,
+    "contact": false,
+    "showTopPosition": false
+}

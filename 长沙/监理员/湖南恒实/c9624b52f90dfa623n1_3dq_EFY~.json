@@ -1,0 +1,61 @@
+{
+    "securityId": "aeeL7BE3pB5HW-41x5_0lkJ4Nnq65RzG8fArkbzWOFjJSqORThppMr5h87G6y4ac85IIYrd1ZcIvFSyIWi3yt-rZM3XmyorKNFBQ0aYbKlzJoZp2",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "506c6c77060cac4d0n1_3d2-EFA~",
+    "bossName": "丁女士",
+    "bossTitle": "综合办公室主任",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c9624b52f90dfa623n1_3dq_EFY~",
+    "expectId": 0,
+    "jobName": "监理员",
+    "lid": "1GTmXuc9uCS.search.296",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "施工员",
+        "监理公司",
+        "工程监理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "浏阳市",
+    "businessDistrict": "集里",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 296,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.614818,
+        "latitude": 28.176805
+    },
+    "encryptBrandId": "f57ec557757b05ca3nF63NS4GQ~~",
+    "brandName": "湖南恒实",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231019/7bf6f160950405e932b4fcbbb54785e859ac9605d57bc338f0ad0735f0e1bb9f169f110393966cea.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "餐补",
+        "工龄奖"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}

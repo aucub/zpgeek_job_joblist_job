@@ -1,0 +1,63 @@
+{
+    "securityId": "tbV0bvVbVIugF-N1XmxsyV3giVkxCbkPBX2GYKcireGFrH9ruQMyXfycUVUXvNaTfEg-_wxfzjxpon8oAtRULkQ7Y96XGa-skcfv_SzC47eLHxYspw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20170916/1ca63f64f60856f94090afc0f05bf8210dc2892d0f6e31ae75e40fe7e89abf93_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "d9a6776f37d1eb381XRz2d-4EVo~",
+    "bossName": "陈先生",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "97f05f38a3b658741nJz3d26FFtU",
+    "expectId": 0,
+    "jobName": "测试工程师",
+    "lid": "5DTB8KHofZo.search.172",
+    "salaryDesc": "8-13K·13薪",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "软件测试"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "开福区",
+    "businessDistrict": "烈士公园",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 172,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.988366,
+        "latitude": 28.216574
+    },
+    "encryptBrandId": "5be77f77259868121nR92t6-Fg~~",
+    "brandName": "北京汇天世纪",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170919/9cf4a65fbf50e2da21a6240353075b0b0dc2892d0f6e31ae75e40fe7e89abf93.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "13薪",
+        "带薪年假",
+        "五险一金",
+        "节日福利",
+        "定期体检",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

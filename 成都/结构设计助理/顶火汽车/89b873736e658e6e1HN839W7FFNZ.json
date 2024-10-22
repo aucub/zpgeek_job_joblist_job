@@ -1,0 +1,63 @@
+{
+    "securityId": "WW43VAWIMRayV-i1gYn9O-j0BtHP8Lu5TS2z0y44vECxa2CqGT8WDVik46x6gH_4M6wGhZ1SkZMFjBhzkA6RNei-mXZurafDvj44P0IxnkMlAaMua2u9",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210525/f0fc0a456d2c5235930fc1942835ed6cb284d1294ba3d25418b97c9fcfb9bb94_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "abb7c9a5c98757fc1nZ-09-6ElZW",
+    "bossName": "王女士",
+    "bossTitle": "高级人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "89b873736e658e6e1HN839W7FFNZ",
+    "expectId": 0,
+    "jobName": "结构设计助理",
+    "lid": "2ZxU2zwf1lr.search.300",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "内外饰",
+        "设计软件",
+        "机械制造相关专业"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "铁像寺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 300,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.047184,
+        "latitude": 30.565862
+    },
+    "encryptBrandId": "b860c14e4af751ff1XN43d-5GFc~",
+    "brandName": "顶火汽车",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230516/7bf6f160950405e97bd009201018a3c1aa3ae0364cea14b9b284d1294ba3d25418b97c9fcfb9bb94.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "汽车零部件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险",
+        "全勤奖",
+        "带薪年假"
+    ],
+    "industry": 100802,
+    "contact": false,
+    "showTopPosition": false
+}

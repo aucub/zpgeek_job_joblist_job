@@ -1,0 +1,62 @@
+{
+    "securityId": "blZOE9MVc8gKO-m13EhaJKG-K03sJ21BjWW86yLpHP25zuQKbbpLFYlCpA8-YxXAsk1o0wTpqyfqG-H9q3g_AQtLY493lumtHyp5ebgVqfYsYrRx",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240526/607f1f3d68754fd07297a05524f0100d7a07c8f10b6d1b07149d31f96c6434e70423fe9da32bbc77_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "6a4c293b04355bd21HB52ty7FlA~",
+    "bossName": "郑先生",
+    "bossTitle": "技术",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "f7e5e32bcc42fcde1HV40969EVtS",
+    "expectId": 0,
+    "jobName": "flutter开发工程师",
+    "lid": "3nnaxuJmnGT.search.300",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "架构经验",
+        "Android客户端产品研发",
+        "Flutter",
+        "前端开发经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 300,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.973773,
+        "latitude": 28.094518
+    },
+    "encryptBrandId": "bb92944ee02419be0H142di5",
+    "brandName": "谷雨信息",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191018/93e2e751e04722aa4801f1149406d902150a3b55a7fd6aad02029741519da98b.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

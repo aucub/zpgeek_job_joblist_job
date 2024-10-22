@@ -1,0 +1,61 @@
+{
+    "securityId": "mIif2pC6Ju8ep-U1zh4ATBo5S8BvQjJFc1bNr9iFAS8Itg8lGOM1gMLBK80Ep6fJbZRY26DPWwCV4UgQAIjYv5sNg0del1X2SbMx3-J-YWpFDhOV",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240816/607f1f3d68754fd01ef446d1a995d1a4d51594f2e0ec47b604683560f6e1ab0bf0a6ebd1c14ff7ba_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "edef0483cb8250010XJ52dW8FVc~",
+    "bossName": "康女士",
+    "bossTitle": "行政人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "00388f7175792b771HJy3dy7FVVT",
+    "expectId": 0,
+    "jobName": "汽车电子测试工程师",
+    "lid": "1a7kevHNfHJ.search.186",
+    "salaryDesc": "9-14K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ECU TEST"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "张江",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 186,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.6234,
+        "latitude": 31.24382
+    },
+    "encryptBrandId": "2c43f62886c928e61HJ_39y7",
+    "brandName": "宝宏软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160907/3700be95ed2fb4ef5ca74046a3dedd835ddb990de53a4f6858e75098b877e6ed.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

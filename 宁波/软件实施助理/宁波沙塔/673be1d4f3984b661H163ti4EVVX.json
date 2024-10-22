@@ -1,0 +1,63 @@
+{
+    "securityId": "SBIuwjXNGXkrr-x16ldpX2socURthEHtIapc-AdUiIz1pKD4QefzaJW2KH9ZXTAWm_HlbjuvurN8RQmS1dF3DWs48Y08Q0gckfDfc9NsmTfbilc_OuBDD6QVtz0ndDSwNJBzXDYDnWM~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20160524/c2714df66b8b9511c7a9a4d46d8242268c7dd922ad47494fc02c388e12c00eac_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "1e092c6dd9a364181nV939y8GVI~",
+    "bossName": "祝耀",
+    "bossTitle": "Hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "673be1d4f3984b661H163ti4EVVX",
+    "expectId": 1014042683,
+    "jobName": "软件实施助理",
+    "lid": "2uDMXj7qAeT.search.30",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "宁波大市和省内出差"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "宁波",
+    "areaDistrict": "镇海区",
+    "businessDistrict": "蛟川",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 30,
+    "city": 101210400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.622157,
+        "latitude": 29.922265
+    },
+    "encryptBrandId": "710bd5318f150a8803V92ty5",
+    "brandName": "宁波沙塔",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180525/2403f66a5e1f9e6496239cdc752da3ab558019457a42775fbc22b2b1bdb70a74.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "加班补助",
+        "定期体检",
+        "节日福利",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

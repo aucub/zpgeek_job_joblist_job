@@ -1,0 +1,61 @@
+{
+    "securityId": "E5NeH6uX4iSdO-J1QG_VY3X1zxcglZWHPgAGrPogosmuEzTCJp6oq0PTCjqeBvje7M9UsWEyhuFDDdAzYSlWXZetqkw0L5iXsiKbCqe4JJL2kdQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200830/02d1cfa4c386e8a9975663ecf055dd8d0932c3c7e6b6579e02e70cbde0e68738_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "f7477f1b33770d591Hx53d67Elc~",
+    "bossName": "项女士",
+    "bossTitle": "总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fde79ae2f05ce3011HR-2ty5EFM~",
+    "expectId": 0,
+    "jobName": "测试",
+    "lid": "1JZJNSJNHU9.search.29",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "web测试",
+        "android测试",
+        "ios测试"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "萧山区",
+    "businessDistrict": "北干",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 29,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.248669,
+        "latitude": 30.204065
+    },
+    "encryptBrandId": "32c943e8829abc451HNz2ti7",
+    "brandName": "天鹤光教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

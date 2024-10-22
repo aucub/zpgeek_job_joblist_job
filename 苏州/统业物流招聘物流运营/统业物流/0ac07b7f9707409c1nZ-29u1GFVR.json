@@ -1,0 +1,59 @@
+{
+    "securityId": "pekvk0VbDk7Cz-H1fBcleO9AkUsm3rS19g5BNcEkkOr_bCwrXETfdTTyjP-JDIMGbWl-ZhqACXmOci83JDENrpXTQEhLvvgqfifX2RY4Sx2Zt8cq-w~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190323/b936b4d9ed6e6f6d14bcc349c3432a68cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "09ece6182cfd58fb0nx70t20EFs~",
+    "bossName": "魏先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "0ac07b7f9707409c1nZ-29u1GFVR",
+    "expectId": 0,
+    "jobName": "统业物流招聘物流运营",
+    "lid": "30FKWOEtjfm.search.237",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "供应链",
+        "环境好"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 237,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.470276,
+        "latitude": 31.427616
+    },
+    "encryptBrandId": "1fd32db4f5aa46b01nR_3tq7EA~~",
+    "brandName": "统业物流",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201007/07841ce892fe751f8df5f85d33e32b3b0079f22f65983fc658bb132dc0cf634a_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "快递",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100506,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "3yfV4GluIRWVf-M1DRVSdihjUGKjWeKGSuqJqrMzSRf7fDwoilxGttxFbwePikfEUaJDEHjW_bziMnpBwiRDlDphEFMuU_YBUOPtbFRlCVzzAqGDQAk~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240123/607f1f3d68754fd00b557197f8022c4bb2f1d2b5e1ae227525b6169ede7f50011ab3339f2f49266c_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "0a9185e74b03dd953nJ50tq5FlE~",
+    "bossName": "刘女士",
+    "bossTitle": "HRBP",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "71ce449055f5358b1HN83NS7FFNV",
+    "expectId": 0,
+    "jobName": "投放助理",
+    "lid": "1DPLNBCgdiO.search.169",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "接受无广告投放经验",
+        "信息流投放",
+        "企业品牌方"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "拱墅区",
+    "businessDistrict": "城西银泰城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 169,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.107899,
+        "latitude": 30.314449
+    },
+    "encryptBrandId": "dd889e95c2cbe5281XN409i1GFo~",
+    "brandName": "剧点",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240108/7bf6f160950405e952c62f909e48c7dadefa459334c8973b25b6169ede7f50011ab3339f2f49266c.png.webp",
+    "brandStageName": "",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "绩效奖金"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

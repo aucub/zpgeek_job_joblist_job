@@ -1,0 +1,60 @@
+{
+    "securityId": "85p4sDzjFNeff-81Em6Ub1jRFz98JQCk3nLicFyqL7Sh8TB_xsCW0KXB2p39YcOLQYzTkgprUZjWGnG10cUTCPVqSFGq7S9I295fHNOTv2EQlXSJMRE~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230815/607f1f3d68754fd0e1530b6b4115659ab2ec100720cee4cd9384566d326b9d7b36929f8bfcbf9292_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "808f9d22bcf9c0701HJy29-7EVU~",
+    "bossName": "刘女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c68c355d45d6cd081HFy2N6_FFRY",
+    "expectId": 0,
+    "jobName": "康复治疗师",
+    "lid": "2Y2xeMUsVXZ.search.218",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "运动疗法",
+        "老年康复",
+        "康复治疗士资格证"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "常熟市",
+    "businessDistrict": "东南开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 218,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.801953,
+        "latitude": 31.634083
+    },
+    "encryptBrandId": "8f5f862d8a58afa81XN-09-_FVc~",
+    "brandName": "常熟明州",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "医疗服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100402,
+    "contact": false,
+    "showTopPosition": false
+}

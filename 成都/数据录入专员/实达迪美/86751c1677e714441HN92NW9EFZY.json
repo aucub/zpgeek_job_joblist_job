@@ -1,0 +1,61 @@
+{
+    "securityId": "PCvGgL7D5nykG-B1PBuwAk0rI2_TUpMPEe-9UKw5TUMBKw90Rg268pOBNkySEBkfygP5YywmCnIk7doPihiwJMCNBP8TkrpoQeCf_E5hrmNmX-Sa",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230411/607f1f3d68754fd09eb436a340975d90bff82f434d7f5a255d71baa1dfaeb1c0091c51b954f3e816_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "79d0b362dce830c90X1829u-EA~~",
+    "bossName": "颜女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "86751c1677e714441HN92NW9EFZY",
+    "expectId": 0,
+    "jobName": "数据录入专员",
+    "lid": "2X0MCFfzFmv.search.288",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "全职",
+        "坐班"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "中和",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 288,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.061704,
+        "latitude": 30.544396
+    },
+    "encryptBrandId": "c42e952b1b562b9c1HV40t64FQ~~",
+    "brandName": "实达迪美",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190823/090c3e1e264e746dae8efd143fa49eb0a188d47230bf2f94c5e9b3a9aeaef98c.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "定期体检",
+        "补充医疗保险",
+        "生日福利"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

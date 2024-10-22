@@ -1,0 +1,62 @@
+{
+    "securityId": "hUeDIQ_bhHyoS-E1Ti0oJzkrpwAM-jDraeNAO1oaN1LmiANTOMlH_C-bMLdSZxwTRMPkj_Bc_8-PxlWsU0ajBibHF4R6lF3inGaLASJzvLdLO8LilihHLjcCgyBGDX-66woERXI47bI~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180610/be3548df4f0e36d4463a004bb47a1abd8934cca316104d6bfdf02c77b55eb79e_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "21caf2c7ebc72c7903R72tu9GFU~",
+    "bossName": "夏梦茹",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d2c0e4916bc7831e1Hd73N--GFI~",
+    "expectId": 1030426395,
+    "jobName": "软件测试工程师",
+    "lid": "2XSYJJPw6RK.search.264",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "手机测试",
+        "自动化测试",
+        "测试开发"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南昌",
+    "areaDistrict": "西湖区",
+    "businessDistrict": "洪城大市场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 264,
+    "city": 101240100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.8539,
+        "latitude": 28.63664
+    },
+    "encryptBrandId": "85f077e3a89617491Hd_2t21EQ~~",
+    "brandName": "江西阔旭",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20191107/10233139dce7b2872713b4c49a55294c7c0e8d31f2cba557faa0b0ad50b8610f.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "股票期权",
+        "交通补助"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

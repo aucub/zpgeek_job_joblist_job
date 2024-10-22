@@ -1,0 +1,63 @@
+{
+    "securityId": "nRxUQM7kU8PKv-I1p0QZ-Db1iCRU9rMmxI50BLM9tLKP_QWnVUVH_k-v4GEisYxUWU9tMbGQ87nvD74aDUtQp3CekhUnnlEy9GfmsALmEYbyOW8h",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+    "bossCert": 3,
+    "encryptBossId": "5e2e77c73a0a84b003x52N66F1E~",
+    "bossName": "尹先生",
+    "bossTitle": "项目经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7c07858c0d9c11e41HR63921GVY~",
+    "expectId": 0,
+    "jobName": "储备技术员",
+    "lid": "5EOXKpGfS3x.search.277",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据库",
+        "IT支持"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "龙岗区",
+    "businessDistrict": "布吉",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 277,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.1292,
+        "latitude": 22.60822
+    },
+    "encryptBrandId": "9510a1c36ec991291X1y2tW5Ew~~",
+    "brandName": "英普瑞科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220210/7b5b554d84f9729c06505a924849e0d05454a509256358d0719aee57976a32aeec921a15c30d8db6.jpg",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "员工旅游",
+        "五险一金",
+        "带薪年假",
+        "补充医疗保险",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

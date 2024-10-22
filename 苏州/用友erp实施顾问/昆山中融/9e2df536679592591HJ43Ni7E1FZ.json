@@ -1,0 +1,63 @@
+{
+    "securityId": "329WBGbJcvkGE-K1nxjosyO_4G5psImKALz6RRchZg803hY0eB0o2QbRQb4TJmJGV3XBP8BQiWU5NUGTV5I939AfqeIYau-3TSQ8tql8lhx2ALVjpbLP",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "3ca8bfbf533800a10XF83N-1F1dZ",
+    "bossName": "孙女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9e2df536679592591HJ43Ni7E1FZ",
+    "expectId": 0,
+    "jobName": "用友erp实施顾问",
+    "lid": "34qmXgEVs4i.search.61",
+    "salaryDesc": "5-10K·13薪",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ERP",
+        "WMS",
+        "OA",
+        "财务相关专业",
+        "软件实施经验"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "昆山市",
+    "businessDistrict": "玉山",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 61,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.973581,
+        "latitude": 31.348687
+    },
+    "encryptBrandId": "dd481c63f5db13a61HF53t--FVU~",
+    "brandName": "昆山中融",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240606/7bf6f160950405e9b13bba6a95f480cdb58a14cddee78ffa39bc6bac325b09b92e8a7b6cba3e9bbc.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

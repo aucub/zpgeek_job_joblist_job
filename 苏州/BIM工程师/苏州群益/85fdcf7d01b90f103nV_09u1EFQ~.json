@@ -1,0 +1,63 @@
+{
+    "securityId": "379WURrLVph5O-b1Tc0hhQBXEORnJCEsEzglHBFRSgVmQ0zoqqt-RyhqoOGcGdGEYe9e0--ywc8ylhKE-mKm9kr5vaLhg-d7fwP__A8Ys9K3hVXfZA~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240416/607f1f3d68754fd02d96f43e6828d0574894a35d01f2451c391a209509b05f1a2196df69bc6211a4_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "e6bb94f93d3cff291nZ63N6_EVNR",
+    "bossName": "徐女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "85fdcf7d01b90f103nV_09u1EFQ~",
+    "expectId": 0,
+    "jobName": "BIM工程师",
+    "lid": "29Y5Y7NLXXP.search.94",
+    "salaryDesc": "3-8K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "BIM工程师",
+        "工程造价"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 94,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.558248,
+        "latitude": 31.202324
+    },
+    "encryptBrandId": "11c9eb47d2d72f9d03Jy2Ny6Fw~~",
+    "brandName": "苏州群益",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190606/7b1154ee9fdf763d4675feb038f40baf7058796b5a2c073571155d218b7f8410.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "免费班车",
+        "员工旅游",
+        "带薪年假",
+        "年终奖"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

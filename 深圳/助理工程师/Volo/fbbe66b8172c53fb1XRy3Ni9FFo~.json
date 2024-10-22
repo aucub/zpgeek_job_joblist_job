@@ -1,0 +1,61 @@
+{
+    "securityId": "emmG0HbQKe5jH-y1nDepJV6qMgBNeZXmtew-KDYEDitOtL80NqAnbyd0_xYyaIw77mjECjFot7wVT2DPBlfQFU8A_lXLhgjWHYYXXkQUNtAOoTO9",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230520/607f1f3d68754fd05c86d9874e91ab3c041de04e9902608189464aeefef9a71be553cab05368b291_s.png",
+    "bossCert": 3,
+    "encryptBossId": "42af1d7eb2d108661HN739S4ElI~",
+    "bossName": "陈先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fbbe66b8172c53fb1XRy3Ni9FFo~",
+    "expectId": 0,
+    "jobName": "助理工程师",
+    "lid": "25t9IE1jh8s.search.105",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "项目管理",
+        "零件设计",
+        "CAD"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "西乡",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 105,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.861219,
+        "latitude": 22.56958
+    },
+    "encryptBrandId": "6e3ac7e68f6b1c4f1nN50tW5Eg~~",
+    "brandName": "Volo",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180410/e9f949622d8221f093927bc5d60b37fb89464aeefef9a71be553cab05368b291.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "文化艺术/娱乐",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "包吃"
+    ],
+    "industry": 100104,
+    "contact": false,
+    "showTopPosition": false
+}

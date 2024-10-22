@@ -1,0 +1,61 @@
+{
+    "securityId": "tWJWVhOCKi5kQ-y1dldXbhZGZW6CBwRaGdcEnfCXlVstHt9qwQRf6XL1_2c4wzXlkJ57DqxogaUR1nlwTRl73U4OIvxGmi3DsuJIK31iqtLJnn5IqK2w",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+    "bossCert": 3,
+    "encryptBossId": "820e18178217be890nV42du-EVJZ",
+    "bossName": "石先生",
+    "bossTitle": "职员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "838c033c8b3dac1c1HRz3t61F1VY",
+    "expectId": 0,
+    "jobName": "CocosCreator初级游戏开发",
+    "lid": "Nz3PU3ZYyG.search.231",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Cocos Creator",
+        "JavaScript/TypeScript",
+        "计算机/软件工程相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "长沙",
+    "areaDistrict": "岳麓区",
+    "businessDistrict": "银盆岭",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 231,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.936178,
+        "latitude": 28.224854
+    },
+    "encryptBrandId": "329b8c4aed66c2411XV8092-GFo~",
+    "brandName": "三子汇网络科技公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "游戏",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "全勤奖",
+        "工龄奖"
+    ],
+    "industry": 100002,
+    "contact": false,
+    "showTopPosition": false
+}

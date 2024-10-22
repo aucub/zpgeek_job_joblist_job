@@ -1,0 +1,61 @@
+{
+    "securityId": "LTAgh0vfk4hQT-61V8ispP88yd-SAFbFCspxgLb0KR3sULkh4j4NLKqOfYTUOVynpc17uRynGFnhvRc8nSIdbYMhmEAkP2aUZcmTyWi-8OjSxaKV",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220925/607f1f3d68754fd0fafb72ff1e8391523b85625e927be353ad660f7c1166a94019aaf94c7a55f979_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c472ed828d2fef1a0Xd-0t27FVQ~",
+    "bossName": "王女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2cfd454a40efa7921HNy2d2_EFVS",
+    "expectId": 0,
+    "jobName": "it运维工程师",
+    "lid": "345YbBjEx3h.search.44",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "江宁区",
+    "businessDistrict": "东善桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 44,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.778784,
+        "latitude": 31.840034
+    },
+    "encryptBrandId": "f1c8705fd4f0f0e51XR93t2-",
+    "brandName": "浩鲸科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/b4a06a9d5f3f4c932534f72e84414d45cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "节日福利",
+        "定期体检",
+        "补充医疗保险",
+        "五险一金"
+    ],
+    "industry": 100024,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "Mia9XtQsM21TY-Y1G-Uh2FtW3c0fWgQb2Kqb4Hjb4Ou7Ql1F-ojrmvCcmldlD2hzVvxjYl0EtErB-vrOXkuXQptWg4f_Uwpib9wkhGSHWcPUnGGUSlUk5w-A_deDv6CcxWtucKLP0Hog",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180207/272947c00b7e96a4074dbc8e7588214bcfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "e5c30ccdd38eba541HZ529S6FFM~",
+    "bossName": "赵学锋",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "dc70cbb2ddef3d281nB_3dq8FVNU",
+    "expectId": 1014042683,
+    "jobName": "运维工程师",
+    "lid": "2b9iIT9zQzn.search.134",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Windows",
+        "应用运维",
+        "Apache"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "北京",
+    "areaDistrict": "朝阳区",
+    "businessDistrict": "立水桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 134,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.413736,
+        "latitude": 40.050236
+    },
+    "encryptBrandId": "bf6e8f468c3cb6ce1XFz2dW-EA~~",
+    "brandName": "品瑞文化",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201102/332b42eea5e1444ab9c5c63021f8ade118db6258028b7982f4d134d3038bee81_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "社交网络与媒体",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游"
+    ],
+    "industry": 100003,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,59 @@
+{
+    "securityId": "SW3RKJch7tK88-X1yWzgsEU6p5fXZmi_G9-oDu2s7OcANaaFa3_Ab4NyBgf9DppUfjg-Rpp8jS4ElwsGUbTgsYWqhXnrcaMOBJj5CTb_dt9iEXg-frGq",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240804/607f1f3d68754fd0c945e9ddec0e54050bbf3c1c9d6a7ad3b7175935bb5000fd8c621743b4debae6_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "05554dcf39d4bdaf0XN63dS5FlJU",
+    "bossName": "王先生",
+    "bossTitle": "技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b2a3bf54ef475e7b1HN_0ti7E1FU",
+    "expectId": 0,
+    "jobName": "安防运维技术员",
+    "lid": "1Fa8ri45aXG.search.135",
+    "salaryDesc": "5-6K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维",
+        "运维经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "开福区",
+    "businessDistrict": "月湖",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 135,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.035697,
+        "latitude": 28.252753
+    },
+    "encryptBrandId": "f4501d90c37c3b5c1HJ-3N25F1Q~",
+    "brandName": "湖南汇璟",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240804/7bf6f160950405e9bcec3ba10bccfd12913f54cd558f1abeb7175935bb5000fd8c621743b4debae6.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "意外险"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

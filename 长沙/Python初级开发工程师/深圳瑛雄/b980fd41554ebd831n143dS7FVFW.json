@@ -1,0 +1,61 @@
+{
+    "securityId": "0dinduZSlw4Hl-K1aeZm_X5OuDlyRs8Rz-50j-2mtwjS6SqfyHbYTjIMwh3BKz5SNod3_pfDmMeqYNoNf82Jro0fJZJ7TaxvNDHHEMPUmY1HH8S04dPZ",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_10.png",
+    "bossCert": 3,
+    "encryptBossId": "b4aace830b8bdd430nR929y7ElRX",
+    "bossName": "邓女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "b980fd41554ebd831n143dS7FVFW",
+    "expectId": 0,
+    "jobName": "Python初级开发工程师",
+    "lid": "Nz3PU3ZYyG.search.100",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "SQL",
+        "Python开发"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "马王堆",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 100,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.029717,
+        "latitude": 28.185775
+    },
+    "encryptBrandId": "d0fe547c65dcc6201nZ90ti8FVQ~",
+    "brandName": "深圳瑛雄",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "建筑设计",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "年终奖",
+        "带薪年假"
+    ],
+    "industry": 100703,
+    "contact": false,
+    "showTopPosition": false
+}

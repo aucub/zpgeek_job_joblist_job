@@ -1,0 +1,63 @@
+{
+    "securityId": "pix0Ji2ey1l5C-v1qUFFpqOUO4h48qfvQUAgDu9YWw6C-QQXgStBJM_E1eEfhoK8RJqNnTwkkIoe1HWOKvfiHWWYP_mb5HSx8DizImXwkKoQjKN5",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_1.png",
+    "bossCert": 3,
+    "encryptBossId": "475fb2a4002e8bdf0XF83tq-ElI~",
+    "bossName": "张女士",
+    "bossTitle": "HRM",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "88987010d51f509403F53di0F1M~",
+    "expectId": 0,
+    "jobName": "临床工程师",
+    "lid": "26Re4EiTa3k.search.28",
+    "salaryDesc": "6-9K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "性能测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "苏州",
+    "areaDistrict": "虎丘区",
+    "businessDistrict": "科技城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 28,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.435057,
+        "latitude": 31.312415
+    },
+    "encryptBrandId": "122c758245135bf91HZz2N--Fw~~",
+    "brandName": "苏州鱼跃医疗",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190321/ac6c93e8c6c8dfd0880f382bc8ae240d57713f80e4769e499a668be3cea44d2e.png",
+    "brandStageName": "已上市",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "带薪年假",
+        "员工旅游",
+        "年终奖"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

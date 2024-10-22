@@ -1,0 +1,62 @@
+{
+    "securityId": "ciykDBuhDjxsU-_1_JQIQ-cCpe2aHWGaUTdlU2yx-94hPg1NR85JYDigG9NLcWhu0xN1NwHmliZMbHWomtaT685wPN4s3ZYn1Xw3DcVjWphgj3nTY98~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221225/607f1f3d68754fd014ea7d2545bb91af0c9e249ebbcaaffa2a3fa457082c140612f476021747de6c_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "1e3f6149416d56820nZ939-1FlNT",
+    "bossName": "刘先生",
+    "bossTitle": "招聘专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e7f459e4b99f7a5c1nJy2Nu8EFNT",
+    "expectId": 0,
+    "jobName": "测试项目管理工程师",
+    "lid": "1a7kevHNfHJ.search.86",
+    "salaryDesc": "6-8K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C++"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "浦东新区",
+    "businessDistrict": "康桥",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 86,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.619042,
+        "latitude": 31.13462
+    },
+    "encryptBrandId": "3be1a4ca35d5e4551nR92dy4FQ~~",
+    "brandName": "昌硕科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20210603/c077a7764b8817ae3ac0c0165874d21a8de6cf5e5f1973596994f1eb49a0d764.png",
+    "brandStageName": "已上市",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "10000人以上",
+    "welfareList": [
+        "提供食宿",
+        "年终奖",
+        "五险一金",
+        "加班补助",
+        "带薪年假"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

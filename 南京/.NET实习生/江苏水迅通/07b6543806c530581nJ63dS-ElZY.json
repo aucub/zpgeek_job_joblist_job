@@ -1,0 +1,63 @@
+{
+    "securityId": "T5d5MOTuF1VAW-Q1Xg5KtswF63tyztO8zJEduvXY0BjZUIyJHeCRv3iadZRtuBL9zK_-Rnv93r9sZYDxp7iy-kdwfr6F_JghDWLyZAeHaw3SNcMzXB0~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/tmp/20210301/79165a5793b7888ffff3366ecf40f62e8f882ba83fef81c4034fbec4b9ed4b01_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "652f1c902cf23a4a0nVz2t27EFpQ",
+    "bossName": "雍女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "07b6543806c530581nJ63dS-ElZY",
+    "expectId": 0,
+    "jobName": ".NET实习生",
+    "lid": "2ZCyYFBET4I.search.208",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C#"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "南京",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 208,
+    "city": 101190100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.697343,
+        "latitude": 32.162385
+    },
+    "encryptBrandId": "9df091f4f2443ee81nR43dq8Fw~~",
+    "brandName": "江苏水迅通",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20230613/7b5b554d84f9729c6a77820aa89dfd0a6676314459f8ffee50805f6578db2f61e7f9dbbe361f97ee.jpg",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "团建聚餐",
+        "生日福利",
+        "五险一金",
+        "定期体检",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

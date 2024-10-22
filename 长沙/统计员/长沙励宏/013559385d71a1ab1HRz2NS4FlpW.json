@@ -1,0 +1,59 @@
+{
+    "securityId": "jonG5EL1hXtNX-J1rHAKVipiNku6IyuWVI8G3gg6L3rhEzM0G4VvRtWddAZfWbPg_WwmminGdDC5hwhP3OQJvHi6H-8Wj87o9hjC2MM0fZ10-LEWTM8Q",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20230907/607f1f3d68754fd076ddbf347a5e6c0667e2e0a236537aa03090e64968412ef1d051f37bfad550a6_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "03cf5601bfeef01d0nV50tq5FlVT",
+    "bossName": "李女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "013559385d71a1ab1HRz2NS4FlpW",
+    "expectId": 0,
+    "jobName": "统计员",
+    "lid": "2w1fnIUzJuS.search.157",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "物流客服"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "长沙县",
+    "businessDistrict": "榔梨镇",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 157,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.122646,
+        "latitude": 28.183772
+    },
+    "encryptBrandId": "0337662cf139e7511Xx83ty7ElU~",
+    "brandName": "长沙励宏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "其他生活服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "意外险",
+        "五险一金"
+    ],
+    "industry": 101106,
+    "contact": false,
+    "showTopPosition": false
+}

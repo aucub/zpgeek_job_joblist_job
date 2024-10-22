@@ -1,0 +1,60 @@
+{
+    "securityId": "XR_liJVakXCBC-_1-bJBF51L2Z8gDM_QtBjH2KTN895V1pbbsh3VQmn2nt6McXbkgx0VVNSUC8pjAy-B_xGUaQMuP_vqPEWGE9WFmGtRJxJO4eXM",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20181212/f1425a0cf7c439b8aa099a2fcc5708ce552d4d78cb0ca0554198676698876fd7_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "399b099862b122000nR5392-EFU~",
+    "bossName": "周女士",
+    "bossTitle": "副理事长",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "a55df6904b8121701HV70925E1E~",
+    "expectId": 0,
+    "jobName": "项目专员",
+    "lid": "2ZxU2zwf1lr.search.180",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "文档",
+        "实施",
+        "项目管理"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "新津区",
+    "businessDistrict": "瑞通路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 180,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.820103,
+        "latitude": 30.419969
+    },
+    "encryptBrandId": "e2c6ff59fbf5f4591HVy0929EA~~",
+    "brandName": "津安社工",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190215/9ac69397414f44b9ec4aa0cca10ebd31552d4d78cb0ca0554198676698876fd7.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "非盈利机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 101302,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "YBx5G47sFOylf-j1OgFHnFDEEyoc8HachCIcJ3tNeQ4aaDnfNuWvka8C-VirGbovq6z2z4SUdGJSIPf5B8uyQSx1pH6e6BzUudxIx7PprX9wcflMOhMP8mAEhpBv-4qQlSTw6Xn7NhMI9Q~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200809/b65498b4ab9147adc3eb97ed9bdadfe157e47b7895ac4eb9ec50824868cea0ea_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "abbbeff64dc855830nd_3tW4FlU~",
+    "bossName": "程浩",
+    "bossTitle": "电商负责人",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3ff1157eb3fc66901H17292-EVdQ",
+    "expectId": 1014042683,
+    "jobName": "商务助理",
+    "lid": "2DpgqVLxpZD.search.274",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1年以内",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电商/直播商务"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "杭州",
+    "areaDistrict": "滨江区",
+    "businessDistrict": "长河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 274,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.198105,
+        "latitude": 30.17716
+    },
+    "encryptBrandId": "21e4f20abe40d07c1HN939i-EFA~",
+    "brandName": "杭州星竹",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电子商务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "全勤奖",
+        "底薪加提成",
+        "绩效奖金",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100001,
+    "contact": false,
+    "showTopPosition": false
+}

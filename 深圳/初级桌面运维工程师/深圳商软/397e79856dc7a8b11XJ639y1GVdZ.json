@@ -1,0 +1,59 @@
+{
+    "securityId": "nROqrv2KhziTa-P1zjjYjOiq_w2QYZXDxO4lPOf5omfpMMLLWnFmrl6bC9tV4deMCSJV2YHl3YYNBeJv8i75eROU2tS6b8Z8R6kk-gfv7fK3ePAl",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180725/9cca65629ef7afe4f3504db7d9c37576745bec376177173fa0f3910df4e6a915_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c056dc65898268ed03d53tq7Els~",
+    "bossName": "张先生",
+    "bossTitle": "副总，工程总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "397e79856dc7a8b11XJ639y1GVdZ",
+    "expectId": 0,
+    "jobName": "初级桌面运维工程师",
+    "lid": "5EOXKpGfS3x.search.21",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "龙岗区",
+    "businessDistrict": "坂田",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 21,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.069092,
+        "latitude": 22.659664
+    },
+    "encryptBrandId": "1a77ab4c7912acde3n153tS4",
+    "brandName": "深圳商软",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210622/3021372f6d2f02d7c4b01e17d5dc6abb745bec376177173fa0f3910df4e6a915.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

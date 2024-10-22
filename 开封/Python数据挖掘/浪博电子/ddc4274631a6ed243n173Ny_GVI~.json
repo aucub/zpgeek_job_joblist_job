@@ -1,0 +1,61 @@
+{
+    "securityId": "-P98pzFC6aPNw-21-oCP7TRks8NFfrWU5iybiQbrmiX3zvhLo4xwpI2q_Pbj918Kor8uGvkCpwhUoQ2FkQy28mMP8P2Apxd7Dfiqsgt4qmJWZGGp7pZ05M6y4mVts0ZPcpH3p1RIiVQ~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190414/8da10ee4ee918932d72e5431758426b3cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "af4ed99d9fd985171HV40tq1FVs~",
+    "bossName": "袁攀",
+    "bossTitle": "总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "ddc4274631a6ed243n173Ny_GVI~",
+    "expectId": 1014042683,
+    "jobName": "Python数据挖掘",
+    "lid": "3nzlZTWaozl.search.7",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据挖掘"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "开封",
+    "areaDistrict": "龙亭区",
+    "businessDistrict": "万达广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 7,
+    "city": 101180800,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.255646,
+        "latitude": 34.807309
+    },
+    "encryptBrandId": "9e63e03dd985a6fd1nN_3Nm5Fw~~",
+    "brandName": "浪博电子",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190414/e38b90e6de54f8090c932b98ca923488600bb1d7a451bc69d8ddf896703c1bf8_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "员工旅游",
+        "餐补",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "5LRlVvXqyYN4s-31R4btK5huvSQ7PslXQ_rzJ5cHpM-TabmOJODSHNgDiOXncdqqITVrRP-WWlVeNV5oInTFxtuFch2-bIxZ0yHzV6R7AP5fGijT6Ysn",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "60a4caabb41cfd0e0nVy3du5GVVQ",
+    "bossName": "马先生",
+    "bossTitle": "技术",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e477eecb19599ec61nZ829S_FVFQ",
+    "expectId": 0,
+    "jobName": "自动化测试",
+    "lid": "5H4DAtP1ZUb.search.82",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "硬件",
+        "电气",
+        "CAD"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "沈阳",
+    "areaDistrict": "和平区",
+    "businessDistrict": "三好街",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 82,
+    "city": 101070100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 123.423136,
+        "latitude": 41.758328
+    },
+    "encryptBrandId": "ede63abfd5b169191nV-2Nm5EFE~",
+    "brandName": "沈阳中腾新能源",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201209/abe8db1fc73229be999814ef549bbb897346883981d29d5b1fe9a7b575beac0b_s.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "建筑材料",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "餐补"
+    ],
+    "industry": 100705,
+    "contact": false,
+    "showTopPosition": false
+}

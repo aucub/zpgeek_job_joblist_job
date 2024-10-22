@@ -1,0 +1,61 @@
+{
+    "securityId": "0fWKmBISpILUB-51PYpbzt3fpUG8Tkp4gpdcfB-72HGnsvKhH1V70o76vt_ROzs2pr_UnalHTcKGDu4yQNbzq5nQelKPhy2IjIaDxbSoJl_5JGCp_g~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240926/607f1f3d68754fd072d1843bd9e8b58acab6076ed6e79a750bda86e1c85d3ef8dce10affb1c59fff_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "2066d5b584f915da1HZ92NS5FVE~",
+    "bossName": "张先生",
+    "bossTitle": "CEO",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "01204ddb8000316f1HZ_2Nq-FVdS",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "5EOXKpGfS3x.search.34",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "系统运维",
+        "网络运维",
+        "IDC机房运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "坪山区",
+    "businessDistrict": "坑梓",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 34,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.40052,
+        "latitude": 22.703017
+    },
+    "encryptBrandId": "3c81a154ca367a4303d_392_EA~~",
+    "brandName": "科锐峰联",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "补充医疗保险"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

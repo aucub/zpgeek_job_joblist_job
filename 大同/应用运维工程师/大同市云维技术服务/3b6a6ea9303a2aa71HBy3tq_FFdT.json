@@ -1,0 +1,60 @@
+{
+    "securityId": "Xr9Qup1b0gE9_-g1MQDAl7gCLQ71aZcYtLz_zUhNExPWZzLZn8jKAJe-Eyc7TerzKvIyuzzkOaAS4MC0MA4ndabXQxBc43MU3JE1O80AqfplIayjyWry",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_2.png",
+    "bossCert": 3,
+    "encryptBossId": "5a80894103f2a08e0XB80tq5ElZR",
+    "bossName": "张女士",
+    "bossTitle": "行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3b6a6ea9303a2aa71HBy3tq_FFdT",
+    "expectId": 0,
+    "jobName": "应用运维工程师",
+    "lid": "5I7fotB7bwR.search.73",
+    "salaryDesc": "3-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业",
+        "运维经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "大同",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 73,
+    "city": 101100200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.366766,
+        "latitude": 40.097169
+    },
+    "encryptBrandId": "78efa6a5b1317acd1HB63ty4GVo~",
+    "brandName": "大同市云维技术服务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机硬件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "工龄奖",
+        "年终奖"
+    ],
+    "industry": 101404,
+    "contact": false,
+    "showTopPosition": false
+}

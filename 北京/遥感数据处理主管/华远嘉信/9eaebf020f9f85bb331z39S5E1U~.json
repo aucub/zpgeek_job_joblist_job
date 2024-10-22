@@ -1,0 +1,62 @@
+{
+    "securityId": "2w8dzrMhlxJhW-21oAGeHfu3iROdYIXZhijkKF8umfGSukY_WHM66ZbFYdQK5jpP2AbTeAGQIUTAGIlCCydzNy8u00yY6eU7b-wpYcFKxSUYNZMJqLchUOl8zoxQiF5KVq4JJTk-Cgc~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20200321/08a08fb5bb955a8e9c7e7991e044faa1cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "bdcd9719943df8b73n192Nu7GVY~",
+    "bossName": "史月华",
+    "bossTitle": "人力经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9eaebf020f9f85bb331z39S5E1U~",
+    "expectId": 1014042683,
+    "jobName": "遥感数据处理主管",
+    "lid": "2bd9CvlOKF4.search.83",
+    "salaryDesc": "3-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ArcGIS",
+        "遥感数据处理、土地管理、地理信息、航测、卫星影像、测绘",
+        "地理信息/测绘工程相关专业",
+        "AutoCAD/3ds Max",
+        "测绘内业数据处理经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "西北旺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 83,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.182432,
+        "latitude": 40.047945
+    },
+    "encryptBrandId": "3e7606db55cdaa850HF_2Ny5EA~~",
+    "brandName": "华远嘉信",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200727/3dde6e2eed8ac2af2c78ce520478ba3724e1da729e34225d941e82dbd0b03fa5_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "wCG4ojTpyLlPS-Q18k9j6BAiBKGXGVVIc_3nVd8eWs--RWlGZ8v5XeN9y8JuNlduJRe0_1rGN6mkEEayuML4ZLC4-S5obkt_A4qj7Z59lSAwVDlS_9fY",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "21296ca33d1af63f0nN829m_FFZW",
+    "bossName": "张先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3b5dd292a58eb7151XJ539m4EFJW",
+    "expectId": 0,
+    "jobName": "电子技术研发工程师",
+    "lid": "30exMOpcSCy.search.283",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "C语言",
+        "电路设计",
+        "Altium Designer"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "苏州",
+    "areaDistrict": "吴中区",
+    "businessDistrict": "越溪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 283,
+    "city": 101190400,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.603526,
+        "latitude": 31.190329
+    },
+    "encryptBrandId": "43f71a3c8dbd6f7c1XB809i-GFo~",
+    "brandName": "江苏天储科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "电子/半导体/集成电路",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "带薪年假",
+        "餐补",
+        "年终奖"
+    ],
+    "industry": 100026,
+    "contact": false,
+    "showTopPosition": false
+}

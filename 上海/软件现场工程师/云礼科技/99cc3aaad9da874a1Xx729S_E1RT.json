@@ -1,0 +1,63 @@
+{
+    "securityId": "ceuwWOdcTrhjA-P1QFuDJJsvbUCDbdQWd_aR8fn8bDKSw0IywMoB1adu9IiHRKkcVi4nCzGllbGF9VYBk6-tWTlcMdOutBnvdyhIxDVjtvVRYETwZg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180710/59a9c387b20d10e58c6ab20d14ce9ebdbd4cc15b94a67c65331f402c0544f90f_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "62675bef2dbb290703Z509i1GVs~",
+    "bossName": "瞿先生",
+    "bossTitle": "hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "99cc3aaad9da874a1Xx729S_E1RT",
+    "expectId": 0,
+    "jobName": "软件现场工程师",
+    "lid": "19kNaEECYqR.search.182",
+    "salaryDesc": "8-12K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "可适应出差",
+        "软件实施经验",
+        "Linux"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "普陀区",
+    "businessDistrict": "长风",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 182,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.391451,
+        "latitude": 31.235647
+    },
+    "encryptBrandId": "baf0e485711fca001XZz096-FQ~~",
+    "brandName": "云礼科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210529/d060e664e2c5713ab848fb8402f39ce73784cbab8ea75a8b41f1ff5eac10ac86.jpg",
+    "brandStageName": "A轮",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "五险一金",
+        "定期体检",
+        "带薪年假"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

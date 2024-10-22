@@ -1,0 +1,59 @@
+{
+    "securityId": "b9_1TZ_tZIzDD-H1-fkzlJjqS3TGMp-GAbLi1Ic6YjQEkgCSXYxmwOMQDE57TFsoXb3Knpy5UCk2N7yV0moiYt_u-ng7RG6NvXAwBsQM7hFQ0L8pz-Fm",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231212/607f1f3d68754fd084acab93ede57729472ee0baa1ba8977b8a2d0780ba0c18b23e73e02a061e453_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "09c149db5c8bd5350XZz2d21FlRS",
+    "bossName": "王先生",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "7ad60d20af5796551HZ93dq7F1VY",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "2Df72LBkNYO.search.289",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "济宁",
+    "areaDistrict": "任城区",
+    "businessDistrict": "万达",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 289,
+    "city": 101120700,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.603844,
+        "latitude": 35.408283
+    },
+    "encryptBrandId": "1e5e2f50fca2d9351HVz3dy9GVM~",
+    "brandName": "山东同一科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20231212/7bf6f160950405e974ee63ddeac6084255ac2eb01d4cc525b8a2d0780ba0c18b23e73e02a061e453.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "计算机服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期体检",
+        "五险一金"
+    ],
+    "industry": 100023,
+    "contact": false,
+    "showTopPosition": false
+}

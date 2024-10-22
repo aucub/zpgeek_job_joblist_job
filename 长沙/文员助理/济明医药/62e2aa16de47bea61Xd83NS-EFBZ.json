@@ -1,0 +1,63 @@
+{
+    "securityId": "ascS41QBjN3kl-715vQ65xvjA84VF87G9UJi3qZUQy1k1je_uYb26urThC7BRFzDVxa2KYzu2SPAhYsr526tVxwYL5eC1PFHziVB9WkHGe9dBdSqOEY~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220718/607f1f3d68754fd081079f7eaa69410dabd03a033412b4df58ac851b8f42c3c80145e5bee28bc40c_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "850f1f01122189fb0nF609W6EldW",
+    "bossName": "钱女士",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "62e2aa16de47bea61Xd83NS-EFBZ",
+    "expectId": 0,
+    "jobName": "文员助理",
+    "lid": "1HnUm0eWiFr.search.179",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "供应商管理",
+        "具备财务经验",
+        "文员"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "雨花区",
+    "businessDistrict": "汽车南站",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 179,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.019167,
+        "latitude": 28.097616
+    },
+    "encryptBrandId": "a716f96abde25f701nZ50tS8Fw~~",
+    "brandName": "济明医药",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20171116/d270f9ed7f480699c78ce91e5c3693e72e8e166600bc12ebdce9c2df447a0906.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "医疗健康",
+    "brandScaleName": "500-999人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "节日福利"
+    ],
+    "industry": 100006,
+    "contact": false,
+    "showTopPosition": false
+}

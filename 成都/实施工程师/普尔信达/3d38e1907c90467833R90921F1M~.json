@@ -1,0 +1,59 @@
+{
+    "securityId": "nX59gnfUuGeV1-q1ZA6wOg6fUIEESg0PWHZskTi3zEzLOq5Bpgcfh-t4-Ih6f0p8N2-ev9lr-dgQsDuaHHfdBoQsVLCX7CSvQT-m9kfE3beus04xqA~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "53b12a96b0289ee31nV739W9FFBW",
+    "bossName": "方先生",
+    "bossTitle": "招聘者",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3d38e1907c90467833R90921F1M~",
+    "expectId": 0,
+    "jobName": "实施工程师",
+    "lid": "33rJolUyVys.search.241",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施工程师/顾问",
+        "项目主管"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "大源",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 241,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.046992,
+        "latitude": 30.542766
+    },
+    "encryptBrandId": "6848cc33e606f63b33J70t6_FA~~",
+    "brandName": "普尔信达",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

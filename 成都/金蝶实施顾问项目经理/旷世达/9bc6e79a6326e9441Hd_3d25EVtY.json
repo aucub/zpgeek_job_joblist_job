@@ -1,0 +1,63 @@
+{
+    "securityId": "bV22VVM8YUv63-j1UoWsHaG678lGdcwysKOZu2rYa7GpecqPW9sWqxo9n8PiOJHQhO7l34XNfZUAT6SsqHJrpAqec68fUoEsNRdIrai7t9b63X1hTQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210509/008868ab5cc85f8d9a0f975a1eec5d4cec19c0bac6d10344b5f84a2eeb16ad13_s.png",
+    "bossCert": 3,
+    "encryptBossId": "5e5758ebbe33cf9c0Hx43dS-EVU~",
+    "bossName": "吕先生",
+    "bossTitle": "总经理&技术总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "9bc6e79a6326e9441Hd_3d25EVtY",
+    "expectId": 0,
+    "jobName": "金蝶实施顾问/项目经理",
+    "lid": "27MEyYRCflu.search.75",
+    "salaryDesc": "6-10K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ERP",
+        "OA",
+        "SCM",
+        "计算机相关专业",
+        "熟练掌握SQL语句",
+        "管理相关专业"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "成华区",
+    "businessDistrict": "龙潭",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 75,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.165662,
+        "latitude": 30.704209
+    },
+    "encryptBrandId": "f40bf0e3de80c23c0XV93NW6Ew~~",
+    "brandName": "旷世达",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

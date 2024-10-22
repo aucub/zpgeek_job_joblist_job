@@ -1,0 +1,59 @@
+{
+    "securityId": "QCumFvCrGyBRL-Y1FU2tKRxMfjz_gaW9J4XeFluMjrFwiq6H0KwjMin7y2gTeSkY-VPR7L0XFN27ciYhI4zpASk96RyR08R-3YY407JiBGHYFilkBHo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20220211/607f1f3d68754fd084a26dfcb7aa50c4c5b2e8f7892046f69773765f03f12f44a49416f8358bb21e_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "35360305767fc9890Xd_2Nm1FVE~",
+    "bossName": "存女士",
+    "bossTitle": "招聘经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "5ad02511744a46601X143NS7EFpX",
+    "expectId": 0,
+    "jobName": "测试工程师",
+    "lid": "1InLYc7vIZS.search.91",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "功能测试",
+        "测试工作经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长春",
+    "areaDistrict": "南关区",
+    "businessDistrict": "净月开发区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 91,
+    "city": 101060100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 125.37577,
+        "latitude": 43.815102
+    },
+    "encryptBrandId": "15a7cb444aee0a7a1nF829W1ElA~",
+    "brandName": "福瑗嘉宝",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20210527/abd65bbcbc4b57e418cee4acb91ee2c9e67742139bd434cdca258e7ffa16cd61.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,62 @@
+{
+    "securityId": "xuXwzoUni1oAg-M1-D9rnOE__a0d9oa5f2xrXr6lvIMRY9Z3SRot0EJKLTvS6CnHzervLzwFpZHcqtGXKw0RG81_1He-fK4MypTNSC_Yh-Dco78ORmc~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "701d35228afaba591nV70tS_FlNV",
+    "bossName": "李先生",
+    "bossTitle": "人事经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "acd02fbc2582486d1HZ439y7EFdS",
+    "expectId": 0,
+    "jobName": "自动化脚本工程师",
+    "lid": "33vHPOYhgJi.search.33",
+    "salaryDesc": "4-9K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "云控"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "车陂",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 33,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.384008,
+        "latitude": 23.116964
+    },
+    "encryptBrandId": "16dde64095b96f7d33Jy2NW5Eg~~",
+    "brandName": "广州欢乐互娱科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200609/d7a460910f583e64d545911f0bfd5f2f027f2c85284585cad17cf9fd061f8b76.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "音乐/视频/阅读",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "零食下午茶"
+    ],
+    "industry": 100011,
+    "contact": false,
+    "showTopPosition": false
+}

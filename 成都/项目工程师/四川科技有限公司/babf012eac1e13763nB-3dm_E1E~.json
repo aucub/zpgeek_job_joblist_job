@@ -1,0 +1,61 @@
+{
+    "securityId": "OjPL7yE1ru8j1--1NJBte2N_5FQ3d4X1OmsX-37-gmQQOXu-OduSfN7-rEej4lJfHy6z6fgavQz5UmC-jAKnNJwaDyQXia7-2-IwqYyymWrmrrNlIJk~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "5ff425c1044cc14f1nZ43tm9EFFS",
+    "bossName": "罗先生",
+    "bossTitle": "项目工程师",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "babf012eac1e13763nB-3dm_E1E~",
+    "expectId": 0,
+    "jobName": "项目工程师",
+    "lid": "33rJolUyVys.search.164",
+    "salaryDesc": "3-6K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "项目主管",
+        "项目专员",
+        "系统集成工程师"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "青羊区",
+    "businessDistrict": "鹏瑞利.青羊广场",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 164,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 103.964057,
+        "latitude": 30.672261
+    },
+    "encryptBrandId": "27f96fba53c5023f1nV42tS5F1M~",
+    "brandName": "四川科技有限公司",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/20180310/0f2ef5140160425fd989d87ead17cc9d33d208e8d6fc287973c46e5cb5346f06.png",
+    "brandStageName": "",
+    "brandIndustry": "学术/科研",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "定期体检",
+        "年终奖"
+    ],
+    "industry": 100304,
+    "contact": false,
+    "showTopPosition": false
+}

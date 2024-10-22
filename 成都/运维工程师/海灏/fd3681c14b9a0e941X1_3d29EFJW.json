@@ -1,0 +1,63 @@
+{
+    "securityId": "pE3Z9JqIxfN1r-x1pTke2R1S4J6XbcofGZtFKsUGSObtyHbmX9fKgbb2ZR7b-shPQxQrN001Kqa7SayTtOqkq609Wu4TZgaw0iXB6DC3PctjFryPQQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210719/bbf27d40572318f41709fee65486a9d1de0876909f12220978206268cb200705_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "097e8d72791bd2191HF43tW1FVM~",
+    "bossName": "胡女士",
+    "bossTitle": "服务运维主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fd3681c14b9a0e941X1_3d29EFJW",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "2Df72LBkNYO.search.211",
+    "salaryDesc": "3-4K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "桌面运维",
+        "系统运维"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "成都",
+    "areaDistrict": "武侯区",
+    "businessDistrict": "新会展中心",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 211,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.066465,
+        "latitude": 30.546034
+    },
+    "encryptBrandId": "c5319bd9c4e29e1c1n1z2N21Ew~~",
+    "brandName": "海灏",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190214/217f1f885fd91c82abc62f530f93d6ac6e6cfbfc8ee9b3007b7a6a4b81cc2729.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "企业服务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "五险一金",
+        "交通补助",
+        "加班补助",
+        "通讯补贴"
+    ],
+    "industry": 100015,
+    "contact": false,
+    "showTopPosition": false
+}

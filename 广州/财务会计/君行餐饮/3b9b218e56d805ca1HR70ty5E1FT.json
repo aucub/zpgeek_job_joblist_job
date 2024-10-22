@@ -1,0 +1,63 @@
+{
+    "securityId": "asSz3evDEUKqG-c1q4fp6EM0FtUrC9BlkHFsI1dNTktWd1dYhtb6vcQy_gLPVZt_eJX5efK8HQFePPg8iFc0HBo1p5xsxG3ZJFKikHeMyowqnomvdg~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "d90df88af55a98720n1629m5FVI~",
+    "bossName": "罗先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3b9b218e56d805ca1HR70ty5E1FT",
+    "expectId": 0,
+    "jobName": "财务会计",
+    "lid": "5GdUAQ7sE2w.search.224",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "成本",
+        "收入账",
+        "财务分析",
+        "应收应付",
+        "结算"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "白云区",
+    "businessDistrict": "人和",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 224,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.352826,
+        "latitude": 23.346464
+    },
+    "encryptBrandId": "778918677dcf8a8e03R429q4EA~~",
+    "brandName": "君行餐饮",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "餐饮",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险",
+        "意外保险"
+    ],
+    "industry": 101101,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,59 @@
+{
+    "securityId": "R9Djc9UNgdpjK-x1AyG63HryyL4quJSivNx99yVu3t2r4RwU9VJrJrUgGiKAycZAxFf55BqdnPXQyxcau4MYGMPNs87P-4kfR5DViYnLYOuGOMdmAzB7hTK5q5zxZZo1220ccNfwW7JTsw~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240721/607f1f3d68754fd042cc87c02899d4c7f03654837bd138bab216cc0e8971d3c94ac7afbb18d3b5c0_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "584d388054277fe01nV_0tW6FlE~",
+    "bossName": "闫女士",
+    "bossTitle": "hr",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "8377daf4b984380b1Hxy2tu_GFZV",
+    "expectId": 1014042683,
+    "jobName": "长白班运维值班员",
+    "lid": "2bLn38IPayA.search.123",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "基础设施运维 非it运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "顺义区",
+    "businessDistrict": "天竺",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 123,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.562323,
+        "latitude": 40.090263
+    },
+    "encryptBrandId": "153401f1025886811HB_3Ni1FFo~",
+    "brandName": "一零六八",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240725/7bf6f160950405e95630cf06111e16b169d88a3ed2bb5405b216cc0e8971d3c94ac7afbb18d3b5c0.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "通信/网络设备",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "夜班补助",
+        "五险一金"
+    ],
+    "industry": 101402,
+    "contact": false,
+    "showTopPosition": false
+}

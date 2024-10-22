@@ -1,0 +1,63 @@
+{
+    "securityId": "HrPz3Q87W8J60-C1Pa1ACt500Krqpfyr0GwDINxordWm3hl-9rF-Bznpg6O_S6qvJxdsOooefJwQR6d85tBGeQeeDFHvjx2KPNO2UF7NjRBrKWO2LQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "64ed5647978e69811Hx73dW9FFU~",
+    "bossName": "黄女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "166bbf6d354266681XZy3d-4ElBT",
+    "expectId": 0,
+    "jobName": "实施工程师",
+    "lid": "2AJrXCPXELR.search.212",
+    "salaryDesc": "5-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "需经常出差"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "西安",
+    "areaDistrict": "雁塔区",
+    "businessDistrict": "绿地世纪城",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 212,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.866084,
+        "latitude": 34.196287
+    },
+    "encryptBrandId": "8e0e667afe255e130HJ52dq-Eg~~",
+    "brandName": "振森智能",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20200418/657ea837dff4e6acdcb5c2bec493d1f3083c312507766e2881bf9830a8765b42_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "员工旅游",
+        "定期体检",
+        "交通补助",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

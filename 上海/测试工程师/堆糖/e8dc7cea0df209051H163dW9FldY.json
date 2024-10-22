@@ -1,0 +1,62 @@
+{
+    "securityId": "zFlKS6Brh0yWY-U1k_AIlZ02txRF9sLERYpmsNeso9_-Xh8fhLvmGGbqb-Z3BfK6XgzRq63zEDE85phzlWzX87r8f__13fCEYX7toqd90uDH3a0Yn2HQSLChT8HHYuK8tf_BXefSUQ~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20231022/607f1f3d68754fd02875cd84cdfd793b9012c474c515ba808a91600bfc99c6676af5d30e4a258604_s.png.webp",
+    "bossCert": 3,
+    "encryptBossId": "4384a561d68f542f0nd72929Fg~~",
+    "bossName": "何女士",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e8dc7cea0df209051H163dW9FldY",
+    "expectId": 1014042683,
+    "jobName": "测试工程师",
+    "lid": "2Al1BHOkb2x.search.272",
+    "salaryDesc": "8-13K·13薪",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "测试"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "上海",
+    "areaDistrict": "黄浦区",
+    "businessDistrict": "人民广场",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 272,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.477129,
+        "latitude": 31.239029
+    },
+    "encryptBrandId": "c589aef89930fc941HZ53dy_",
+    "brandName": "堆糖",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210128/c3f412d1b08fada7d27b09d08e6ab4818a91600bfc99c6676af5d30e4a258604_s.jpg",
+    "brandStageName": "B轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "餐补",
+        "定期体检",
+        "零食下午茶",
+        "五险一金",
+        "带薪年假"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,63 @@
+{
+    "securityId": "mGXjNHDUANXFa-01oYThq2AwqIh9cdxutu6zOKbKzg60e1N2z6ov2Gou-WHNSt8-4sv2-112ybQc6FkQ11ba0F_CE5tBKF7Otj96gX9RLzvVe8U2SMo~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200527/2a92f0e1c10ee9ba0413c7ca6e7c3986114797d171f0a894adabb0a4de3c9e36_s.png",
+    "bossCert": 3,
+    "encryptBossId": "d593152dd1e0f0451nV63tu9E1RY",
+    "bossName": "龚先生",
+    "bossTitle": "管理总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "e092e80118a74f691HF73dW9EFNV",
+    "expectId": 0,
+    "jobName": "运营助理/专员",
+    "lid": "3q3fjKnkTyM.search.160",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "用户运营",
+        "社区运营"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "武汉",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 160,
+    "city": 101200100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.260196,
+        "latitude": 30.6029
+    },
+    "encryptBrandId": "a22be383b09cafb833J40967FQ~~",
+    "brandName": "城晟燃气",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200608/bc0b3abc547795924e146c1e77a7c35b114797d171f0a894adabb0a4de3c9e36.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "其他专业服务",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "带薪年假",
+        "节日福利",
+        "零食下午茶"
+    ],
+    "industry": 100608,
+    "contact": false,
+    "showTopPosition": false
+}

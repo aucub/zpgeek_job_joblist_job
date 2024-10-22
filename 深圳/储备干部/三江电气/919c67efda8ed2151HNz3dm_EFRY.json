@@ -1,0 +1,59 @@
+{
+    "securityId": "u47CR7aDQhy4u-Z1iB3HrjwIpoWTi8YA3NxEwTEkFQG5O82cVy4_NL39Oz6j7evGmBYTfit5pb1aH50wLprWpIeI8C4s-Haz5CSaiBMIdAQTZkU67A~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200917/e55a7bad7130be9bba5b63435561b70c21579a74ca7a89d706920de73040fb72_s.png",
+    "bossCert": 3,
+    "encryptBossId": "9b29406bc582c55f1HZy39W7EVA~",
+    "bossName": "曹女士",
+    "bossTitle": "人事",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "919c67efda8ed2151HNz3dm_EFRY",
+    "expectId": 0,
+    "jobName": "储备干部",
+    "lid": "5GzZeJuYk14.search.285",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "电气、机电一体化"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "深圳",
+    "areaDistrict": "",
+    "businessDistrict": "",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 285,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 114.272093,
+        "latitude": 22.758582
+    },
+    "encryptBrandId": "0ec546c748b844a90XB62d-_Ew~~",
+    "brandName": "三江电气",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20220318/7b5b554d84f9729ca625a60d315eb69781085dccf333b99f4a2f7ede5fed04e35b62cb3057f699f5.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "机电工程",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "全勤奖",
+        "定期体检"
+    ],
+    "industry": 100710,
+    "contact": false,
+    "showTopPosition": false
+}

@@ -1,0 +1,61 @@
+{
+    "securityId": "_IIRym-QwPMKh-p1jydc3uN_PagMIYAqQA7MPaN7mZDmZodOdq7tTjOxNavwvRDWd54eMWE29MkGgQLnK7DdZdav9zbqD28F_68juXXzhT9M6BBL6Ao~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210825/607f1f3d68754fd04fd8070c19b9395615b66c591c209cdd8d75654870e32b833ce88524efa65eb4_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "c400be244179c76a1XV529W9FVE~",
+    "bossName": "王先生",
+    "bossTitle": "主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "d1d8e4fc11cd295a1XV43964GFRU",
+    "expectId": 0,
+    "jobName": "Python",
+    "lid": "1IFNuv4Rm4A.search.69",
+    "salaryDesc": "5-10K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "Oracle",
+        "Python"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "西安",
+    "areaDistrict": "雁塔区",
+    "businessDistrict": "绿地世纪城",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 69,
+    "city": 101110100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 108.885362,
+        "latitude": 34.19714
+    },
+    "encryptBrandId": "af29a94ac1337bec1nZy39-9GFA~",
+    "brandName": "苏州威达数据科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20201113/e9d719bc636a787acdd533308bd56e0d63a9d1f809da8b95a356f9e2a018e1e2_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "节日福利"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

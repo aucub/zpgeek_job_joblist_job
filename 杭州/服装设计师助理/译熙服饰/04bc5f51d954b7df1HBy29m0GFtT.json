@@ -1,0 +1,61 @@
+{
+    "securityId": "GZyl9fwcQVtZ0-619Mw5b7LBI21HBlKj0MHoUnDHSlt1uuu3oFSc_AFSj-eRFlJpXuMFUVVF6wF7Z4nHJeFLJr36W5yTjmq8xuNSXHJ1usnCjxrTTuog",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "e740c9bf8b52742e0XZ43Nm4FVdQ",
+    "bossName": "张女士",
+    "bossTitle": "公司经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "04bc5f51d954b7df1HBy29m0GFtT",
+    "expectId": 0,
+    "jobName": "服装设计师助理",
+    "lid": "1JZJNSJNHU9.search.137",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "服装",
+        "女装"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "临平区",
+    "businessDistrict": "临平",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 137,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.302562,
+        "latitude": 30.40171
+    },
+    "encryptBrandId": "e48cfcc6f3e0b1f71XB-2Nq-EVA~",
+    "brandName": "译熙服饰",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "批发/零售",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "绩效奖金",
+        "年终奖",
+        "餐补"
+    ],
+    "industry": 100503,
+    "contact": false,
+    "showTopPosition": false
+}

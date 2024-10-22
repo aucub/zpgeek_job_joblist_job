@@ -1,0 +1,60 @@
+{
+    "securityId": "JTgb_4fplKkrd-u1UnyosK0krrnPLjveY5wbYCY0HtNv_U38Wfyim0YOc4zajocp1X7xCbaltsbpTor82_4BP5SbYS7J4CfZMZY-hvwA046j5MFlyTAjY7c7bkNV5jT49GLBx8_64uhm9Q~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240903/607f1f3d68754fd09f9f159fd661a24ef9b29fab92d9c4174522272e822d36484ab698f04c8006ba_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "68a358fe12e695ef1XJ509i1Fls~",
+    "bossName": "赵女士",
+    "bossTitle": "人事总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "c31ff7239eed64451H1729q0F1JS",
+    "expectId": 1014042683,
+    "jobName": "软件实施",
+    "lid": "3mTSsrbAdgE.search.133",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "ERP",
+        "计算机相关专业",
+        "软件实施经验"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "重庆",
+    "areaDistrict": "南岸区",
+    "businessDistrict": "南坪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 133,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.563248,
+        "latitude": 29.531674
+    },
+    "encryptBrandId": "9947b8959fd0e34f1nd839-0GFo~",
+    "brandName": "重庆远无涯",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240903/7bf6f160950405e900b24abf4e0434d36465b9ee71888a674522272e822d36484ab698f04c8006ba.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "大数据",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金"
+    ],
+    "industry": 100005,
+    "contact": false,
+    "showTopPosition": false
+}

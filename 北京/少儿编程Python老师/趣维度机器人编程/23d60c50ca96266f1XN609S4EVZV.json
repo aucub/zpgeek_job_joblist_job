@@ -1,0 +1,62 @@
+{
+    "securityId": "OvhgXTLEIQR1I-W12aBF2_tYN3UJYOC3AIb0mN9xi7sLCnGRcO60v_rnONnDx4_6Y1fi0pb-7gsV0Y9nGReeSCGDcy-A_Ry9TvB9nYN9qJeeHLSJTh2t",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "4036dc2d7e61cd1e0nB63dS4FlVZ",
+    "bossName": "张先生",
+    "bossTitle": "商务经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "23d60c50ca96266f1XN609S4EVZV",
+    "expectId": 0,
+    "jobName": "少儿编程Python老师",
+    "lid": "1exw99PRiQ6.search.235",
+    "salaryDesc": "8-13K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "少儿编程",
+        "python"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "北京",
+    "areaDistrict": "海淀区",
+    "businessDistrict": "清河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 235,
+    "city": 101010100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 116.348174,
+        "latitude": 40.028512
+    },
+    "encryptBrandId": "f27adde5c248fc231nd-3Ny0E1E~",
+    "brandName": "趣维度机器人编程",
+    "brandLogo": "https://c-res.zhipin.com/jrs/6_135f8173f127788c95b96c0dd7c02e3d.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "年终奖",
+        "绩效奖金",
+        "带薪年假"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

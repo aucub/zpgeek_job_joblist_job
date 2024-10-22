@@ -1,0 +1,63 @@
+{
+    "securityId": "ZcEvK1qlbCQE6-Y12liTBfANkZlqvsCPKa0hIcgA95u3RcvphgYElZO1HnfOheKfV3RGiPiuJhEBCXiT9jCaC2yCijVqCGjh5XncKPLLnNrul7Cm470bw85sLsWzEbw7JDq0DR5lb0Q~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190226/ae1153d909cfc30827ed05a0520a82fe46500051c7b37a82dcb9678494042f07_s.png",
+    "bossCert": 3,
+    "encryptBossId": "d541cd182a8b39800nF42dq6Flo~",
+    "bossName": "陈汉卿",
+    "bossTitle": "技术经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "26282625406987051HF52960GVc~",
+    "expectId": 1030426395,
+    "jobName": "金蝶软件实施工程师",
+    "lid": "M8x1Ivsbu7.search.197",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施",
+        "解决方案",
+        "需求分析"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "厦门",
+    "areaDistrict": "思明区",
+    "businessDistrict": "禾祥西路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 197,
+    "city": 101230200,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 118.090851,
+        "latitude": 24.468193
+    },
+    "encryptBrandId": "08eb02b7becd144d1XV52t-9EQ~~",
+    "brandName": "金意恒金蝶软件",
+    "brandLogo": "https://img.bosszhipin.com/beijin/icon/894ce6fa7e58d64d57e7f22d2f3a9d18afa7fcceaa24b8ea28f56f1bb14732c0.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "节日福利",
+        "五险一金",
+        "带薪年假",
+        "年终奖"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

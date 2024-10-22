@@ -1,0 +1,62 @@
+{
+    "securityId": "gBJxWagrzZOS9-k12F-g5X6Ak9VwUBSbXlHVS5ixss8VItv3UPhEKTjWuFAt1nIaZHIVZfejlwQ3aUN5LxOsSJU8lBHQwrQK8-cNnf0cwwf3ENKx9QUe",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20240725/607f1f3d68754fd0a143364766778c5eccbd75d242808a927159096a24c97cde75d478f50bc4544d_s.jpg.webp",
+    "bossCert": 3,
+    "encryptBossId": "627f03212486657d1nV43Nq1ElZX",
+    "bossName": "伍女士",
+    "bossTitle": "人事专员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "86860034f2533f7f1HN63dS7GVpV",
+    "expectId": 0,
+    "jobName": "运维工程师",
+    "lid": "1Fa8ri45aXG.search.297",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "网络运维",
+        "系统运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "芙蓉区",
+    "businessDistrict": "马王堆",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 297,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.001113,
+        "latitude": 28.195141
+    },
+    "encryptBrandId": "a4775c271a1abad41nNy3ti-FVc~",
+    "brandName": "斑鸠奢品",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230318/7bf6f160950405e937777c063a6bea7e2e16e8e4194ffe1cf9185903097fca0d7a33aa5ab0926018.jpg",
+    "brandStageName": "天使轮",
+    "brandIndustry": "互联网",
+    "brandScaleName": "100-499人",
+    "welfareList": [
+        "团建聚餐",
+        "零食下午茶",
+        "生日福利",
+        "节日福利"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

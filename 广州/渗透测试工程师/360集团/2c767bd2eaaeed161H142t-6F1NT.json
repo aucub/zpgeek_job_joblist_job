@@ -1,0 +1,63 @@
+{
+    "securityId": "Jkj0A7AVrVXKG-r16Sh8zP-LHxAwPVsWn3OzRSyy6AMYkbV2qd6ny27LCMvLd6u_SVk5YvqkoVeh6Wz3s2NxH3GATawSEocoFVpVb-55VLO9niCygOA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20180307/6c0bdadea3d25fd929a4b159913b57f1cfcd208495d565ef66e7dff9f98764da_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "8d349d85edbf77221HF-2tm5EVc~",
+    "bossName": "赵先生",
+    "bossTitle": "高级总监",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "2c767bd2eaaeed161H142t-6F1NT",
+    "expectId": 0,
+    "jobName": "渗透测试工程师",
+    "lid": "3syQyWa7wh2.search.191",
+    "salaryDesc": "8-12K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "渗透测试经验",
+        "攻防对抗经验"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "广州",
+    "areaDistrict": "天河区",
+    "businessDistrict": "棠下",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 191,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.408828,
+        "latitude": 23.1186
+    },
+    "encryptBrandId": "825f0be0dd10b3991nZ-3N-8EFQ~",
+    "brandName": "360集团",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/banner/6f7a18626c1cc6e21f414890d4c084a9cfcd208495d565ef66e7dff9f98764da.jpg",
+    "brandStageName": "D轮及以上",
+    "brandIndustry": "互联网",
+    "brandScaleName": "1000-9999人",
+    "welfareList": [
+        "带薪年假",
+        "餐补",
+        "免费班车",
+        "五险一金",
+        "定期体检"
+    ],
+    "industry": 100020,
+    "contact": false,
+    "showTopPosition": false
+}

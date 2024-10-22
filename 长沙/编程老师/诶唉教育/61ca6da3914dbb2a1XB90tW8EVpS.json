@@ -1,0 +1,61 @@
+{
+    "securityId": "6HYBQYYqkzRqE-j1dZ_990E6XY4TbiemielYq_3A-KbTG6HI4h35VWymli1Ko1UCp5CevO9y4DpnAEvmJzyL_KN9JX7w58tZ34XDooVyaaBhEAoqtg~~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210303/bb2d74f529e727dd5db79c3e3071324beb2c536cace7c0a14b12f0c9b5d7edcc_s.jpg",
+    "bossCert": 3,
+    "encryptBossId": "31b3c89fa6ad0a630HZ_3d-1GFs~",
+    "bossName": "潘女士",
+    "bossTitle": "前台行政",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "61ca6da3914dbb2a1XB90tW8EVpS",
+    "expectId": 0,
+    "jobName": "编程老师",
+    "lid": "MVXD4O61ua.search.54",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "教师",
+        "编程",
+        "乐高"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "长沙",
+    "areaDistrict": "望城区",
+    "businessDistrict": "月亮岛",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 54,
+    "city": 101250100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 112.919043,
+        "latitude": 28.288623
+    },
+    "encryptBrandId": "3333c7b569cc09ae33V90tm0FQ~~",
+    "brandName": "诶唉教育",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200507/1f4a266a0d1d93ed2dd19566d6ff98fbd42b3b0e71f15965bd2389f7fa34b905.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "培训/辅导机构",
+    "brandScaleName": "0-20人",
+    "welfareList": [
+        "五险一金",
+        "加班补助"
+    ],
+    "industry": 100303,
+    "contact": false,
+    "showTopPosition": false
+}

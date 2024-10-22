@@ -1,0 +1,62 @@
+{
+    "securityId": "GNqn1rKvHetYt-j1Us0e9T5r0vzrFfSZs-Uj0wLcU8lBBfXb5Z0Y4unkwU2fGWvu6L55W_ZybUGW_5DVGzLFAEtu-Xf0aVC6B2LigfNPmOi6PoEsmv4~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+    "bossCert": 3,
+    "encryptBossId": "7ecd649b87cad9640n192dm_GVFQ",
+    "bossName": "潘女士",
+    "bossTitle": "行政人员",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "080165bdbd38b7c91HJy2d64F1dV",
+    "expectId": 0,
+    "jobName": "助理产品设计师",
+    "lid": "1h2GxVH9BNF.search.225",
+    "salaryDesc": "4-7K",
+    "jobLabels": [
+        "经验不限",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数字化口腔",
+        "口腔医学"
+    ],
+    "jobExperience": "经验不限",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "深圳",
+    "areaDistrict": "宝安区",
+    "businessDistrict": "沙井",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 225,
+    "city": 101280600,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.824971,
+        "latitude": 22.755894
+    },
+    "encryptBrandId": "2fe4cc24e5cc8c5b3nZ53NW4Fw~~",
+    "brandName": "爱贝医疗",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20240719/7bf6f160950405e9be06b884b95c5447ff2cef60605fb776e51e5924b659d5af3b8ef9159dd0dedd.png.webp",
+    "brandStageName": "未融资",
+    "brandIndustry": "医疗器械",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "五险一金",
+        "定期体检",
+        "年终奖",
+        "节日福利"
+    ],
+    "industry": 100403,
+    "contact": false,
+    "showTopPosition": false
+}

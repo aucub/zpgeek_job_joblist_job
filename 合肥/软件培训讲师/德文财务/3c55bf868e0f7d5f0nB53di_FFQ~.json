@@ -1,0 +1,62 @@
+{
+    "securityId": "f9iw8fm9cEwhc-r1QAryQsmIuXOCKt9AywDtp8-6k5ezEiquUxsom1JjIKat8ACCkqHusR4JSvplMtgZGoLlA4bBWRQRlGRor4bAKWxDGXb5PETm_OUtfdPa6tBzeYGwuMT_nGUgg2A~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20190318/54f60c2d714aef3eb3e15cf7584f7a07b61d84e699b9539869bfde43b7cd2d89_s.png",
+    "bossCert": 3,
+    "encryptBossId": "7fdcb64d1ca3b2670nN82di8F1Y~",
+    "bossName": "高洋",
+    "bossTitle": "财税顾问",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "3c55bf868e0f7d5f0nB53di_FFQ~",
+    "expectId": 1014042683,
+    "jobName": "软件培训讲师",
+    "lid": "5E4ZsFV9tCN.search.222",
+    "salaryDesc": "4-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "会销讲师"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "合肥",
+    "areaDistrict": "蜀山区",
+    "businessDistrict": "高新区",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 222,
+    "city": 101220100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 117.201021,
+        "latitude": 31.823534
+    },
+    "encryptBrandId": "bc4f3cdad187acad1HR73Nq0FQ~~",
+    "brandName": "德文财务",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20190509/9ae9cde62967bba2c3206690f039a5b5bcb2ef0e73bdf73776317d4fddd44e92.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "财务/审计/税务",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "带薪年假",
+        "加班补助",
+        "交通补助",
+        "五险一金",
+        "全勤奖"
+    ],
+    "industry": 100605,
+    "contact": false,
+    "showTopPosition": false
+}

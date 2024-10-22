@@ -1,0 +1,61 @@
+{
+    "securityId": "T5HB4skUFil5u-Z10MQzFAv9xuAShj_mbGEgG4z40XGzGnzWuAwqOUvPTxgYQIZBQLL8a9hC2xKez_CHn04Ov45fe-_YsG_7QKRzOiU0wmCo93vDhwA~",
+    "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20221029/607f1f3d68754fd003571ab880469a05746650d29f18c3a5f7d8b2090cb7747cf2d38c3b4a267a31_s.png",
+    "bossCert": 3,
+    "encryptBossId": "c18a0c80adc7d7321nRy09u7EVVS",
+    "bossName": "李先生",
+    "bossTitle": "经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fd7ff05f91efad8d1XF52NW5GVVZ",
+    "expectId": 0,
+    "jobName": "声环境自动监测站常规运维",
+    "lid": "27oha1crmMa.search.199",
+    "salaryDesc": "4-5K",
+    "jobLabels": [
+        "1-3年",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施交付运维",
+        "安装售后",
+        "设备运维"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "成都",
+    "areaDistrict": "锦江区",
+    "businessDistrict": "沙河",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 199,
+    "city": 101270100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 104.119949,
+        "latitude": 30.629748
+    },
+    "encryptBrandId": "63e440c3084c3c2a03B53Nm5EA~~",
+    "brandName": "天府智诚",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230815/7bf6f160950405e9069d5f386b212710fa293884120ebcd4f7d8b2090cb7747cf2d38c3b4a267a31.png.webp",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "环保",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "节日福利",
+        "年终奖"
+    ],
+    "industry": 101207,
+    "contact": false,
+    "showTopPosition": false
+}

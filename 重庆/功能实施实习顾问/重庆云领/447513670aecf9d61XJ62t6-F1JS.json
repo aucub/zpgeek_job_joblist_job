@@ -1,0 +1,63 @@
+{
+    "securityId": "d0Ca14M7nWvGQ-C1pZAO44J-QZUKhT6Vxp1THyBG9gkTz7lAqWca6YscuWUEyMYBmVSJQkBptcKgkmaTkOZj_CJgsL8WsAEYUIP4IVka9ciqH69R1wtlzMIQdT-pjzlOkohnmxsaLHUD-IU~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "encryptBossId": "7bc44962c18baae20nFz3dS4F1BR",
+    "bossName": "陈冠竹",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "447513670aecf9d61XJ62t6-F1JS",
+    "expectId": 1014042683,
+    "jobName": "功能实施实习顾问",
+    "lid": "5E4ZsFV9tCN.search.175",
+    "salaryDesc": "4-7K·13薪",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "计算机相关专业"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "重庆",
+    "areaDistrict": "沙坪坝区",
+    "businessDistrict": "西永",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 175,
+    "city": 101040100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 106.370642,
+        "latitude": 29.600321
+    },
+    "encryptBrandId": "b18d634b9840dd4e1Xd62d-6ElY~",
+    "brandName": "重庆云领",
+    "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20220914/7bf6f160950405e9ed5e73f1f598183ffe55d57dc044470858b970027c5f3fe74fdf134b7582d6b4.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "生日福利",
+        "通讯补贴",
+        "带薪年假",
+        "节假日加班费",
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

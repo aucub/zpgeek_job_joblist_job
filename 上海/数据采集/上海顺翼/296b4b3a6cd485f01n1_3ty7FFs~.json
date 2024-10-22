@@ -1,0 +1,61 @@
+{
+    "securityId": "siQFqByImDlHn-g13NOPNLF33Bcq8KhMGz8DnhH9mBh2wdTFxCP9NyOvVn7SR3eHM0tuEVhNVFJ1eQZzbBPnhAnTmgE_obYvYWYqAatPewEbGBU~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_6.png",
+    "bossCert": 3,
+    "encryptBossId": "0dd83defd5da5c841X1_3dW4E1s~",
+    "bossName": "李先生",
+    "bossTitle": "副总经理",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "296b4b3a6cd485f01n1_3ty7FFs~",
+    "expectId": 0,
+    "jobName": "数据采集",
+    "lid": "16WcCeo5Jnx.search.152",
+    "salaryDesc": "6-7K",
+    "jobLabels": [
+        "1年以内",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "数据传输",
+        "网络爬虫",
+        "Python"
+    ],
+    "jobExperience": "1年以内",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "上海",
+    "areaDistrict": "杨浦区",
+    "businessDistrict": "四平路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 152,
+    "city": 101020100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 121.4995,
+        "latitude": 31.28019
+    },
+    "encryptBrandId": "62a944f839cba3e533Zy3t-6",
+    "brandName": "上海顺翼",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "未融资",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "保底工资",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

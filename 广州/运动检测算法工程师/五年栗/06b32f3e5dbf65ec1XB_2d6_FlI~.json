@@ -1,0 +1,60 @@
+{
+    "securityId": "I8YoTYp7zuUaD-01_TL5IB5CFwaRfTXDGltZcv0Q3TyY8eUV13GRXGlKK9mPzNGslUamFQ-8LzCggozJE89afIjavvsUPuB185PpWIh5j1E5MKE~",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_7.png",
+    "bossCert": 3,
+    "encryptBossId": "4b63bf7fb2c597ea1XJy0967F1Q~",
+    "bossName": "陈先生",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "06b32f3e5dbf65ec1XB_2d6_FlI~",
+    "expectId": 0,
+    "jobName": "运动检测算法工程师",
+    "lid": "2ZL38frwumL.search.136",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "在校/应届",
+        "本科"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "算法",
+        "数据分析"
+    ],
+    "jobExperience": "在校/应届",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "本科",
+    "cityName": "广州",
+    "areaDistrict": "番禺区",
+    "businessDistrict": "南村",
+    "jobType": 5,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 136,
+    "city": 101280100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 113.365436,
+        "latitude": 23.017223
+    },
+    "encryptBrandId": "b270c78ccbf95a660XVy2NW5",
+    "brandName": "五年栗",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170512/f26146d1bc102c97cc63e3539d68bb0c690cfa4356e0019e0b6acc03f4654fbe.jpg",
+    "brandStageName": "不需要融资",
+    "brandIndustry": "智能硬件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "团建聚餐",
+        "零食下午茶"
+    ],
+    "industry": 100018,
+    "contact": false,
+    "showTopPosition": false
+}

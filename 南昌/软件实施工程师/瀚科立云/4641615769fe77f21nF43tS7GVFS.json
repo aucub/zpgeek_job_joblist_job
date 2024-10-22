@@ -1,0 +1,60 @@
+{
+    "securityId": "SV4uEZ_B82ZA7-q10fTjYi5pJp6KP6BhLta53OU4A3yxIA_1oSKEvMepflWnHvEuB7CIMbBNCMMpwYusbom7j8JPlAfKpRlzM94DfH6lG4ZWYLGvZKwK",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+    "bossCert": 3,
+    "encryptBossId": "338ca96e157c18950nZy2dy7EFJY",
+    "bossName": "朱女士",
+    "bossTitle": "人事主管",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "4641615769fe77f21nF43tS7GVFS",
+    "expectId": 0,
+    "jobName": "软件实施工程师",
+    "lid": "5HmZ4fYPl8Y.search.287",
+    "salaryDesc": "5-8K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "实施工程师/顾问",
+        "软件实施"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "南昌",
+    "areaDistrict": "东湖区",
+    "businessDistrict": "阳明路",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 287,
+    "city": 101240100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 115.908064,
+        "latitude": 28.688172
+    },
+    "encryptBrandId": "8e92d306adf0ca1f1nF90ti4E1M~",
+    "brandName": "瀚科立云",
+    "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+    "brandStageName": "",
+    "brandIndustry": "计算机软件",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "年终奖",
+        "五险一金"
+    ],
+    "industry": 100021,
+    "contact": false,
+    "showTopPosition": false
+}

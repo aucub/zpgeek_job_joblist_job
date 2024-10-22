@@ -1,0 +1,62 @@
+{
+    "securityId": "72w5u7rfnCgZ_-71fxxbTjQkbKA7VmCZue4yqCegv25v4lwMG-H5DPLd18rGEExPFyw7eBZA0UJyxC3os1tpzzAT8slNs5rO1SI851jGFBK-Phy7-j52jwUT1yaEp3CXCcdJ-xFx65g9",
+    "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+    "bossCert": 3,
+    "encryptBossId": "2182cafaa18ab58a33B93dW-FVM~",
+    "bossName": "吴豫琪",
+    "bossTitle": "HR",
+    "goldHunter": 0,
+    "bossOnline": false,
+    "encryptJobId": "fcebc210e2bb84801nB93du6FVBV",
+    "expectId": 1014042683,
+    "jobName": "弱电项目经理助理",
+    "lid": "32ECao4nEFE.search.172",
+    "salaryDesc": "4-6K",
+    "jobLabels": [
+        "1-3年",
+        "大专"
+    ],
+    "jobValidStatus": 1,
+    "iconWord": "",
+    "skills": [
+        "技术管理"
+    ],
+    "jobExperience": "1-3年",
+    "daysPerWeekDesc": "",
+    "leastMonthDesc": "",
+    "jobDegree": "大专",
+    "cityName": "杭州",
+    "areaDistrict": "西湖区",
+    "businessDistrict": "西溪",
+    "jobType": 0,
+    "proxyJob": 0,
+    "proxyType": 0,
+    "anonymous": 0,
+    "outland": 0,
+    "optimal": 0,
+    "iconFlagList": [],
+    "itemId": 172,
+    "city": 101210100,
+    "isShield": 0,
+    "atsDirectPost": false,
+    "gps": {
+        "longitude": 120.073956,
+        "latitude": 30.290867
+    },
+    "encryptBrandId": "f8b87ee29f2a535a0nR92d-6Eg~~",
+    "brandName": "汉商科技",
+    "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20190712/7ba026c650c88d57174d698ae0b90e80a44f818d48e030ace82282145e923c63_s.jpg",
+    "brandStageName": "未融资",
+    "brandIndustry": "工程施工",
+    "brandScaleName": "20-99人",
+    "welfareList": [
+        "定期体检",
+        "年终奖",
+        "带薪年假",
+        "员工旅游",
+        "节日福利"
+    ],
+    "industry": 100702,
+    "contact": false,
+    "showTopPosition": false
+}
