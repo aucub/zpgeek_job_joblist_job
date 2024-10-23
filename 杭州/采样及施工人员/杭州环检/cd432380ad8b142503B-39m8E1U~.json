@@ -1,0 +1,60 @@
+{
+  "anonymous": 0,
+  "areaDistrict": "萧山区",
+  "atsDirectPost": false,
+  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_14.png",
+  "bossCert": 3,
+  "bossName": "陈先生",
+  "bossOnline": false,
+  "bossTitle": "总经理",
+  "brandIndustry": "检测/认证",
+  "brandLogo": "https://img.bosszhipin.com/beijin/upload/com/logo/20200108/f80cbe610534a10a497d1b1432e8b8187a4525f6a239fea5e150671de080829f.png",
+  "brandName": "杭州环检",
+  "brandScaleName": "0-20人",
+  "brandStageName": "未融资",
+  "businessDistrict": "新塘",
+  "city": 101210100,
+  "cityName": "杭州",
+  "contact": false,
+  "daysPerWeekDesc": "",
+  "encryptBossId": "e993c9a5060476a403d92Nu-GFs~",
+  "encryptBrandId": "c83c5132377d195c1XB-2N69Fw~~",
+  "encryptJobId": "cd432380ad8b142503B-39m8E1U~",
+  "expectId": 0,
+  "goldHunter": 0,
+  "gps": {
+    "longitude": 120.315861,
+    "latitude": 30.147874
+  },
+  "iconFlagList": [],
+  "iconWord": "",
+  "industry": 100606,
+  "isShield": 0,
+  "itemId": 200,
+  "jobDegree": "本科",
+  "jobExperience": "经验不限",
+  "jobLabels": [
+    "经验不限",
+    "本科"
+  ],
+  "jobName": "采样及施工人员",
+  "jobType": 0,
+  "jobValidStatus": 1,
+  "leastMonthDesc": "",
+  "lid": "6E86Cb9RPRf.search.200",
+  "optimal": 0,
+  "outland": 0,
+  "proxyJob": 0,
+  "proxyType": 0,
+  "salaryDesc": "3-8K",
+  "securityId": "gim6zyfHwl35I-n1NmcgzXrhEqsHB08ikrU6NmjgAQeOUgym3TWIhzJZFSWTNXgRLrjEjhO_n7P6eYvLi0YBQKbjqdvUIyZJEHMFG3_PSzaqhM7L",
+  "showTopPosition": false,
+  "skills": [
+    "检测",
+    "治理施工",
+    "项目管理"
+  ],
+  "welfareList": [
+    "五险一金"
+  ]
+}

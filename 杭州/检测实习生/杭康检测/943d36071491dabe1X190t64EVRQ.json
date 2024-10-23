@@ -1,0 +1,62 @@
+{
+  "anonymous": 0,
+  "areaDistrict": "拱墅区",
+  "atsDirectPost": false,
+  "bossAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20191031/6fde4dd03f3042440c783addd155e0d08315b239711a7a6d7edbcf7fee7586e6_s.jpg",
+  "bossCert": 3,
+  "bossName": "王女士",
+  "bossOnline": false,
+  "bossTitle": "综合管理部经理",
+  "brandIndustry": "检测/认证",
+  "brandLogo": "https://img.bosszhipin.com/beijin/app/mobile/normal-0e3f1e4441a21d4874cece3a3d81f0fe.png",
+  "brandName": "杭康检测",
+  "brandScaleName": "100-499人",
+  "brandStageName": "",
+  "businessDistrict": "三墩",
+  "city": 101210100,
+  "cityName": "杭州",
+  "contact": false,
+  "daysPerWeekDesc": "",
+  "encryptBossId": "600d6fab86c8bc8d0nFy39W7EVE~",
+  "encryptBrandId": "a9e65749c6762e101nNy3t--Elo~",
+  "encryptJobId": "943d36071491dabe1X190t64EVRQ",
+  "expectId": 0,
+  "goldHunter": 0,
+  "gps": {
+    "longitude": 120.107575,
+    "latitude": 30.336787
+  },
+  "iconFlagList": [],
+  "iconWord": "",
+  "industry": 100606,
+  "isShield": 0,
+  "itemId": 164,
+  "jobDegree": "大专",
+  "jobExperience": "经验不限",
+  "jobLabels": [
+    "经验不限",
+    "大专"
+  ],
+  "jobName": "检测实习生",
+  "jobType": 0,
+  "jobValidStatus": 1,
+  "leastMonthDesc": "",
+  "lid": "6E86Cb9RPRf.search.164",
+  "optimal": 0,
+  "outland": 0,
+  "proxyJob": 0,
+  "proxyType": 0,
+  "salaryDesc": "3-4K",
+  "securityId": "KAdxWpioJ7nME-_1MG_hLfsPASCiCGYyzVdoJhDqBm0BhLtWqb7wMZrgpOfusB-_GyWH1BuKQxFq10WlGSgfaNJpLav8o3NhVbBud4o7-1YTom3vHs0~",
+  "showTopPosition": false,
+  "skills": [
+    "实习岗"
+  ],
+  "welfareList": [
+    "节日福利",
+    "带薪年假",
+    "定期体检",
+    "员工旅游",
+    "五险一金"
+  ]
+}
