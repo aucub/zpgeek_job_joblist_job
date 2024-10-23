@@ -1,0 +1,63 @@
+{
+  "anonymous": 0,
+  "areaDistrict": "闵行区",
+  "atsDirectPost": false,
+  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_9.png",
+  "bossCert": 3,
+  "bossName": "沈女士",
+  "bossOnline": false,
+  "bossTitle": "行政",
+  "brandIndustry": "计算机软件",
+  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20210408/87b2dd4d8735dec4c8fbdc5c6e92f8ce1c38bd2773756d2d14230b67b1c002a7_s.jpg",
+  "brandName": "有亿信息",
+  "brandScaleName": "20-99人",
+  "brandStageName": "未融资",
+  "businessDistrict": "虹桥",
+  "city": 101020100,
+  "cityName": "上海",
+  "contact": false,
+  "daysPerWeekDesc": "",
+  "encryptBossId": "a4bfc2b9dcc1197303160tu1Flo~",
+  "encryptBrandId": "4129d12c226dd9401HR82t--Fw~~",
+  "encryptJobId": "da03acca13fa32431nZ73N60E1FZ",
+  "expectId": 0,
+  "goldHunter": 0,
+  "gps": {
+    "longitude": 121.392937,
+    "latitude": 31.17049
+  },
+  "iconFlagList": [],
+  "iconWord": "",
+  "industry": 100021,
+  "isShield": 0,
+  "itemId": 219,
+  "jobDegree": "大专",
+  "jobExperience": "经验不限",
+  "jobLabels": [
+    "经验不限",
+    "大专"
+  ],
+  "jobName": "系统运维工程师（应届毕业生）",
+  "jobType": 0,
+  "jobValidStatus": 1,
+  "leastMonthDesc": "",
+  "lid": "6EARJM3FbQq.search.219",
+  "optimal": 0,
+  "outland": 0,
+  "proxyJob": 0,
+  "proxyType": 0,
+  "salaryDesc": "6-8K·13薪",
+  "securityId": "LI0zuutIhr9qt-f18c5C8E72K4d9KS1oZHRQcb-rBeFhajpwJDII1PggfxjVb5JV2LIPHCaoJkxyf6r__R6oB1wChRJiXIE7Pd1lHhz_EYV3n4H1Hg~~",
+  "showTopPosition": false,
+  "skills": [
+    "计算机软件",
+    "系统运维"
+  ],
+  "welfareList": [
+    "五险一金",
+    "节日福利",
+    "零食下午茶",
+    "年终奖",
+    "员工旅游"
+  ]
+}

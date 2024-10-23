@@ -1,0 +1,61 @@
+{
+  "anonymous": 0,
+  "areaDistrict": "金山区",
+  "atsDirectPost": false,
+  "bossAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_3.png",
+  "bossCert": 3,
+  "bossName": "倪女士",
+  "bossOnline": false,
+  "bossTitle": "人事",
+  "brandIndustry": "原材料及加工/模具",
+  "brandLogo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180823/a3e29246658b8fad33ef7b5b0452aa6acfcd208495d565ef66e7dff9f98764da.jpg",
+  "brandName": "派瑞特",
+  "brandScaleName": "100-499人",
+  "brandStageName": "不需要融资",
+  "businessDistrict": "亭林",
+  "city": 101020100,
+  "cityName": "上海",
+  "contact": false,
+  "daysPerWeekDesc": "",
+  "encryptBossId": "221b2c5b2fc7fb231nR93tu7GFRZ",
+  "encryptBrandId": "ba51affc2575be461XFz2tS8GQ~~",
+  "encryptJobId": "6c8798cc55bba22733190t67EVs~",
+  "expectId": 0,
+  "goldHunter": 0,
+  "gps": {
+    "longitude": 121.321938,
+    "latitude": 30.885482
+  },
+  "iconFlagList": [],
+  "iconWord": "",
+  "industry": 100903,
+  "isShield": 0,
+  "itemId": 267,
+  "jobDegree": "大专",
+  "jobExperience": "1-3年",
+  "jobLabels": [
+    "1-3年",
+    "大专"
+  ],
+  "jobName": "系统运维、IT技术支持",
+  "jobType": 0,
+  "jobValidStatus": 1,
+  "leastMonthDesc": "",
+  "lid": "6EARJM3FbQq.search.267",
+  "optimal": 0,
+  "outland": 0,
+  "proxyJob": 0,
+  "proxyType": 0,
+  "salaryDesc": "6-8K",
+  "securityId": "hwl9oVKVoPZcM-715xmPIvsIhYd4Rwjy50bbVBf0VUmy0Bqkazd-Fzq_uRoq_PbhcINpLzcLTD7VqcmePT0O1iCMXsbLNLqXbf-hOdtSg_7qxpLn8w~~",
+  "showTopPosition": false,
+  "skills": [
+    "网络运维",
+    "IT技术支持",
+    "系统运维",
+    "系统管理员"
+  ],
+  "welfareList": [
+    "加班补助"
+  ]
+}
